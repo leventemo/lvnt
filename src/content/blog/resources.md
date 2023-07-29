@@ -18,19 +18,19 @@ An incomplete and ever growing list of resources I find useful, in no particular
 
 | Blog                                                        |   CSS   |   JS    |  React  | Angular | Testing |
 | :---------------------------------------------------------- | :-----: | :-----: | :-----: | :-----: | :-----: |
-| [CSS-Tricks](https://css-tricks.com/)                       | &check; |         |         |         |
-| [Modern CSS Solutions](https://moderncss.dev/)              | &check; |         |         |         |
-| [Sara Soueidan](https://www.sarasoueidan.com/)              | &check; |         |         |         |
-| [Alligator.io](https://alligator.io/)                       | &check; | &check; | &check; |         |
-| [Go Make Things](https://gomakethings.com/articles/)        |         | &check; |         |         |
-| [Flavio Copes](...)                                         |         | &check; |         |         |
-| [Josh W. Cameau](https://www.joshwcomeau.com/)              | &check; |         | &check; |         |
-| [Tania Rascia](https://www.taniarascia.com/)                |         | &check; | &check; |         |
-| [Wes Bos](https://wesbos.com/tips)                          |         | &check; |         |         |
-| [ui.dev](https://ui.dev/blog/)                              |         | &check; | &check; |         |
-| [Robin Wieruch](https://www.robinwieruch.de/blog)           |         |         | &check; |         |
-| [Armen Vardanyan](https://dev.to/armandotrue)               |         |         |         | &check; |
-| [Alain Chautard](https://blog.angulartraining.com/)         |         |         |         | &check; |
+| [CSS-Tricks](https://css-tricks.com/)                       | &check; |         |         |         |         |
+| [Modern CSS Solutions](https://moderncss.dev/)              | &check; |         |         |         |         |
+| [Sara Soueidan](https://www.sarasoueidan.com/)              | &check; |         |         |         |         |
+| [Alligator.io](https://alligator.io/)                       | &check; | &check; | &check; |         |         |
+| [Go Make Things](https://gomakethings.com/articles/)        |         | &check; |         |         |         |
+| [Flavio Copes](...)                                         |         | &check; |         |         |         |
+| [Josh W. Cameau](https://www.joshwcomeau.com/)              | &check; |         | &check; |         |         |
+| [Tania Rascia](https://www.taniarascia.com/)                |         | &check; | &check; |         |         |
+| [Wes Bos](https://wesbos.com/tips)                          |         | &check; |         |         |         |
+| [ui.dev](https://ui.dev/blog/)                              |         | &check; | &check; |         |         |
+| [Robin Wieruch](https://www.robinwieruch.de/blog)           |         |         | &check; |         |         |
+| [Armen Vardanyan](https://dev.to/armandotrue)               |         |         |         | &check; |         |
+| [Alain Chautard](https://blog.angulartraining.com/)         |         |         |         | &check; |         |
 | [Software Testing Notes](https://softwaretestingnotes.com/) |         |         |         |         | &check; |
 | [Guru99](https://www.guru99.com)                            |         |         |         |         | &check; |
 

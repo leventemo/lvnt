@@ -16,44 +16,44 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ## 📙 Done
 
-| Completed | Course / Book                                                                                                                             |            by...            |
-| :-------- | :---------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------: |
-| 2023/07   | [Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/)                                                       |           [Astro]           |
-| 2023/06   | [ISTQB Foundation Level Syllabus v4.0 (CTFL)](https://www.istqb.org/news/posts/istqb-releases-certified-tester-foundation-level-v40-ctfl) |           [ISTQB]           |
-| 2023/05   | [SQL for Data Analysis](https://www.linkedin.com/learning/sql-for-data-analysis)                                                          |      [Nikiya Simpson]       |
-| 2023/05   | [Selenium Essential Training](https://www.linkedin.com/learning/selenium-essential-training)                                              |       [Meaghan Lewis]       |
-| 2023/05   | [Agile Project Management: Comparing Agile Tools](https://www.linkedin.com/learning/agile-project-management-comparing-agile-tools-2021)  |          Doug Rose          |
-| 2023/05   | [WebSocket Communications with Node and Angular](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular)        |        Patrick Siewe        |
-| 2022/10   | [TypeScript: Object-Oriented Programming](https://www.linkedin.com/learning/typescript-object-oriented-programming)                       |       [Dylan Israel]        |
-| 2022/10   | [The SQL Handbook](https://thevalleyofcode.com/sql/)                                                                                      |       [Flavio Copes]        |
-| 2022/07   | [Learning RxJS](https://www.linkedin.com/learning/learning-rxjs/)                                                                         |    [Bonnie Jean Brennan]    |
-| 2022/03   | [Learn Angular Material](https://www.youtube.com/watch?v=jUfEn032IL8)                                                                     |       [Codevolution]        |
-| 2021/12   | [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/)                             |       [Mosh Hamedani]       |
-| 2021/10   | [Angular Crash Course](https://www.youtube.com/watch?v=3dHNOWTI7H8)                                                                       |       [Brad Traversy]       |
-| 2021/08   | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/)            |        [James Quick]        |
-| 2021/02   | [HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu&index=24)                         |       [Brad Traversy]       |
-| 2021/02   | [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)                                                                         |       [Brad Traversy]       |
-| 2021/02   | [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/)                                                           |       [Brad Traversy]       |
-| 2020/11   | [Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)                               |         [Academind]         |
-| 2020/09   | [React for Beginners](https://reactforbeginners.com/)                                                                                     |          [Wes Bos]          |
-| 2020/06   | [CSS Grid](https://cssgrid.io/)                                                                                                           |          [Wes Bos]          |
-| 2020/04   | [Beginner Javascript](https://wesbos.com/beginner-javascript)                                                                             |          [Wes Bos]          |
-| 2020/04   | [Mastering Markdown](https://wesbos.com/mastering-markdown)                                                                               |          [Wes Bos]          |
-| 2019/12   | [Command Line Power User](https://wesbos.com/command-line-video-tutorials)                                                                |          [Wes Bos]          |
-| 2019/11   | [The JavaScript Handbook ](https://flaviocopes.com/page/javascript-handbook/)                                                             |       [Flavio Copes]        |
-| 2019/09   | [The CSS Handbook ](https://flaviocopes.com/page/css-handbook/)                                                                           |       [Flavio Copes]        |
-| 2019/08   | [The HTML Handbook ](https://flaviocopes.com/page/html-handbook/)                                                                         |       [Flavio Copes]        |
-| 2019/05   | [PHP OOP](https://tutorials.supunkavinda.blog/php/oop-intro)                                                                              |       [Supun Kavinda]       |
-| 2018/11   | [What The Flexbox?!](https://flexbox.io/)                                                                                                 |          [Wes Bos]          |
-| 2018/08   | [The PHP Practitioner](https://laracasts.com/series/php-for-beginners)                                                                    |         [Laracasts]         |
-| 2018/04   | [Simply SQL](https://www.sitepoint.com/premium/books/simply-sql)                                                                          |       [Rudy Limeback]       |
-| 2017/12   | [Bootstrap 4 Beta Course ](https://www.sitepoint.com/premium/courses/introduction-to-bootstrap-4-2984)                                    |       [Jason Brewer]        |
-| 2017/12   | [Git & GitHub Crash Course For Beginners ](https://www.youtube.com/watch?v=SWYqp7iY_Tc)                                                   |       [Brad Traversy]       |
-| 2017/12   | [Jump Start PHP Environment](https://www.sitepoint.com/premium/books/jump-start-php-environment)                                          |       [Bruno Skvorc]        |
-| 2017/10   | [PHP & MySQL: Novice to Ninja](https://www.sitepoint.com/premium/books/php-mysql-novice-to-ninja-6th-edition)                             | [Tom Butler] & [Kevin Yank] |
-| 2017/09   | [JavaScript: Novice to Ninja, 2nd Edition](https://www.sitepoint.com/premium/books/javascript-novice-to-ninja-2nd-edition)                |       [Darren Jones]        |
-| 2016/03   | [The Complete Web Developer Course 2.0 ](https://www.udemy.com/course/the-complete-web-developer-course-2/)                               |       [Rob Percival]        |
-| 2015/08   | [JavaScript & jQuery](http://javascriptbook.com/)                                                                                         |        [Jon Duckett]        |
+| Completed | Course / Book                                                                                                                       |          by...          |
+| :-------- | :---------------------------------------------------------------------------------------------------------------------------------- | :---------------------: |
+| 2023/07   | [Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/)                                                 |         [Astro]         |
+| 2023/06   | [ISTQB Foundation Syllabus v4.0 (CTFL)](https://www.istqb.org/news/posts/istqb-releases-certified-tester-foundation-level-v40-ctfl) |         [ISTQB]         |
+| 2023/05   | [SQL for Data Analysis](https://www.linkedin.com/learning/sql-for-data-analysis)                                                    |    [Nikiya Simpson]     |
+| 2023/05   | [Selenium Essential Training](https://www.linkedin.com/learning/selenium-essential-training)                                        |     [Meaghan Lewis]     |
+| 2023/05   | [Comparing Agile Tools](https://www.linkedin.com/learning/agile-project-management-comparing-agile-tools-2021)                      |        Doug Rose        |
+| 2023/05   | [WebSocket Communications with Node & Angular](https://www.linkedin.com/learning/websocket-communications-with-node-and-angular)    |      Patrick Siewe      |
+| 2022/10   | [TypeScript: Object-Oriented Programming](https://www.linkedin.com/learning/typescript-object-oriented-programming)                 |     [Dylan Israel]      |
+| 2022/10   | [The SQL Handbook](https://thevalleyofcode.com/sql/)                                                                                |     [Flavio Copes]      |
+| 2022/07   | [Learning RxJS](https://www.linkedin.com/learning/learning-rxjs/)                                                                   |   [Bonnie J. Brennan]   |
+| 2022/03   | [Learn Angular Material](https://www.youtube.com/watch?v=jUfEn032IL8)                                                               |     [Codevolution]      |
+| 2021/12   | [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/)                       |     [Mosh Hamedani]     |
+| 2021/10   | [Angular Crash Course](https://www.youtube.com/watch?v=3dHNOWTI7H8)                                                                 |     [Brad Traversy]     |
+| 2021/08   | [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/)      |      [James Quick]      |
+| 2021/02   | [HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu&index=24)                   |     [Brad Traversy]     |
+| 2021/02   | [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)                                                                   |     [Brad Traversy]     |
+| 2021/02   | [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/)                                                     |     [Brad Traversy]     |
+| 2020/11   | [Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)                         |       [Academind]       |
+| 2020/09   | [React for Beginners](https://reactforbeginners.com/)                                                                               |        [Wes Bos]        |
+| 2020/06   | [CSS Grid](https://cssgrid.io/)                                                                                                     |        [Wes Bos]        |
+| 2020/04   | [Beginner Javascript](https://wesbos.com/beginner-javascript)                                                                       |        [Wes Bos]        |
+| 2020/04   | [Mastering Markdown](https://wesbos.com/mastering-markdown)                                                                         |        [Wes Bos]        |
+| 2019/12   | [Command Line Power User](https://wesbos.com/command-line-video-tutorials)                                                          |        [Wes Bos]        |
+| 2019/11   | [The JavaScript Handbook ](https://flaviocopes.com/page/javascript-handbook/)                                                       |     [Flavio Copes]      |
+| 2019/09   | [The CSS Handbook ](https://flaviocopes.com/page/css-handbook/)                                                                     |     [Flavio Copes]      |
+| 2019/08   | [The HTML Handbook ](https://flaviocopes.com/page/html-handbook/)                                                                   |     [Flavio Copes]      |
+| 2019/05   | [PHP OOP](https://tutorials.supunkavinda.blog/php/oop-intro)                                                                        |     [Supun Kavinda]     |
+| 2018/11   | [What The Flexbox?!](https://flexbox.io/)                                                                                           |        [Wes Bos]        |
+| 2018/08   | [The PHP Practitioner](https://laracasts.com/series/php-for-beginners)                                                              |       [Laracasts]       |
+| 2018/04   | [Simply SQL](https://www.sitepoint.com/premium/books/simply-sql)                                                                    |     [Rudy Limeback]     |
+| 2017/12   | [Bootstrap 4 Beta Course ](https://www.sitepoint.com/premium/courses/introduction-to-bootstrap-4-2984)                              |     [Jason Brewer]      |
+| 2017/12   | [Git & GitHub Crash Course For Beginners ](https://www.youtube.com/watch?v=SWYqp7iY_Tc)                                             |     [Brad Traversy]     |
+| 2017/12   | [Jump Start PHP Environment](https://www.sitepoint.com/premium/books/jump-start-php-environment)                                    |     [Bruno Skvorc]      |
+| 2017/10   | [PHP & MySQL: Novice to Ninja](https://www.sitepoint.com/premium/books/php-mysql-novice-to-ninja-6th-edition)                       | [T. Butler] & [K. Yank] |
+| 2017/09   | [JavaScript: Novice to Ninja, 2nd Edition](https://www.sitepoint.com/premium/books/javascript-novice-to-ninja-2nd-edition)          |     [Darren Jones]      |
+| 2016/03   | [The Complete Web Developer Course 2.0 ](https://www.udemy.com/course/the-complete-web-developer-course-2/)                         |     [Rob Percival]      |
+| 2015/08   | [JavaScript & jQuery](http://javascriptbook.com/)                                                                                   |      [Jon Duckett]      |
 
 ## 🐜 Working on right now
 
@@ -162,71 +162,71 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 [done]: https://img.icons8.com/android/20/000000/checked.png "Done"
 
-| Skill                   | Introduction | Occasional Use | Regular Use |
-| :---------------------- | :----------: | :------------: | :---------: |
-| **HTML5**               |   &check;    |    &check;     |   &check;   |
-| **CSS3**                |   &check;    |    &check;     |   &check;   |
-| **CSS Flexbox**         |   &check;    |    &check;     |   &check;   |
-| **CSS Grid**            |   &check;    |    &check;     |   &check;   |
-| **Bootstrap**           |   &check;    |    &check;     |             |
-| **Bulma**               |   &check;    |    &check;     |             |
-| **Sass**                |     soon     |                |             |
-| **CSS Animation**       |   &check;    |    &check;     |             |
-| **Markdown**            |   &check;    |    &check;     |   &check;   |
-| **SVG**                 |   &check;    |    &check;     |             |
-| **JavaScript**          |   &check;    |    &check;     |   &check;   |
-| **TypeScript**          |   &check;    |    &check;     |   &check;   |
-| **Regex**               |   &check;    |    &check;     |             |
-| **Git**                 |   &check;    |    &check;     |   &check;   |
-| **GitHub**              |   &check;    |    &check;     |   &check;   |
-| **Angular**             |   &check;    |    &check;     |   &check;   |
-| **OOP**                 |   &check;    |    &check;     |             |
-| **RxJS**                |   &check;    |    &check;     |             |
-| **Angular Material**    |   &check;    |    &check;     |   &check;   |
-| **NPM**                 |   &check;    |    &check;     |   &check;   |
-| **Node.js**             |   &check;    |    &check;     |             |
-| **Express.js**          |   &check;    |                |             |
-| **Consuming APIs**      |   &check;    |    &check;     |             |
-| **Creating REST APIs**  |   &check;    |                |             |
-| **Unit Testing**        |   &check;    |    &check;     |             |
-| **Integration Testing** |     soon     |                |             |
-| **End-to-end Testing**  |     soon     |                |             |
-| **Test Automation**     |   &check;    |                |             |
-| **Text To Speech**      |   &check;    |                |             |
-| **Websockets**          |   &check;    |                |             |
-| **SQL**                 |   &check;    |                |             |
-| **PostgreSQL**          |     soon     |                |             |
-| **MongoDB**             |   &check;    |    &check;     |             |
-| **Firebase**            |   &check;    |                |             |
-| **Custom e-commerce**   |     soon     |                |             |
-| **Deployment**          |   &check;    |    &check;     |             |
-| **Data Visualization**  |     soon     |                |             |
-| **Accessibility**       |   &check;    |                |             |
-| **React**               |   &check;    |                |             |
-| **Redux**               |   &check;    |                |             |
+| Skill                   |  Intro  | Occasional Use | Regular Use |
+| :---------------------- | :-----: | :------------: | :---------: |
+| **HTML5**               | &check; |    &check;     |   &check;   |
+| **CSS3**                | &check; |    &check;     |   &check;   |
+| **CSS Flexbox**         | &check; |    &check;     |   &check;   |
+| **CSS Grid**            | &check; |    &check;     |   &check;   |
+| **Bootstrap**           | &check; |    &check;     |             |
+| **Bulma**               | &check; |    &check;     |             |
+| **Sass**                |  soon   |                |             |
+| **CSS Animation**       | &check; |    &check;     |             |
+| **Markdown**            | &check; |    &check;     |   &check;   |
+| **SVG**                 | &check; |    &check;     |             |
+| **JavaScript**          | &check; |    &check;     |   &check;   |
+| **TypeScript**          | &check; |    &check;     |   &check;   |
+| **Regex**               | &check; |    &check;     |             |
+| **Git**                 | &check; |    &check;     |   &check;   |
+| **GitHub**              | &check; |    &check;     |   &check;   |
+| **Angular**             | &check; |    &check;     |   &check;   |
+| **OOP**                 | &check; |    &check;     |             |
+| **RxJS**                | &check; |    &check;     |             |
+| **Angular Material**    | &check; |    &check;     |   &check;   |
+| **NPM**                 | &check; |    &check;     |   &check;   |
+| **Node.js**             | &check; |    &check;     |             |
+| **Express.js**          | &check; |                |             |
+| **Consuming APIs**      | &check; |    &check;     |             |
+| **Creating REST APIs**  | &check; |                |             |
+| **Unit Testing**        | &check; |    &check;     |             |
+| **Integration Testing** |  soon   |                |             |
+| **End-to-end Testing**  |  soon   |                |             |
+| **Test Automation**     | &check; |                |             |
+| **Text To Speech**      | &check; |                |             |
+| **Websockets**          | &check; |                |             |
+| **SQL**                 | &check; |                |             |
+| **PostgreSQL**          |  soon   |                |             |
+| **MongoDB**             | &check; |    &check;     |             |
+| **Firebase**            | &check; |                |             |
+| **Custom e-commerce**   |  soon   |                |             |
+| **Deployment**          | &check; |    &check;     |             |
+| **Data Visualization**  |  soon   |                |             |
+| **Accessibility**       | &check; |                |             |
+| **React**               | &check; |                |             |
+| **Redux**               | &check; |                |             |
 
 &nbsp;
 
 ## 🧰 Tooling
 
-| Tool                   | Introduction | Occasional Use | Regular Use |
-| :--------------------- | :----------: | :------------: | :---------: |
-| **iTerm – Oh My Zsh**  |   &check;    |    &check;     |   &check;   |
-| **Visual Studio Code** |   &check;    |    &check;     |   &check;   |
-| **EsLint – Prettier**  |   &check;    |    &check;     |   &check;   |
-| **Parcel**             |   &check;    |    &check;     |             |
-| **Vite**               |   &check;    |    &check;     |             |
-| **Jasmine**            |   &check;    |                |             |
-| **Jest**               |   &check;    |                |             |
-| **Postman**            |   &check;    |    &check;     |             |
-| **Selenium**           |   &check;    |                |             |
-| **TablePlus**          |   &check;    |                |             |
+| Tool                   |  Intro  | Occasional Use | Regular Use |
+| :--------------------- | :-----: | :------------: | :---------: |
+| **iTerm – Oh My Zsh**  | &check; |    &check;     |   &check;   |
+| **Visual Studio Code** | &check; |    &check;     |   &check;   |
+| **EsLint – Prettier**  | &check; |    &check;     |   &check;   |
+| **Parcel**             | &check; |    &check;     |             |
+| **Vite**               | &check; |    &check;     |             |
+| **Jasmine**            | &check; |                |             |
+| **Jest**               | &check; |                |             |
+| **Postman**            | &check; |    &check;     |             |
+| **Selenium**           | &check; |                |             |
+| **TablePlus**          | &check; |                |             |
 
 &nbsp;
 
 [//]: # "Reference links to courses"
 [Angular University]: https://www.udemy.com/user/vascocavalheiro/
-[Bonnie Jean Brennan]: https://twitter.com/bonnster75
+[Bonnie J. Brennan]: https://twitter.com/bonnster75
 [Stephen Grider]: https://www.udemy.com/user/sgslo/
 [Thomas Weibenfalk]: https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg
 [James Quick]: https://discord.com/invite/vM2bagU
@@ -236,10 +236,10 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 [Jason Brewer]: https://www.linkedin.com/in/jbrewer3
 [Supun Kavinda]: https://twitter.com/_SupunKavinda
 [Darren Jones]: https://www.sitepoint.com/author/djones
-[Tom Butler]: https://www.sitepoint.com/author/tbutler
+[T. Butler]: https://www.sitepoint.com/author/tbutler
 [Laracasts]: https://laracasts.com/topics/php
 [Rudy Limeback]: https://www.sitepoint.com/author/rudy-limeback
-[Kevin Yank]: https://www.sitepoint.com/author/kevin-yank
+[K. Yank]: https://www.sitepoint.com/author/kevin-yank
 [Brad Traversy]: https://www.traversymedia.com/
 [Bruno Skvorc]: https://www.sitepoint.com/author/bskvorc
 [Jon Duckett]: https://www.amazon.com/Jon-Duckett/e/B001IR3Q7I%3Fref=dbs_a_mng_rwt_scns_share
