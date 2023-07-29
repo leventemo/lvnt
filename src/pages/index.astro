@@ -19,31 +19,32 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Aye</h1>
-      <p>lvnt is short for Levente, my first name.</p>
-      <p>Notes of someone trying to think – or remember something :)</p>
-      <div class="spacer"></div>
-      <p class="footnote">
-        Built with
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://astro.build/"
-        >
-          Astro
-        </LinkButton>, using a beautiful
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper"
-        >
-          theme
-        </LinkButton> by
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://satnaing.dev/"
-        >
-          Sat Naing
-        </LinkButton> as a starting-point.
+      <p>
+        Hi, I'm Levente and this space is mostly about web development and
+        software testing. Notes of someone trying to think – or remember things
+        :)
       </p>
+      <div class="spacer"></div>
+      <div class="footnote-wrapper">
+        <p class="footnote">
+          built with
+          <LinkButton
+            className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+            href="https://astro.build/"
+          >
+            Astro
+          </LinkButton>
+        </p>
+        <p class="footnote">
+          &
+          <LinkButton
+            className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
+            href="https://github.com/satnaing/astro-paper"
+          >
+            AstroPaper
+          </LinkButton>
+        </p>
+      </div>
     </section>
 
     <Hr />
@@ -111,8 +112,12 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
   #hero p {
     @apply my-2;
   }
+  .footnote-wrapper {
+    @apply mx-auto flex max-w-3xl flex-1 space-x-6;
+  }
   .footnote {
     @apply text-xs;
+    writing-mode: vertical-lr;
   }
   .spacer {
     height: 3rem;

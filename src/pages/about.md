@@ -11,4 +11,4 @@ I've been dipping a toe in web development for a while now and I've decided to s
 
 ## Tech Stack
 
-I write code in JavaScript & TypeScript, I'd been slowly approaching ReactJS before getting down to learning Angular. I'm also interested in testing.
+I write code in JavaScript & TypeScript, and whatever comes with those. I'd been slowly approaching ReactJS before getting down to learning Angular and just recently, I've also become interested in testing. You can read more about my journey [here](https://lvnt.info/posts/learning-tracker).
