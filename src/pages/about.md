@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I've been dipping a toe in web development for a while now and I've decided to set up this digital garden. Hope to see it bear some fruit.
+I've been dipping a toe in web development for a while now and I've decided to set up this digital garden. Hope to see it bear some fruit. Or veg?
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">

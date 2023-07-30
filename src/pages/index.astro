@@ -20,9 +20,8 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
   <main id="main-content">
     <section id="hero">
       <p>
-        Hi, I'm Levente and this space is mostly about web development and
-        software testing. Notes of someone trying to think – or remember things
-        :)
+        Hi, I'm Levente and this space is mostly about web development. Notes of
+        someone trying to think – or at least to remember things :)
       </p>
       <div class="spacer"></div>
       <div class="footnote-wrapper">
@@ -113,11 +112,15 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
     @apply my-2;
   }
   .footnote-wrapper {
-    @apply mx-auto flex max-w-3xl flex-1 space-x-6;
+    /* @apply mx-auto flex max-w-3xl flex-1 space-x-2; */
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: end;
   }
   .footnote {
     @apply text-xs;
     writing-mode: vertical-lr;
+    margin-left: 1rem;
   }
   .spacer {
     height: 3rem;
