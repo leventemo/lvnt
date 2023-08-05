@@ -88,9 +88,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ### Angular
 
-- [Tic-Tac-Toe PWA](https://www.youtube.com/watch?v=G0bBLvWXBvc) by Fireship
+- [The Angular Firebase Project Course](https://fireship.io/courses/angular/) by [Fireship]
 - [Dark mode in Angular](https://www.youtube.com/watch?v=n-OQkC4do5M)
-- [The Angular Firebase Project Course](https://fireship.io/courses/angular/) by Fireship
 - [Build a Webshop with Angular, Node.js, TypeScript, & Stripe](https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/) by Slobodan Gajic
 - [Angular E-Commerce Project: Build a Web App Easily](https://snipcart.com/blog/angular-ecommerce-project) by Pierre-Guillaume Laurin
 
@@ -253,3 +252,4 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 [SteamCode]: https://www.youtube.com/@steamcode4441
 [ISTQB]: https://www.istqb.org/
 [Astro]: https://astro.build/
+[Fireship]: https://fireship.io/

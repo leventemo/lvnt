@@ -53,6 +53,8 @@ As above: incomplete and ever growing.
 - [Node Weekly](https://nodeweekly.com/)
 - [Postgres Weekly](https://postgresweekly.com/)
 - [Security Newsletter – Dieter Van der Stock](https://securitynewsletter.co/)
+- [This Week in Security – Zack Whittaker ](https://this.weekinsecurity.com/)
 - [Angular Training Daily Newsletter – Alain Chautard](https://www.angulartraining.com/daily-newsletter/)
 - [Sofware Testing Notes – Pritesh Usadadiya](https://substack.com/profile/25759299-pritesh-usadadiya)
 - [Software Testing Weekly – Dawid Dylowicz](https://softwaretestingweekly.com/)
+- [Cypress Testing Tips & Tricks – Gleb Bahmutov](https://cypresstips.substack.com/)

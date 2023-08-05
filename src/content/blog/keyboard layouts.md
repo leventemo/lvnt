@@ -19,6 +19,7 @@ description: "Where to find those special characters when going from one languag
 - `=` Shift+7
 - `≠` Alt+Ó
 - `~` Alt+Ú
+- `^` Alt+Á
 - `+` Shift+3
 - `-` 4/12
 - `*` Alt+Shift+?
@@ -48,6 +49,7 @@ wraps
 - `=` Shift+7
 - `≠`
 - `~` AltGr+1
+- `^`
 - `+` Shift+3
 - `-`
 - `*` AltGr+-
