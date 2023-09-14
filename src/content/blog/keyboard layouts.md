@@ -49,13 +49,13 @@ wraps
 - `=` Shift+7
 - `≠`
 - `~` AltGr+1
-- `^`
+- `^` AltGr+3
 - `+` Shift+3
 - `-`
 - `*` AltGr+-
 - `/` Shift+6
 - `\` AltGr+Q
-- `|`
+- `|` AlrGr+W
 - `&` AltGr+C
 - `#` AltGr+X
 - `@` AltGr+V
