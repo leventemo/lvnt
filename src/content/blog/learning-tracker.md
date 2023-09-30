@@ -18,6 +18,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 | Completed | Course / Book                                                                                                                       |          by...          |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------- | :---------------------: |
+| 2023/09   | [Git The Full Course](https://fireship.io/courses/git/)                                                                             |       [Fireship]        |
 | 2023/07   | [Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/)                                                 |         [Astro]         |
 | 2023/06   | [ISTQB Foundation Syllabus v4.0 (CTFL)](https://www.istqb.org/news/posts/istqb-releases-certified-tester-foundation-level-v40-ctfl) |         [ISTQB]         |
 | 2023/05   | [SQL for Data Analysis](https://www.linkedin.com/learning/sql-for-data-analysis)                                                    |    [Nikiya Simpson]     |
