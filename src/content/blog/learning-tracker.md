@@ -18,6 +18,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 | Completed | Course / Book                                                                                                                       |          by...          |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------- | :---------------------: |
+| 2023/11   | [VS Code Magic Tricks](https://fireship.io/courses/vscode-tricks/)                                                                  |       [Fireship]        |
 | 2023/09   | [Git The Full Course](https://fireship.io/courses/git/)                                                                             |       [Fireship]        |
 | 2023/07   | [Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/)                                                 |         [Astro]         |
 | 2023/06   | [ISTQB Foundation Syllabus v4.0 (CTFL)](https://www.istqb.org/news/posts/istqb-releases-certified-tester-foundation-level-v40-ctfl) |         [ISTQB]         |
@@ -151,6 +152,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 ### Hosting
 
 - [Jamstack Explorers Learning Platform](https://explorers.netlify.com/) by Netlify
+
+- [Bild a Full Stack Blog with Astro](https://egghead.io/courses/build-a-full-stack-blog-with-astro-7ffcf9ec) by Lazar Nikolov
 
 ### 11ty
 

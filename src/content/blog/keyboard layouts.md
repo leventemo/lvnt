@@ -34,6 +34,7 @@ description: "Where to find those special characters when going from one languag
 - `©` Alt + g
 - `;` Alt + .
 - `•` Alt+Shift 0
+- `insert` Fn+Enter
 
 wraps
 

@@ -58,3 +58,4 @@ As above: incomplete and ever growing.
 - [Sofware Testing Notes – Pritesh Usadadiya](https://substack.com/profile/25759299-pritesh-usadadiya)
 - [Software Testing Weekly – Dawid Dylowicz](https://softwaretestingweekly.com/)
 - [Cypress Testing Tips & Tricks – Gleb Bahmutov](https://cypresstips.substack.com/)
+- [TestingPod – MagicPod](https://blog.magicpod.com)
