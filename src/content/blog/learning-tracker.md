@@ -82,6 +82,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 - [State-Based UI](https://vanillajsguides.com/expert-bundle/) by Chris Ferdinandi
 - [Object-oriented Programming in JavaScript](https://www.udemy.com/course/javascript-object-oriented-programming/) by [Mosh Hamedani]
+- [Ten Steps to Mastering the Fetch API](https://www.youtube.com/watch?v=2sQ9xiEAXNo) by [Steve Griffith]
 
 ### TypeScript
 
@@ -257,3 +258,4 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 [ISTQB]: https://www.istqb.org/
 [Astro]: https://astro.build/
 [Fireship]: https://fireship.io/
+[Steve Griffith]: https://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
