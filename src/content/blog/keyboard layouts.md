@@ -31,6 +31,7 @@ description: "Where to find those special characters when going from one languag
 - `@` Alt+q
 - `$` Alt+4 and Alt+Shift+4
 - `€` Ctrl + Alt + e
+- `£` Alt+3
 - `©` Alt + g
 - `;` Alt + .
 - `•` Alt+Shift 0
@@ -63,6 +64,7 @@ wraps
 - `@` AltGr+V
 - `$` AltGr+É
 - `€` AltGr+U
+- `£`
 - `©`
 - `;` AltGr+,
 - `•`
