@@ -6,7 +6,7 @@ postSlug: keyboard-layouts
 featured: false
 draft: false
 tags:
-  - general
+  - tooling
 description: "Where to find those special characters when going from one language or machine to another."
 ---
 
