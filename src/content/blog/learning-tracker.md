@@ -91,6 +91,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ### Angular
 
+- [Angular Certification](https://www.angulartraining.com/angular-certification.html)
+- [Supabase & Angular: A Powerful Combination](https://christianlydemann.com/supabase-and-angular-a-powerful-combination-for-building-web-applications/)
 - [The Angular Firebase Project Course](https://fireship.io/courses/angular/) by [Fireship]
 - [Dark mode in Angular](https://www.youtube.com/watch?v=n-OQkC4do5M)
 - [Build a Webshop with Angular, Node.js, TypeScript, & Stripe](https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/) by Slobodan Gajic
@@ -135,6 +137,10 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 - [Next.js Dev to Deployment](https://www.udemy.com/course/nextjs-dev-to-deployment/learn/lecture/26055170?start=0#overview) by [Brad Traversy]
 - [Full Stack Development with Next.js and Supabase – The Complete Guide](https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/amp/?__twitter_impression=true) by Nader Dabit
 - [Next.js E-Commerce Tutorial: SPA Example](https://snipcart.com/blog/next-js-ecommerce-tutorial-example?utm_source=Snipcart+email+subscribers&utm_campaign=313a080094-mc-snip-july-21-content-nextjs-ecommerce-spa-21&utm_medium=email&utm_term=0_3e16e05ea2-313a080094-123178956) by Pierre-Guillaume Laurin
+
+### SQL
+
+- [ ] [Learn SQL in 60 minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo) by Web Dev Simplified
 
 ### PostgreSQL
 
