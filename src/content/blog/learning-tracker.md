@@ -18,6 +18,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 | Completed | Course / Book                                                                                                                       |          by...          |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------- | :---------------------: |
+| 2024/03   | [What is a RESTful API?](https://www.youtube.com/watch?v=Q-BpqyOT3a8)                                                               |     [Brad Traversy]     |
 | 2023/11   | [VS Code Magic Tricks](https://fireship.io/courses/vscode-tricks/)                                                                  |       [Fireship]        |
 | 2023/09   | [Git The Full Course](https://fireship.io/courses/git/)                                                                             |       [Fireship]        |
 | 2023/07   | [Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/)                                                 |         [Astro]         |
@@ -98,10 +99,14 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 - [Build a Webshop with Angular, Node.js, TypeScript, & Stripe](https://www.freecodecamp.org/news/build-a-webshop-with-angular-node-js-typescript-stripe/) by Slobodan Gajic
 - [Angular E-Commerce Project: Build a Web App Easily](https://snipcart.com/blog/angular-ecommerce-project) by Pierre-Guillaume Laurin
 
+### APIs
+
+- [APIs for Beginners 2023 - How to use an API?](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
+- [API testing with Postman](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
+
 ### Node
 
 - [Node.js Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4) by [Brad Traversy]
-- [What is a RESTful API?](https://www.youtube.com/watch?v=Q-BpqyOT3a8) by [Brad Traversy]
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021 ](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann
 - [Learn Node](https://learnnode.com/) by [Wes Bos]
 - [Node App from Scratch](https://www.youtube.com/watch?v=SBvmnHTQIPY) by [Brad Traversy]
@@ -141,6 +146,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 ### SQL
 
 - [ ] [Learn SQL in 60 minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo) by Web Dev Simplified
+- [ ] [How to Solve SQL Problems](https://www.youtube.com/watch?v=30W5wjgJR08) by Web Dev Simplified
+- [ ] [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) by [Mosh Hamedani]
 
 ### PostgreSQL
 
