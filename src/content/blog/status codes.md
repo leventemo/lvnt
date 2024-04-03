@@ -10,11 +10,14 @@ tags:
 description: "HTTP response status codes."
 ---
 
-<https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
+Sources:
+
+- <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
+- <https://en.wikipedia.org/wiki/List_of_HTTP_status_codes>
 
 ## Table of contents
 
-## 100-199: Informational respobnses
+## 100-199: Informational responses
 
 ### 100 Continue
 
