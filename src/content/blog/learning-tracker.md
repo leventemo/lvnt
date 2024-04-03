@@ -18,6 +18,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 | Completed | Course / Book                                                                                                                       |          by...          |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------- | :---------------------: |
+| 2024/04   | [API testing with Postman](https://www.freecodecamp.org/news/learn-how-to-use-postman-to-test-apis/)                                |     Valentin Despa      |
 | 2024/03   | [What is a RESTful API?](https://www.youtube.com/watch?v=Q-BpqyOT3a8)                                                               |     [Brad Traversy]     |
 | 2023/11   | [VS Code Magic Tricks](https://fireship.io/courses/vscode-tricks/)                                                                  |       [Fireship]        |
 | 2023/09   | [Git The Full Course](https://fireship.io/courses/git/)                                                                             |       [Fireship]        |
@@ -101,8 +102,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 ### APIs
 
-- [APIs for Beginners 2023 - How to use an API?](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
-- [API testing with Postman](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
+- [API testing with Postman](https://www.youtube.com/watch?v=VywxIQ2ZXw4) 33
 
 ### Node
 
