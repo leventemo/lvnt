@@ -142,6 +142,8 @@ Reels - Fonó:
 
 Reels - own sets:
 
+- Morning Dew/Golden Keyboard
+- Andy McGann’s No. 42/Gweebarra Bridge/_Rodney MIller’s_
 - Mollie McCarthy/Slow Reel/Cup of Tea
 - The Wise Maid/Over the Moor to Maggie
 - Cooley’s/Drowsie Maggie
