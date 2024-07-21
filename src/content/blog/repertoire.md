@@ -12,7 +12,7 @@ description: "Tunes I play or working on."
 
 ## Table of contents
 
-## Jig
+## Jigs
 
 Jigs - Fonó
 
@@ -41,7 +41,7 @@ Jigs - own sets:
 - Kalyana
 - The North Star
 
-## Slips jigs - Fonó - OK:
+## Slips jigs:
 
 Slip jigs - Fonó:
 
