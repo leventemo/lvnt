@@ -17,7 +17,7 @@ Sources:
 
 ## Table of contents
 
-## 100-199: Informational responses
+## 1xx: Informational responses
 
 ### 100 Continue
 
@@ -47,7 +47,7 @@ A server might send multiple 103 responses, eg. following a redirect. Browsers o
 
 see more about compatibility & examples [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/103)
 
-## 200-299: Success responses
+## 2xx: Success responses
 
 ### 200 OK
 
@@ -55,9 +55,9 @@ Indicates that the request has succeeded. A 200 response is cacheable by default
 
 The meaning of a success depends on the HTTP request method:
 
-- [GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET): The resource has been fetched and is transmitted in the message body.
-- [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD): The representation headers are included in the response without any message body
-- [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST): The resource describing the result of the action is transmitted in the message body
+- [GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET): The resource has been fetched ad is transmitted in the message body.
+- [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD): The representation headers ae included in the response without any message body
+- [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST): The resource describing the rsult of the action is transmitted in the message body
 - [TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE): The message body contains the request message as received by the server.
 
 The successful result of a [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT) or a [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE) is often not a 200 OK but a 204 No Content (or a 201 Created when the resource is uploaded for the first time).
@@ -110,15 +110,33 @@ The members of a DAV binding have already been enumerated in a preceding part of
 
 The server has fulfilled a GET request for the resource, and the response is a representation of the result of one or more instance-manipulations applied to the current instance.
 
-## 300-399: redirection messages
+## 3xx: redirection messages
+
+This class of status code indicates the client must take additional action to complete the request. Many of these status codes are used in [URL redirection](https://en.wikipedia.org/wiki/URL_redirection).
+
+A user agent
+
+- may carry out the additional action with no user interaction only if the method used in the second request is GET or HEAD.
+- may automatically redirect a request.
+- should detect and intervene to prevent cyclical redirects.
 
 ### 300 Multiple Choices
 
+The request has more than one possible response. The user agent or user should choose one of them. There is no standardized way of choosing one of the responses, but HTML links to the possibilities are recommended so the user can pick.
+
+The client may choose via [agent-driven content negotiation](https://en.wikipedia.org/wiki/Content_negotiation#Agent-driven). Eg. this code could be used to present multiple video format options, to list files with different filename extensions, or to suggest [word-sense disambiguation](https://en.wikipedia.org/wiki/Word-sense_disambiguation).
+
 ### 301 Moved Permanently
 
-### 302 Found
+The URL of the requested resource has been changed permanently. The new URL is given in the response.
 
-### 303 See Other
+### 302 Found (Previously "Moved temporarily")
+
+The the URI of requested resource has been changed temporarily. Further changes in the URI might be made in the future. Therefore, this same URI should be used by the client in future requests.
+
+Tells the client to look at (browse to) another URL. The HTTP/1.0 specification required the client to perform a temporary redirect with the same method (the original describing phrase was "Moved Temporarily"), but popular browsers implemented 302 redirects by changing the method to GET. Therefore, HTTP/1.1 added status codes 303 and 307 to distinguish between the two behaviours.
+
+### 303 See Other (since HTTP/1.1)
 
 ### 304 Not Modified
 
@@ -130,7 +148,7 @@ The server has fulfilled a GET request for the resource, and the response is a r
 
 ### 308 Permanent Redirect
 
-## 400-499: Client error responses
+## 4xx: Client error responses
 
 ### 400 Bad Request
 
@@ -190,7 +208,7 @@ The server has fulfilled a GET request for the resource, and the response is a r
 
 ### 451 Unavailable For Legal Reasons
 
-## 500-599: Server error responses
+## 5xx: Server error responses
 
 ### 500 Internal Server Error
 
