@@ -53,8 +53,6 @@ Slip jigs - own sets:
 
 - Fig For A Kiss/Kid On The Mountain/The Humours Of Whiskey
 - Snowy Path/The Disused Railway/_The Man Of Aran_
-- - Kalyana
-- The North Star
 - Bruno/Quiet Autumn
 
 ## Slides
@@ -111,19 +109,19 @@ Reels - Fonó:
 - O’Connell’s Trip To Parliament/The Torn Jacket/Come West Along The Road
 - Cup Of Tea/Silver Spear/The Humours Of Tulla
 - Bag Of Spuds/_Brenda Subbert’s_
-- _The Boyne Hunt_/Shannon Breeze (Rolling IN The Ryegrass)/_Red Haired Lass_
+- _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
 - _Sword In The Hand_/_The Province Reel_/The Old Bush
 - _The Old Concertina_/Cooley’s/The Wise Maid
-- _Tommy Peoples’_/The Long Drop/Drowsie Maggie
+- _Tommy Peoples’_/_The Long Drop_/Drowsie Maggie
 - _Dunmore Lasses_/Morning Dew/_The Star Of Munster_
 - _Father Kelly’s_/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
-- The Ashplant
 - _Jenny Picking Cockles_/Over The Moor To Maggie/_Rakish Paddy_
 - _The Temperance Reel_/_George White’s Favourite_/_The Virginia Reel_
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
 - _The Galtee Rangers_/_Glentown Reel_/_The Doon_
 - _The Musical Priest_/_John Stetson’s no2_
 - _Paddy Fahey’s_/_Francie Donnellan’s_/_The Fisherman’s Island_
+- The Ashplant
 - _Mother And Child_
 - _Lucy Campbell's_
 - _The Merry Blacksmith_
