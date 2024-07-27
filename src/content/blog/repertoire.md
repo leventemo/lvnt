@@ -18,17 +18,34 @@ Jigs - Fonó
 
 - Garrett Barry’s/Walls of Liscarrol/The Legacy
 - Geese In The Bog/Connaughtman’s Rambles/Out On The Ocean
-- Dusty Windowsills/_Rose In The Heather_/_Cliffs Of Moher_
+- Tripping Up The Stairs/The Lisnagún
+- _The Famous Baravan_/The Donegal Lass
 - _Paidin O’Rafferty_/Jim Ward’s/_When The Cock Crows_
+- Dusty Windowsills/_Rose In The Heather_/_Cliffs Of Moher_
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
 - Monaghan/_Mist On The Mountain_/_Humours of Drinagh_
-- _The Famous Baravan_/The Donegal Lass
 - _Young Tom Ennis_/_My Darling Asleep_/_Club Céili_
-- _Tripping Up The Stairs_/_The Lisnagún_
+- _The Liliting Banshee_/_Haste To The Wedding_/_The Maid On The Green_
+- _Christy Barry’s #1_/_Christy Barry’s #2_
+- _O’Dea’s_/_Adam and Eve_
+- _The Hole In The Hedge_/_Seamus Cooley’s_
+- _The Castle (Sean Ryan's)-_/-_The Nightingale-_
+- _Carraroe_/_The Hag At The Churn_/_Patsy Geary’s_
 - Morrison’s
 - Calliope House
 - Banish Misfortune
+- _Lark In The Morning_
+- _Blarney Pilgrim_
+- _The Frost Is All Over_
+- _The Humours Of Ennistymon_
+- _Gallagher's Frolics_
+- _Saddle The Pony_
+- _The Humours Of Ballyloughlin_
+- _Rolling Waves_
+- _Hunting The Squirrel_
+- _Anne Fraser MacKenzie_
+- _The Wren's Nest_
 
 Jigs - own sets:
 
@@ -38,15 +55,17 @@ Jigs - own sets:
 - Tooth Fairy/Calliope House/Kevin’s
 - Tobin’s/Monaghan Jig
 - Gallowglass/Blasket Sound/Donegal Lass
+- Jim Ward’s/_Sully’s_/_Sliabh Russell_
 - Kalyana
 - The North Star
+  ...
 
-## Slips jigs:
+## Slips jigs
 
 Slip jigs - Fonó:
 
-- The Butterfly/Nead na Lachan sa mhúta
 - Elizabeth Kelly’s Delight/Na Ceannabháin Bhána
+- The Butterfly/Nead na Lachan sa mhúta
 - _The Exile’s Jig_/_Wink And She’ll Follow You_
 
 Slip jigs - own sets:
