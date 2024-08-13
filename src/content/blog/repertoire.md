@@ -19,6 +19,7 @@ description: "Tunes I play or working on."
 - Garrett Barry’s/Walls of Liscarrol/The Legacy
 - Geese In The Bog/Connaughtman’s Rambles/Out On The Ocean
 - Tripping Up The Stairs/The Lisnagún
+- Young Tom Ennis/My Darling Asleep/Club Céili (The Old Favourite)
 - _The Famous Baravan_/The Donegal Lass
 - _Paidin O’Rafferty_/Jim Ward’s/_When The Cock Crows_
 - Dusty Windowsills/_Rose In The Heather_/_Cliffs Of Moher_
@@ -26,7 +27,6 @@ description: "Tunes I play or working on."
 - _O’Dea’s_/_Adam and Eve_
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
 - Monaghan/_Mist On The Mountain_/_Humours of Drinagh_
-- _Young Tom Ennis_/_My Darling Asleep_/_Club Céili_
 - _The Liliting Banshee_/_Haste To The Wedding_/_The Maid On The Green_
 - _Christy Barry’s #1_/_Christy Barry’s #2_
 - _The Hole In The Hedge_/_Seamus Cooley’s_
@@ -98,7 +98,7 @@ description: "Tunes I play or working on."
 ### Slides - Fonó:
 
 - The Brosna no.1/Denis Murphy’s/Dingle Regatta
-- _Star Above The Garter_/_Johnny Mickey’s_/Dingle Regatta
+- Star Above The Garter\_/_Johnny Mickey’s/Dingle Regatta
 - _Patsy Geary’s_
 - _The Brosna no.2_
 - _The Weavers_
@@ -115,7 +115,7 @@ description: "Tunes I play or working on."
 - Maggie In The Wood/Oh The Britches Full Of Stitches (in A)
 - Balleydesmond 3-1-2
 - Balleydesmond 2/Balleydesmond 1/_Cathy’s Favourite_
-- _The Siege Of Ennis_/Balleydesmond 2/_Ned Kelly’s Polka_
+- The Siege Of Ennis/Balleydesmond 2/_Ned Kelly’s Polka_
 - _Jer O’Connel’s_/_Patrick O’Connor’s_/Oh The Britches Full Of Stitches
 - _Din Tarrant’s_/_Tom Barrett’s_/_O’Connor’s_
 
@@ -128,7 +128,7 @@ description: "Tunes I play or working on."
 ### Hornpipes - Fonó:
 
 - Rights Of Man/_King Of The Fairies_
-- Boys Of Bluehill/Harvest Home/_Cronin’s_
+- Boys Of Bluehill/Harvest Home/Cronin’s
 - _The Galway Hornpipe_/The Flowers Of Edinburgh
 - _Petronella_
 - _The Peacock’s Feather 1-2_
@@ -146,8 +146,8 @@ description: "Tunes I play or working on."
 
 - O’Connell’s Trip To Parliament/The Torn Jacket/Come West Along The Road
 - Cup Of Tea/Silver Spear/The Humours Of Tulla
-- Bag Of Spuds/_Brenda Subbert’s_
-- _The Old Concertina_/Cooley’s/The Wise Maid
+- Bag Of Spuds/Brenda Subbert’s
+- The Old Concertina(Micho Russel's)/Cooley’s/The Wise Maid
 - _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
 - _Sword In The Hand_/_The Province Reel_/The Old Bush
 - _Tommy Peoples’_/_The Long Drop_/Drowsie Maggie
