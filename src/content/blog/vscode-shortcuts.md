@@ -275,32 +275,39 @@ Go to previous symbol highlight
 ## File management
 
 New file:
-Win: `Ctr+N`
-Mac: `Cmd+N`
+
+- Win: `Ctr+N`
+- Mac: `Cmd+N`
 
 Open file
-Win: `Ctr+O`
-Mac: `Cmd+O`
+
+- Win: `Ctr+O`
+- Mac: `Cmd+O`
 
 Save file
-Win: `Ctr+S`
-Mac: `Cmd+S`
+
+- Win: `Ctr+S`
+- Mac: `Cmd+S`
 
 Save file as
-Win: `Shift+Ctr+S`
-Mac: `Shift+Cmd+S`
+
+- Win: `Shift+Ctr+S`
+- Mac: `Shift+Cmd+S`
 
 Save all
-Win: `Ctr+K` & `S`
-Mac: `Option+Cmd+S`
+
+- Win: `Ctr+K` & `S`
+- Mac: `Option+Cmd+S`
 
 Close file
-Win: `Ctr+W`
-Mac: `Cmd+W`
+
+- Win: `Ctr+W`
+- Mac: `Cmd+W`
 
 Close all files
-Win: ?
-Mac: `Cmd+K` & `Cmd+W`
+
+- Win: ?
+- Mac: `Cmd+K` & `Cmd+W`
 
 ...
 
