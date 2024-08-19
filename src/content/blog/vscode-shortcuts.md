@@ -6,7 +6,7 @@ postSlug: vscode-shotcuts
 featured: false
 draft: false
 tags:
-  - vscode
+  - tooling
 description: "VS Code shortcuts to remember."
 ---
 
@@ -16,8 +16,8 @@ description: "VS Code shortcuts to remember."
 
 Show all commands: `> ...`
 
-- Win: `Shift+Ctr+P` or `Fn+F1`
-- Mac: `Shift+Cmd+P` or `Fn+F1`
+- Win: `Shift+Ctr+P` || `Fn+F1`
+- Mac: `Shift+Cmd+P` || `Fn+F1`
 
 New window/instance:
 
@@ -46,15 +46,15 @@ User Settings:
 
 Keyboard Shortcuts:
 
-- Win: `Ctr+K` then`Ctr+S`
-- Mac: `Cmd+K` then`Cmd+S`
+- Win: `Ctr+K` &`Ctr+S`
+- Mac: `Cmd+K` &`Cmd+S`
 
 ## Line operations
 
 Delete a line
 
-- Win: `Ctr+X` with your cursor on that line or `Shift+Ctr+K`
-- Mac: `Ctr+X` with your cursor on that line or `Shift+Cmd+K`
+- Win: `Ctr+X` with cursor on the line || `Shift+Ctr+K`
+- Mac: `Ctr+X` with cursor on the line || `Shift+Cmd+K`
 
 Move a line down/up
 
@@ -81,12 +81,12 @@ Indent/outdent a line
 Jump to matching bracket
 
 - Win: `Ctr+Shift+ú` (?)
-- Mac: `Shift+Cmd+\` or `^+Option+Cmd+i` (?)
+- Mac: `Shift+Cmd+\` || `^+Option+Cmd+i` (?)
 
 Go to beginning/end of line
 
 - Win: `Shift+Home/Shift+End`
-- Mac: `Cmd+LeftArrow/Cmd+RightArrow` or `Fn+LeftArrow/Fn+RightArrow`
+- Mac: `Cmd+LeftArrow/Cmd+RightArrow` || `Fn+LeftArrow/Fn+RightArrow`
 
 Go to beginning/end of file
 
@@ -103,7 +103,7 @@ Move cursor word by word
 Toggle line comment
 
 - Win: `Ctr+ü`
-- Mac: `Cmd+K` then `Cmd+C` or `Shift_Cmd+6`
+- Mac: `Cmd+K` then `Cmd+C` || `Shift_Cmd+6`
 
 Toggle block comment
 
@@ -160,8 +160,8 @@ Select all occurrences of current word & place multi-cursor on them
 
 Toggle fold
 
-- Win: `Ctr+K` then `Ctr+L`
-- Mac: `Cmd+K` then `Cmd+L`
+- Win: `Ctr+K` & `Ctr+L`
+- Mac: `Cmd+K` & `Cmd+L`
 
 ## Search and replace
 
@@ -222,8 +222,8 @@ Add selection to next Find match
 
 Move last selection to next Find match
 
-- Win: `Ctr+K`, then `Ctr+D` (?)
-- Mac: `Cmd+K`, then `Cmd+D` (?)
+- Win: `Ctr+K` & `Ctr+D` (?)
+- Mac: `Cmd+K` & `Cmd+D` (?)
 
 ## Rich languages editing
 
@@ -234,7 +234,7 @@ Move last selection to next Find match
 Go to Line...`: ...`
 
 - Win: `Ctr+G`
-- Mac: `^+G` (?) or `Cmd+P` then type a `:`
+- Mac: `^+G` (?) || `Cmd+P` then type a `:`
 
 Quick Open, Go to File:
 
@@ -248,13 +248,13 @@ Go to Symbol...in Editor: `@ ...`
 
 Go to Symbol ... in Workspace: `# ...`
 
-- Win: `Ctr+T`
+- Win: highlight symbol, then `Ctr+T`
 - Mac: highlight symbol, then `Cmd+T`
 
 Go to last edit location
 
-- Win: `Ctr+K` then `Ctr+Q`
-- Mac: `Cmd+K` then `Cmd+Q`
+- Win: `Ctr+K` & `Ctr+Q`
+- Mac: `Cmd+K` & `Cmd+Q`
 
 Go to next symbol highlight
 
@@ -291,7 +291,7 @@ Win: `Shift+Ctr+S`
 Mac: `Shift+Cmd+S`
 
 Save all
-Win: `Ctr+K` then `S`
+Win: `Ctr+K` & `S`
 Mac: `Option+Cmd+S`
 
 Close file
@@ -300,7 +300,7 @@ Mac: `Cmd+W`
 
 Close all files
 Win: ?
-Mac: `Cmd+K` then `Cmd+W`
+Mac: `Cmd+K` & `Cmd+W`
 
 ...
 
@@ -368,8 +368,8 @@ Zoom out
 
 Show hover
 
-- Win: `Ctr+K` then `Ctr+I` (?)
-- Mac: `Cmd+K` then `Cmd+I`
+- Win: `Ctr+K` & `Ctr+I` (?)
+- Mac: `Cmd+K` & `Cmd+I`
 
 ## Debug
 

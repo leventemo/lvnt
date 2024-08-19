@@ -98,7 +98,7 @@ description: "Tunes I play or working on."
 ### Slides - Fonó:
 
 - The Brosna no.1/Denis Murphy’s/Dingle Regatta
-- Star Above The Garter\_/_Johnny Mickey’s/Dingle Regatta
+- Star Above The Garter/Johnny Mickey’s/Dingle Regatta
 - _Patsy Geary’s_
 - _The Brosna no.2_
 - _The Weavers_
