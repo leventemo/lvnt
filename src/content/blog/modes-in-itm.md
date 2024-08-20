@@ -4,7 +4,7 @@ author: Leventemo
 pubDatetime: 2024-08-14T08:07:51Z
 postSlug: modes-in-itm
 featured: false
-draft: true
+draft: false
 tags:
   - music
 description: "Common modes in Irish traditional music"
@@ -92,6 +92,10 @@ An open question:
   - which ends in D, is it Mixolydian of # or Ionian of ##?
   - which ends in A, is it Dorian of # or Mixolydian of ##?
   - which ends in E, is it Aeolian of # or Dorian of ##?
+
+Note:
+
+- wouldn't a ###-series be justified in 2024?
 
 ## Accidental notes
 
