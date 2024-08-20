@@ -24,19 +24,19 @@ description: "Common modes in Irish traditional music"
 | Aeolian    |   vi    |   W-H-W-W-H-W-W   |   A-B-C-D-E-F-G-A   |
 | Locrian    |   vii   |   H-W-W-H-W-W-W   |   B-C-D-E-F-G-A-B   |
 
-- Tonic relative to major scale
+\* Tonic relative to major scale
 
 ## Modern modes built on a D major scale
 
-| Mode       | Tonic\* | Interval sequence | Eg. (D major scale) |
-| :--------- | :-----: | :---------------: | :-----------------: |
-| Ionian     |    i    |   W-W-H-W-W-W-H   |  D-E-F#-G-A-B-C#-D  |
-| Dorian     |   ii    |   W-H-W-W-W-H-W   |  E-F#-G-A-B-C#-D-E  |
-| Phrygian   |   iii   |   H-W-W-W-H-W-W   | F#-G-A-B-C#-D-E-F#  |
-| Lydian     |   iv    |   W-W-W-H-W-W-H   |  G-A-B-C#-D-E-F#-G  |
-| Mixolydian |    v    |   W-W-H-W-W-H-W   |  A-B-C#-D-E-F#-G-A  |
-| Aeolian    |   vi    |   W-H-W-W-H-W-W   |  B-C#-D-E-F#-G-A-B  |
-| Locrian    |   vii   |   H-W-W-H-W-W-W   | C#-D-E-F#-G-A-B-C#  |
+| Mode       | Tonic | Interval sequence | Eg. (D major scale) |
+| :--------- | :---: | :---------------: | :-----------------: |
+| Ionian     |   i   |   W-W-H-W-W-W-H   |  D-E-F#-G-A-B-C#-D  |
+| Dorian     |  ii   |   W-H-W-W-W-H-W   |  E-F#-G-A-B-C#-D-E  |
+| Phrygian   |  iii  |   H-W-W-W-H-W-W   | F#-G-A-B-C#-D-E-F#  |
+| Lydian     |  iv   |   W-W-W-H-W-W-H   |  G-A-B-C#-D-E-F#-G  |
+| Mixolydian |   v   |   W-W-H-W-W-H-W   |  A-B-C#-D-E-F#-G-A  |
+| Aeolian    |  vi   |   W-H-W-W-H-W-W   |  B-C#-D-E-F#-G-A-B  |
+| Locrian    |  vii  |   H-W-W-H-W-W-W   | C#-D-E-F#-G-A-B-C#  |
 
 ## Modes in Irish traditional music
 
@@ -51,11 +51,11 @@ A mixture of modes in tunes occurs very occasionally
 
 - usually the first part being Mixolydian and the turn being Ionian
 
-Beside the heptatonic scale above, pentatonic and hexatonic scales also exist.
+Beside the heptatonic scale above, pentatonic and hexatonic scales also exist
 
 - in correspondence with the heptatonic scale, except the gaps
 
-### Examples
+### Some examples
 
 Ionian - 60% of the airs & tunes:
 
@@ -97,11 +97,17 @@ Note:
 
 - wouldn't a ###-series be justified in 2024?
 
-## Accidental notes
+### Accidental notes
 
-...
+C
 
-Sources:
+- coming soon
+
+F
+
+- coming soon
+
+## Sources:
 
 - [Wikipedia](<https://en.wikipedia.org/wiki/Mode_(music)>)
 - Breathnach, Breandán (1996): Folk Music and Dances of Ireland, Ossian Publications Ltd. Cork, Ireland, ISBN 1 900428 65
