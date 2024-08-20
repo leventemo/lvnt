@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - music
-description: "Tunes I play or working on."
+description: "Tunes I play."
 ---
 
 ## Table of contents
