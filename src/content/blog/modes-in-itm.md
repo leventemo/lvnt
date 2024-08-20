@@ -76,7 +76,7 @@ Aeolian - the least numerous:
 
 - Thugamar Féin an Samradh Linn
 
-### In practice: tunes with # and
+### In practice: tunes with `#` and `##`
 
 | Mode       | # ends on | ## ends on |
 | :--------- | :-------: | :--------: |
