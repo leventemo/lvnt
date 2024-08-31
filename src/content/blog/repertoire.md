@@ -27,7 +27,7 @@ description: "Tunes I play."
 - _O’Dea’s_/_Adam and Eve_
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
 - Monaghan/_Mist On The Mountain_/_Humours of Drinagh_
-- _The Liliting Banshee_/_Haste To The Wedding_/_The Maid On The Green_
+- _The Lilting Banshee_/_Haste To The Wedding_/_The Maid On The Green_
 - _Christy Barry’s #1_/_Christy Barry’s #2_
 - _The Hole In The Hedge_/_Seamus Cooley’s_
 - _The Castle (Sean Ryan's)_/_The Nightingale-_

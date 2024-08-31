@@ -99,13 +99,30 @@ Note:
 
 ### Accidental notes
 
-C
+C sharp:
 
-- coming soon
+- occurs usually by way of variation
+- almost invariably in a weak or unaccented position
+- eg.
+  - `bd` replaced by a triplet of `(3bc#d`
+  - `d2 de` replaced by `dc#de`
+- this applies to tunes in the G series (#)
+  - in tunes of the D series (##), `C` is always sharp, both in strong or weak positions
 
-F
+F natural
 
-- coming soon
+- occurs only in accented positions
+- doesn't occur frequently and cannot be used at will, as a form of ornamentation
+- more often found in the upper than the lower octave
+- confined to tunes in the G series (#)
+- one of the higly colourful notes in ITM, made by sliding upwards, with a certain amount of vibrato, from E to F sharp
+  - a note of no fixed pitch but rather a long glide with a center somewhat sharper than the F natural of art music
+
+C natural
+
+- a highly colourful decorative note, especially on the pipes
+- lies halfway between B and D
+- only in tunes of the G series
 
 ## Sources:
 
