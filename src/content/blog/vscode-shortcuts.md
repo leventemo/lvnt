@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - tooling
-description: "VS Code shortcuts to remember."
+description: "VS Code shortcuts using Hungarian keyboard layouts on Windows and MacOs."
 ---
 
 ## Table of contents
@@ -149,12 +149,25 @@ Select all occurrences of current selection & place multi-cursor on them
 - Win: `Shift+Ctr+L`
 - Mac: `Shift+Cmd+L`
 
-Select all occurrences of current word & place multi-cursor on them
+Select all occurrences of current word (where your cursor is) & place multi-cursor on them
 
 - Win: `Ctr+F2`
-- Mac: `Cmd+F2`
+- Mac: `Cmd+Fn+F2`
 
-...
+Select until the end of the word
+
+- Win: `Shift+Alt+LeftArrow/RightArrow` (to check)
+- Mac: `Shift+Option+LeftArrow/RightArrow`
+
+Select a Column/Box of code with arrow keys
+
+- Win: `Ctr+Shift+Alt+LeftArrow/RightArrow/UpArrow/DownArrow` (to check)
+- Mac: `Cmd+Shift+Option+LeftArrow/RightArrow/UpArrow/DownArrow`
+
+Select a Column/Box of code by mouse drag
+
+- Win: `Shift+Alt` & drag the mouse (to check)
+- Mac: `Shift+Option` & drag the mouse (?)
 
 ## Fold/unfold
 
@@ -210,11 +223,6 @@ Find previous
 - Win: `Shift+F3`
 - Mac: `Shift+Cmd+G`
 
-Select all occurences of Find match
-
-- Win: `Alt+Enter`
-- Mac: `Option+Enter`
-
 Add selection to next Find match
 
 - Win: `Ctr+D`
@@ -225,6 +233,16 @@ Move last selection to next Find match
 - Win: `Ctr+K` & `Ctr+D` (?)
 - Mac: `Cmd+K` & `Cmd+D` (?)
 
+Move between Find results in active file
+
+- Win: `F3`
+- Mac: `Fn+F3`
+
+Select all occurences of Find match
+
+- Win: `Alt+Enter`
+- Mac: `Option+Enter`
+
 ## Rich languages editing
 
 ...
@@ -234,12 +252,29 @@ Move last selection to next Find match
 Go to Line...`: ...`
 
 - Win: `Ctr+G`
-- Mac: `^+G` (?) || `Cmd+P` then type a `:`
+- Mac: `Ctr+G` || `Cmd+P` then type a `:`
 
-Quick Open, Go to File:
+Quick Open, Go to File: instantly find & open files
 
 - Win: `Ctr+P`
 - Mac: `Cmd+P`
+
+Quick switch between open files/tabs
+
+- Win: `Ctr+TAB` (to check)
+- Mac: `Ctr+TAB`
+  - then keeping `Ctr` down, `TAB/Shift+TAB` again to scroll down/up the list
+  - OR: `Ctr+1` / `Ctr+2`, etc
+
+Navigate Tab Groups
+
+- to create a split editor by grouping your tab into Tab Groups
+  - if the editor group you select in the shortcut is higher than the number of groups currently open
+  - or/then navigate between groups in the split editor
+
+\* Win: `Ctr+1` / `Ctr+2` / `Ctr+3` etc (to check)
+
+- Mac: `Cmd+1` / `Cmd+2` / `Cmd+3` etc
 
 Go to Symbol...in Editor: `@ ...`
 
@@ -266,7 +301,10 @@ Go to previous symbol highlight
 - Win: `Shift+Fn+F7`
 - Mac: `Shift+Fn+F7`
 
-...
+Navigate through errors and warnings
+
+- Win: `F8` (to check)
+- Mac: `Fn+F8`
 
 ## Editor management
 
@@ -326,24 +364,24 @@ Toggle Secondary Sidebar
 Show Explorer / Toggle focus
 
 - Win: `Shift+Ctr+E`
-- Mac: `Shift+Cmd+E`
+- Mac: `Shift+Cmd+E` || `Cmd+K` & `Cmd+E`
 
 Show Source Control
 
 - Win: `Shift+Ctr+G`
-- Mac: `^+Shift+G` (?)
+- Mac: `Cmd+K` & `Cmd+V`
 
 Show Debug
 
 - Win: `Shift+Ctr+D`
-- Mac: `Shift+Cmd+D`
+- Mac: `Shift+Cmd+D` || `Cmd+K` & `Cmd+D`
 
 Show Extensions
 
 - Win: `Shift+Ctr+X`
 - Mac: `Shift+Cmd+X`
 
-Open Markdown previes
+Open Markdown previews
 
 - Win: `Shift+Ctr+V`
 - Mac: `Shift+Cmd+V`
@@ -410,12 +448,17 @@ Stop
 - Win: `Shift+Fn+F5` (?)
 - Mac: `Shift+Fn+F5` (?)
 
-## Integrated terminals
+## Integrated terminal
 
 Toggle Terminal panel
 
 - Win: `Ctr+J`
 - Mac: `Cmd+J`
+
+Split Terminal
+
+- Win: `Ctr+Shift+5` (to check)
+- Mac: `Cmd+\` (?)
 
 ## Renaming
 
@@ -423,3 +466,43 @@ Rename symbol
 
 - Win: highlight symbol, then `Fn+F2`
 - Mac: highlight symbol, then `Fn+F2`
+
+## Format code
+
+File formatting
+
+- Win: `Ctr+Shift+F` (to check)
+- Mac: `Option+Shift+F`
+
+Selection formatting
+
+- Win: `Ctr+K` & `Ctr+F` (to check)
+- Mac: `Cmd+K` & `Cmd+F`
+
+## Better coding
+
+Go to definition
+
+- Win: `F12`
+- Mac: `Fn+F12`
+
+Peek definition (see definition without moving to a different file/line)
+
+- Win: `Alt+F12` (to check)
+- Mac: `Option+Fn+F12`
+
+Show a function's signature
+
+- Win: `Ctr+Shift+spacebar` (to check)
+- Mac: `Cmd+Shift+spacebar`
+
+Toggle code suggestions (VS Code, Copilot, etc)
+
+- Win: `Ctr+I` (to check)
+- Mac: `Cmd+I`
+
+## Sources
+
+- https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+- https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+- https://www.sitepoint.com/visual-studio-code-keyboard-shortcuts/
