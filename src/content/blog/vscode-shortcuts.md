@@ -156,18 +156,18 @@ Select all occurrences of current word (where your cursor is) & place multi-curs
 
 Select until the end of the word
 
-- Win: `Shift+Alt+LeftArrow/RightArrow` (to check)
+- Win: `Shift+Alt+LeftArrow/RightArrow`
 - Mac: `Shift+Option+LeftArrow/RightArrow`
 
 Select a Column/Box of code with arrow keys
 
-- Win: `Ctr+Shift+Alt+LeftArrow/RightArrow/UpArrow/DownArrow` (to check)
+- Win: `Ctr+Shift+Alt+LeftArrow/RightArrow/UpArrow/DownArrow`
 - Mac: `Cmd+Shift+Option+LeftArrow/RightArrow/UpArrow/DownArrow`
 
 Select a Column/Box of code by mouse drag
 
-- Win: `Shift+Alt` & drag the mouse (to check)
-- Mac: `Shift+Option` & drag the mouse (?)
+- Win: `Shift+Alt` & drag the mouse
+- Mac: `Shift+Option` & drag the mouse
 
 ## Fold/unfold
 
@@ -261,7 +261,7 @@ Quick Open, Go to File: instantly find & open files
 
 Quick switch between open files/tabs
 
-- Win: `Ctr+TAB` (to check)
+- Win: `Ctr+TAB`
 - Mac: `Ctr+TAB`
   - then keeping `Ctr` down, `TAB/Shift+TAB` again to scroll down/up the list
   - OR: `Ctr+1` / `Ctr+2`, etc
@@ -272,7 +272,7 @@ Navigate Tab Groups
   - if the editor group you select in the shortcut is higher than the number of groups currently open
   - or/then navigate between groups in the split editor
 
-\* Win: `Ctr+1` / `Ctr+2` / `Ctr+3` etc (to check)
+\* Win: `Ctr+1` / `Ctr+2` / `Ctr+3` etc
 
 - Mac: `Cmd+1` / `Cmd+2` / `Cmd+3` etc
 
@@ -457,7 +457,7 @@ Toggle Terminal panel
 
 Split Terminal
 
-- Win: `Ctr+Shift+5` (to check)
+- Win: `Ctr+Shift+5` (?)
 - Mac: `Cmd+\` (?)
 
 ## Renaming
@@ -471,12 +471,12 @@ Rename symbol
 
 File formatting
 
-- Win: `Ctr+Shift+F` (to check)
+- Win: `Ctr+Shift+F` (?)
 - Mac: `Option+Shift+F`
 
 Selection formatting
 
-- Win: `Ctr+K` & `Ctr+F` (to check)
+- Win: `Ctr+K` & `Ctr+F`
 - Mac: `Cmd+K` & `Cmd+F`
 
 ## Better coding
@@ -488,17 +488,17 @@ Go to definition
 
 Peek definition (see definition without moving to a different file/line)
 
-- Win: `Alt+F12` (to check)
+- Win: `Alt+F12`
 - Mac: `Option+Fn+F12`
 
 Show a function's signature
 
-- Win: `Ctr+Shift+spacebar` (to check)
+- Win: `Ctr+Shift+spacebar`
 - Mac: `Cmd+Shift+spacebar`
 
 Toggle code suggestions (VS Code, Copilot, etc)
 
-- Win: `Ctr+I` (to check)
+- Win: `Ctr+I`
 - Mac: `Cmd+I`
 
 ## Sources
