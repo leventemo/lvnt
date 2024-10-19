@@ -160,7 +160,7 @@ description: "Tunes I play."
 - Dunmore Lasses/Morning Dew/The Star Of Munster
 - _Ríl An Spidéil_/_The Twelve Pins_
 - _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
-- _Sword In The Hand_/_The Province Reel_/The Old Bush
+- _Sword In The Hand_/_The Providence Reel_/The Old Bush
 - _Tommy Peoples’_/_The Long Drop_/Drowsie Maggie
 - Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
 - _Jenny Picking Cockles_/Over The Moor To Maggie/_Rakish Paddy_
@@ -172,9 +172,11 @@ description: "Tunes I play."
 - The Ashplant
 - St. Anne’s Reel
 - The Maid Behind the Bar
+- Reel Of Rio
+- The Merry Blacksmith
+- _Salamanca Reel_
 - _Mother And Child_
 - _Lucy Campbell's_
-- _The Merry Blacksmith_
 - _Sally Gardens_
 - _The Laurel Tree_
 - _Christmas Eve_
@@ -222,4 +224,8 @@ description: "Tunes I play."
 
 - Inisheer
 
-### Waltzes - own sets:
+## Schottische
+
+### Schottische - Fonó:
+
+- History Man
