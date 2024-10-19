@@ -35,6 +35,7 @@ description: "Tunes I play."
 - Morrison’s
 - Calliope House
 - Banish Misfortune
+- _The Smiling Bride_
 - _Lark In The Morning_
 - _Blarney Pilgrim_
 - _The Frost Is All Over_
@@ -85,6 +86,8 @@ description: "Tunes I play."
 - Elizabeth Kelly’s Delight/Na Ceannabháin Bhána
 - The Butterfly/Nead na Lachan sa mhúta
 - _The Exile’s Jig_/_Wink And She’ll Follow You_
+- Kid On The Mountain
+- Fig For A Kiss
 
 ### Slip jigs - own sets:
 
@@ -99,6 +102,7 @@ description: "Tunes I play."
 
 - The Brosna no.1/Denis Murphy’s/Dingle Regatta
 - Star Above The Garter/Johnny Mickey’s/Dingle Regatta
+- The Road To Lisdoonvarna
 - _Patsy Geary’s_
 - _The Brosna no.2_
 - _The Weavers_
@@ -115,13 +119,16 @@ description: "Tunes I play."
 - Maggie In The Wood/Oh The Britches Full Of Stitches (in A)
 - Balleydesmond 3-1-2
 - Balleydesmond 2/Balleydesmond 1/_Cathy’s Favourite_
-- The Siege Of Ennis/Balleydesmond 2/_Ned Kelly’s Polka_
+- The Siege Of Ennis/Balleydesmond 2/\_Ed Kelly’s Polka
+- Maggie In The Wood/Oh The Britches Full Of Stitches
 - _Jer O’Connel’s_/_Patrick O’Connor’s_/Oh The Britches Full Of Stitches
 - _Din Tarrant’s_/_Tom Barrett’s_/_O’Connor’s_
+- Kerry Polka
 
 ### Polkas - own sets:
 
 - Kerry Polka/Balleydesmond 1/Balleydesmond 2
+- Maggie in the Wood/_Gan Ainm_/_Mark Quinn’s_/_Gan Ainm_/_The Maids of Armagh_
 
 ## Hornpipes
 
@@ -139,6 +146,8 @@ description: "Tunes I play."
 - Rights of Man/Chief O’Neills Favourite/Sailor’s Hornpipe
 - O’Connor’s Favourite/Kildare Fancy/Brendan Vincent’s Favourite
 - The Plains of the Boyle/Swinging on the Gate
+- Flowers Of Edinburgh/_Coo Coo_/_Petronella_/_My Love She’s But A Lassie Yet_
+- Cronin's Hornpipe
 
 ## Reels
 
@@ -148,11 +157,12 @@ description: "Tunes I play."
 - Cup Of Tea/Silver Spear/The Humours Of Tulla
 - Bag Of Spuds/Brenda Subbert’s
 - The Old Concertina(Micho Russel's)/Cooley’s/The Wise Maid
+- Dunmore Lasses/Morning Dew/The Star Of Munster
+- _Ríl An Spidéil_/_The Twelve Pins_
 - _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
 - _Sword In The Hand_/_The Province Reel_/The Old Bush
 - _Tommy Peoples’_/_The Long Drop_/Drowsie Maggie
-- _Dunmore Lasses_/Morning Dew/_The Star Of Munster_
-- _Father Kelly’s_/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
+- Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
 - _Jenny Picking Cockles_/Over The Moor To Maggie/_Rakish Paddy_
 - _The Temperance Reel_/_George White’s Favourite_/_The Virginia Reel_
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
@@ -160,6 +170,8 @@ description: "Tunes I play."
 - _The Musical Priest_/_John Stetson’s no2_
 - _Paddy Fahey’s_/_Francie Donnellan’s_/_The Fisherman’s Island_
 - The Ashplant
+- St. Anne’s Reel
+- The Maid Behind the Bar
 - _Mother And Child_
 - _Lucy Campbell's_
 - _The Merry Blacksmith_
@@ -181,11 +193,33 @@ description: "Tunes I play."
 ### Reels - own sets:
 
 - Morning Dew/Golden Keyboard
-- Andy McGann’s No. 42/Gweebarra Bridge/_Rodney MIller’s_
+- Andy McGann’s No. 42/Gweebarra Bridge/_Rodney Miller’s_
 - Mollie McCarthy/Slow Reel/Cup of Tea
 - The Wise Maid/Over the Moor to Maggie
 - Cooley’s/Drowsie Maggie
 - Fairy Dance/St. Anne’s Reel
 - The Mountain Road/Dick Gossip’s/McLeod’s Farewell
+- Brenda Stubbert’s Reel/Da New-Riggit Ship/Sleep Sound In The Morning
+- Bag of Spuds/_Copperplate_
+- Silver Spear/_The Green Gates_
 - _The Trip To Durrow_/The Maid Behind the Bar/The Otters Holt
-- _The Reel of Rio_/The Old Bush
+- The Reel of Rio/The Old Bush
+
+## Carolan
+
+### Carolan - Fonó:
+
+- Eleanor Plunkett
+- Planxty Irwin
+
+### Carolan - own sets:
+
+- Eleanor Plunkett/Planxty Irwin
+
+## Waltzes
+
+### Waltzes - Fonó:
+
+- Inisheer
+
+### Waltzes - own sets:
