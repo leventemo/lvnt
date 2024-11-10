@@ -20,8 +20,9 @@ description: "Tunes I play."
 - Geese In The Bog/Connaughtman’s Rambles/Out On The Ocean
 - Tripping Up The Stairs/The Lisnagún
 - Young Tom Ennis/My Darling Asleep/Club Céili (The Old Favourite)
+- Paidin O’Rafferty/Jim Ward’s/When The Cock Crows
+- The Wren's Nest no1/The Wren's Nest no2 (Morgan Rattle/Cordal)/Banish Misfortune
 - _The Famous Baravan_/The Donegal Lass
-- _Paidin O’Rafferty_/Jim Ward’s/_When The Cock Crows_
 - Dusty Windowsills/_Rose In The Heather_/_Cliffs Of Moher_
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
 - _O’Dea’s_/_Adam and Eve_
@@ -34,19 +35,18 @@ description: "Tunes I play."
 - _Carraroe_/_The Hag At The Churn_/_Patsy Geary’s Slide_
 - Morrison’s
 - Calliope House
-- Banish Misfortune
+- Leslie's March
+- Blarney Pilgrim
+- _Rolling Waves_
 - _The Smiling Bride_
 - _Lark In The Morning_
-- _Blarney Pilgrim_
 - _The Frost Is All Over_
 - _The Humours Of Ennistymon_
 - _Gallagher's Frolics_
 - _Saddle The Pony_
 - _The Humours Of Ballyloughlin_
-- _Rolling Waves_
 - _Hunting The Squirrel_
 - _Anne Fraser MacKenzie_
-- _The Wren's Nest_
 
 ### Jigs - own sets:
 
@@ -76,7 +76,7 @@ description: "Tunes I play."
 - _Lisbet’s Kitchen_/_Józsi’s_
 - _Jigs For John_ ...
 - _The Irish Washerwoman/Pull Out The Knife And Stick It Again_
-- _Morgan Lattler_
+- Morgan Lattler
 - _Jig Of Slurs_
 
 ## Slips jigs
@@ -119,7 +119,7 @@ description: "Tunes I play."
 - Maggie In The Wood/Oh The Britches Full Of Stitches (in A)
 - Balleydesmond 3-1-2
 - Balleydesmond 2/Balleydesmond 1/_Cathy’s Favourite_
-- The Siege Of Ennis/Balleydesmond 2/\_Ed Kelly’s Polka
+- The Siege Of Ennis/Balleydesmond 2/Ed Kelly’s Polka
 - Maggie In The Wood/Oh The Britches Full Of Stitches
 - _Jer O’Connel’s_/_Patrick O’Connor’s_/Oh The Britches Full Of Stitches
 - _Din Tarrant’s_/_Tom Barrett’s_/_O’Connor’s_
@@ -146,6 +146,7 @@ description: "Tunes I play."
 - Rights of Man/Chief O’Neills Favourite/Sailor’s Hornpipe
 - O’Connor’s Favourite/Kildare Fancy/Brendan Vincent’s Favourite
 - The Plains of the Boyle/Swinging on the Gate
+- The Stage Hornpipe/Junior Crehan's
 - Flowers Of Edinburgh/_Coo Coo_/_Petronella_/_My Love She’s But A Lassie Yet_
 - Cronin's Hornpipe
 
@@ -158,6 +159,7 @@ description: "Tunes I play."
 - Bag Of Spuds/Brenda Subbert’s
 - The Old Concertina(Micho Russel's)/Cooley’s/The Wise Maid
 - Dunmore Lasses/Morning Dew/The Star Of Munster
+- Salamanca Reel/The Banshee (McMahon's)/Sailor's Bonnet
 - _Ríl An Spidéil_/_The Twelve Pins_
 - _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
 - _Sword In The Hand_/_The Providence Reel_/The Old Bush
@@ -174,7 +176,7 @@ description: "Tunes I play."
 - The Maid Behind the Bar
 - Reel Of Rio
 - The Merry Blacksmith
-- _Salamanca Reel_
+- _The Man Of Aran_
 - _Mother And Child_
 - _Lucy Campbell's_
 - _Sally Gardens_
@@ -184,7 +186,6 @@ description: "Tunes I play."
 - _Tim Maloney's_
 - _The Bucks of Oranmore_
 - _The Congress Reel_
-- _The Banshee(McMahon's)_
 - _The Morning Star_
 - _Sergeant Early's Dream_
 - _Blair Athol_
@@ -223,6 +224,7 @@ description: "Tunes I play."
 ### Waltzes - Fonó:
 
 - Inisheer
+- _Give Me Your Hand_
 
 ## Schottische
 
