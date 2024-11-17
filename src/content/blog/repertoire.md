@@ -22,10 +22,10 @@ description: "Tunes I play."
 - Young Tom Ennis/My Darling Asleep/Club Céili (The Old Favourite)
 - Paddy O’Rafferty/Jim Ward’s/When The Cock Crows
 - The Wren's Nest no1/The Wren's Nest no2 (Morgan Rattle/Cordal)/Banish Misfortune
-- _The Famous Baravan_/The Donegal Lass
 - Dusty Windowsills(Blasket Sound)/_Rose In The Heather_/_Cliffs Of Moher_
+- The Lilting Banshee/_Haste To The Wedding_/_The Maid On The Green_
+- _The Famous Baravan_/The Donegal Lass
 - _Carraroe_/_The Hag At The Churn_/_Patsy Geary’s Slide_
-- _The Lilting Banshee_/_Haste To The Wedding_/_The Maid On The Green_
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
 - _O’Dea’s_/_Adam and Eve_
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
@@ -33,12 +33,12 @@ description: "Tunes I play."
 - _Christy Barry’s #1_/_Christy Barry’s #2_
 - _The Hole In The Hedge_/_Seamus Cooley’s_
 - _The Castle (Sean Ryan's)_/_The Nightingale-_
+- _The Smiling Bride_/_The Handsome Young Maidens_
 - Morrison’s
 - Calliope House
 - Leslie's March
 - Blarney Pilgrim
 - _Rolling Waves_
-- _The Smiling Bride_/_The Handsome Young Maidens_
 - _Lark In The Morning_
 - _The Frost Is All Over_
 - _The Humours Of Ennistymon_
