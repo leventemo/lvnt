@@ -20,25 +20,25 @@ description: "Tunes I play."
 - Geese In The Bog/Connaughtman’s Rambles/Out On The Ocean
 - Tripping Up The Stairs/The Lisnagún
 - Young Tom Ennis/My Darling Asleep/Club Céili (The Old Favourite)
-- Paidin O’Rafferty/Jim Ward’s/When The Cock Crows
+- Paddy O’Rafferty/Jim Ward’s/When The Cock Crows
 - The Wren's Nest no1/The Wren's Nest no2 (Morgan Rattle/Cordal)/Banish Misfortune
 - _The Famous Baravan_/The Donegal Lass
-- Dusty Windowsills/_Rose In The Heather_/_Cliffs Of Moher_
+- Dusty Windowsills(Blasket Sound)/_Rose In The Heather_/_Cliffs Of Moher_
+- _Carraroe_/_The Hag At The Churn_/_Patsy Geary’s Slide_
+- _The Lilting Banshee_/_Haste To The Wedding_/_The Maid On The Green_
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
 - _O’Dea’s_/_Adam and Eve_
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
 - Monaghan/_Mist On The Mountain_/_Humours of Drinagh_
-- _The Lilting Banshee_/_Haste To The Wedding_/_The Maid On The Green_
 - _Christy Barry’s #1_/_Christy Barry’s #2_
 - _The Hole In The Hedge_/_Seamus Cooley’s_
 - _The Castle (Sean Ryan's)_/_The Nightingale-_
-- _Carraroe_/_The Hag At The Churn_/_Patsy Geary’s Slide_
 - Morrison’s
 - Calliope House
 - Leslie's March
 - Blarney Pilgrim
 - _Rolling Waves_
-- _The Smiling Bride_
+- _The Smiling Bride_/_The Handsome Young Maidens_
 - _Lark In The Morning_
 - _The Frost Is All Over_
 - _The Humours Of Ennistymon_
@@ -52,10 +52,10 @@ description: "Tunes I play."
 
 - The Woodcock/Kerfunten
 - _Sixpenny Money_/Rambling Pitchfork/The Eavesdropper
-- _Bothy Band Jig_/The Kesh Jig/Morrison’s
+- _The Hag At The Churn_/The Kesh Jig/Morrison’s
 - Tooth Fairy/Calliope House/Kevin’s
 - Tobin’s/Monaghan Jig
-- Gallowglass/Blasket Sound/Donegal Lass
+- Gallowglass/Blasket Sound(Dusty Windowsills)/Donegal Lass
 - _Thugamar Fein An Samhradh Linn_/_Casey’s_
 - Jim Ward’s/_Sully’s_/_Sliabh Russell_
 - _Humours Of Glendart/The Trip To Athlone/Blackthorn Stick_
@@ -83,8 +83,8 @@ description: "Tunes I play."
 
 ### Slip jigs - Fonó:
 
-- Elizabeth Kelly’s Delight/Na Ceannabháin Bhána
-- The Butterfly/Nead na Lachan sa mhúta
+- Elizabeth Kelly’s Delight/Na Ceannabháin Bhána (The Cottongrass Flowers)
+- The Butterfly/Nead na Lachan sa mhúta (The Foxhunter)
 - _The Exile’s Jig_/_Wink And She’ll Follow You_
 - Kid On The Mountain
 - Fig For A Kiss
@@ -103,7 +103,7 @@ description: "Tunes I play."
 - The Brosna no.1/Denis Murphy’s/Dingle Regatta
 - Star Above The Garter/Johnny Mickey’s/Dingle Regatta
 - The Road To Lisdoonvarna
-- _Patsy Geary’s_
+- _Patsy Geary’s Slide_
 - _The Brosna no.2_
 - _The Weavers_
 
@@ -119,16 +119,17 @@ description: "Tunes I play."
 - Maggie In The Wood/Oh The Britches Full Of Stitches (in A)
 - Balleydesmond 3-1-2
 - Balleydesmond 2/Balleydesmond 1/_Cathy’s Favourite_
-- The Siege Of Ennis/Balleydesmond 2/Ed Kelly’s Polka
+- The Siege Of Ennis/Balleydesmond 2/Ned Kelly’s Polka
 - Maggie In The Wood/Oh The Britches Full Of Stitches
 - _Jer O’Connel’s_/_Patrick O’Connor’s_/Oh The Britches Full Of Stitches
 - _Din Tarrant’s_/_Tom Barrett’s_/_O’Connor’s_
+- _The Glen Cottage No1_/_The Glen Cottage No2_
 - Kerry Polka
 
 ### Polkas - own sets:
 
 - Kerry Polka/Balleydesmond 1/Balleydesmond 2
-- Maggie in the Wood/_Gan Ainm_/_Mark Quinn’s_/_Gan Ainm_/_The Maids of Armagh_
+- The Britches Full Of Stiches (in G)/Maggie In The Wood/_Mark Quinn’s_/_Gan Ainm_/_The Maids of Armagh_
 
 ## Hornpipes
 
@@ -137,14 +138,14 @@ description: "Tunes I play."
 - Rights Of Man/_King Of The Fairies_
 - Boys Of Bluehill/Harvest Home/Cronin’s
 - _The Galway Hornpipe_/The Flowers Of Edinburgh
+- _The Blackbird_/_Poll Ha’penny_
 - _Petronella_
 - _The Peacock’s Feather 1-2_
-- _The Blackbird_/_Poll Ha’penny_
 
 ### Hornpipes - own sets:
 
 - Rights of Man/Chief O’Neills Favourite/Sailor’s Hornpipe
-- O’Connor’s Favourite/Kildare Fancy/Brendan Vincent’s Favourite
+- O'Connor's Favourite/Kildare Fancy/Brendan Vincent’s Favourite
 - The Plains of the Boyle/Swinging on the Gate
 - The Stage Hornpipe/Junior Crehan's
 - Flowers Of Edinburgh/_Coo Coo_/_Petronella_/_My Love She’s But A Lassie Yet_
@@ -160,6 +161,7 @@ description: "Tunes I play."
 - The Old Concertina(Micho Russel's)/Cooley’s/The Wise Maid
 - Dunmore Lasses/Morning Dew/The Star Of Munster
 - Salamanca Reel/The Banshee (McMahon's)/Sailor's Bonnet
+- _Crowley’s No1_/The Concertina/_Mulqueen’s_
 - _Ríl An Spidéil_/_The Twelve Pins_
 - _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
 - _Sword In The Hand_/_The Providence Reel_/The Old Bush
@@ -176,6 +178,7 @@ description: "Tunes I play."
 - The Maid Behind the Bar
 - Reel Of Rio
 - The Merry Blacksmith
+- _The Ships Are Sailing_
 - _The Man Of Aran_
 - _Mother And Child_
 - _Lucy Campbell's_
@@ -207,6 +210,8 @@ description: "Tunes I play."
 - Silver Spear/_The Green Gates_
 - _The Trip To Durrow_/The Maid Behind the Bar/The Otters Holt
 - The Reel of Rio/The Old Bush
+- The Trip To Pakistan
+- The Trip To Herve's
 
 ## Carolan
 
@@ -218,6 +223,7 @@ description: "Tunes I play."
 ### Carolan - own sets:
 
 - Eleanor Plunkett/Planxty Irwin
+- Carolan's Welcome/Lord Inchiquin
 
 ## Waltzes
 
