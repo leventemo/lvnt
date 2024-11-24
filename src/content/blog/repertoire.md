@@ -22,10 +22,10 @@ description: "Tunes I play."
 - Young Tom Ennis/My Darling Asleep/Club Céili (The Old Favourite)
 - Paddy O’Rafferty/Jim Ward’s/When The Cock Crows
 - The Wren's Nest no1/The Wren's Nest no2 (Morgan Rattle/Cordal)/Banish Misfortune
-- Dusty Windowsills(Blasket Sound)/_Rose In The Heather_/_Cliffs Of Moher_
+- Dusty Windowsills(Blasket Sound)/Rose In The Heather/Cliffs Of Moher
+- _Carraroe_/_The Hag At The Churn_/_Patsy Geary’s Slide_
 - The Lilting Banshee/_Haste To The Wedding_/_The Maid On The Green_
 - _The Famous Baravan_/The Donegal Lass
-- _Carraroe_/_The Hag At The Churn_/_Patsy Geary’s Slide_
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
 - _O’Dea’s_/_Adam and Eve_
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
@@ -161,13 +161,13 @@ description: "Tunes I play."
 - The Old Concertina(Micho Russel's)/Cooley’s/The Wise Maid
 - Dunmore Lasses/Morning Dew/The Star Of Munster
 - Salamanca Reel/The Banshee (McMahon's)/Sailor's Bonnet
+- _Jenny Picking Cockles_/Over The Moor To Maggie/_Rakish Paddy_
 - _Crowley’s No1_/The Concertina/_Mulqueen’s_
 - _Ríl An Spidéil_/_The Twelve Pins_
 - _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
 - _Sword In The Hand_/_The Providence Reel_/The Old Bush
 - _Tommy Peoples’_/_The Long Drop_/Drowsie Maggie
 - Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
-- _Jenny Picking Cockles_/Over The Moor To Maggie/_Rakish Paddy_
 - _The Temperance Reel_/_George White’s Favourite_/_The Virginia Reel_
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
 - _The Galtee Rangers_/_Glentown Reel_/_The Doon_
@@ -178,7 +178,7 @@ description: "Tunes I play."
 - The Maid Behind the Bar
 - Reel Of Rio
 - The Merry Blacksmith
-- _The Ships Are Sailing_
+- The Ships Are Sailing
 - _The Man Of Aran_
 - _Mother And Child_
 - _Lucy Campbell's_
