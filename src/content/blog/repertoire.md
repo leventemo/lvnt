@@ -23,7 +23,7 @@ description: "Tunes I play."
 - Paddy O’Rafferty/Jim Ward’s/When The Cock Crows
 - The Wren's Nest no1/The Wren's Nest no2 (Morgan Rattle/Cordal)/Banish Misfortune
 - Dusty Windowsills(Blasket Sound)/Rose In The Heather/Cliffs Of Moher
-- _Carraroe_/_The Hag At The Churn_/_Patsy Geary’s Slide_
+- _Carraroe_/The Hag At The Churn/Patsy Geary’s Slide
 - The Lilting Banshee/_Haste To The Wedding_/_The Maid On The Green_
 - _The Famous Baravan_/The Donegal Lass
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
@@ -38,7 +38,7 @@ description: "Tunes I play."
 - Calliope House
 - Leslie's March
 - Blarney Pilgrim
-- _Rolling Waves_
+- Rolling Waves
 - _Lark In The Morning_
 - _The Frost Is All Over_
 - _The Humours Of Ennistymon_
@@ -52,7 +52,7 @@ description: "Tunes I play."
 
 - The Woodcock/Kerfunten
 - _Sixpenny Money_/Rambling Pitchfork/The Eavesdropper
-- _The Hag At The Churn_/The Kesh Jig/Morrison’s
+- The Hag At The Churn/The Kesh Jig/Morrison’s
 - Tooth Fairy/Calliope House/Kevin’s
 - Tobin’s/Monaghan Jig
 - Gallowglass/Blasket Sound(Dusty Windowsills)/Donegal Lass
@@ -103,7 +103,7 @@ description: "Tunes I play."
 - The Brosna no.1/Denis Murphy’s/Dingle Regatta
 - Star Above The Garter/Johnny Mickey’s/Dingle Regatta
 - The Road To Lisdoonvarna
-- _Patsy Geary’s Slide_
+- Patsy Geary’s Slide
 - _The Brosna no.2_
 - _The Weavers_
 
@@ -121,9 +121,9 @@ description: "Tunes I play."
 - Balleydesmond 2/Balleydesmond 1/_Cathy’s Favourite_
 - The Siege Of Ennis/Balleydesmond 2/Ned Kelly’s Polka
 - Maggie In The Wood/Oh The Britches Full Of Stitches
+- The Glen Cottage No1/The Glen Cottage No2
 - _Jer O’Connel’s_/_Patrick O’Connor’s_/Oh The Britches Full Of Stitches
 - _Din Tarrant’s_/_Tom Barrett’s_/_O’Connor’s_
-- _The Glen Cottage No1_/_The Glen Cottage No2_
 - Kerry Polka
 
 ### Polkas - own sets:
@@ -138,7 +138,7 @@ description: "Tunes I play."
 - Rights Of Man/_King Of The Fairies_
 - Boys Of Bluehill/Harvest Home/Cronin’s
 - _The Galway Hornpipe_/The Flowers Of Edinburgh
-- _The Blackbird_/_Poll Ha’penny_
+- The Blackbird/_Poll Ha’penny_
 - _Petronella_
 - _The Peacock’s Feather 1-2_
 
@@ -161,8 +161,8 @@ description: "Tunes I play."
 - The Old Concertina(Micho Russel's)/Cooley’s/The Wise Maid
 - Dunmore Lasses/Morning Dew/The Star Of Munster
 - Salamanca Reel/The Banshee (McMahon's)/Sailor's Bonnet
-- _Jenny Picking Cockles_/Over The Moor To Maggie/_Rakish Paddy_
-- _Crowley’s No1_/The Concertina/_Mulqueen’s_
+- Jenny Picking Cockles/Over The Moor To Maggie/_Rakish Paddy_
+- Crowley’s No1/The Concertina/Mulqueen’s
 - _Ríl An Spidéil_/_The Twelve Pins_
 - _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
 - _Sword In The Hand_/_The Providence Reel_/The Old Bush
