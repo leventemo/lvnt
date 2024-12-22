@@ -243,9 +243,12 @@ Select all occurences of Find match
 - Win: `Alt+Enter`
 - Mac: `Option+Enter`
 
-## Rich languages editing
+## Editing
 
-...
+Toggle between overwrite/insert modes
+
+- Win: `Ctr+Shift+P` then type "overwrite"
+- Mac: `Cmd+Shift+P` then type "overwrite"
 
 ## Navigation
 
