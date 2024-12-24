@@ -23,7 +23,7 @@ description: "Tunes I play."
 - Paddy O’Rafferty/Jim Ward’s/When The Cock Crows
 - The Wren's Nest no1/The Wren's Nest no2 (Morgan Rattle/Cordal)/Banish Misfortune
 - Dusty Windowsills(Blasket Sound)/Rose In The Heather/Cliffs Of Moher
-- _Carraroe_/The Hag At The Churn/Patsy Geary’s Slide
+- Carraroe/The Hag At The Churn/Patsy Geary’s Slide
 - The Lilting Banshee/_Haste To The Wedding_/_The Maid On The Green_
 - _The Famous Baravan_/The Donegal Lass
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
@@ -32,7 +32,7 @@ description: "Tunes I play."
 - Monaghan/_Mist On The Mountain_/_Humours of Drinagh_
 - _Christy Barry’s #1_/_Christy Barry’s #2_
 - _The Hole In The Hedge_/_Seamus Cooley’s_
-- _The Castle (Sean Ryan's)_/_The Nightingale-_
+- _The Castle (Sean Ryan's)_/_The Nightingale_
 - _The Smiling Bride_/_The Handsome Young Maidens_
 - Morrison’s
 - Calliope House
@@ -135,10 +135,10 @@ description: "Tunes I play."
 
 ### Hornpipes - Fonó:
 
-- Rights Of Man/_King Of The Fairies_
+- The Blackbird/Poll Ha’penny
 - Boys Of Bluehill/Harvest Home/Cronin’s
+- Rights Of Man/_King Of The Fairies_
 - _The Galway Hornpipe_/The Flowers Of Edinburgh
-- The Blackbird/_Poll Ha’penny_
 - _Petronella_
 - _The Peacock’s Feather 1-2_
 
@@ -161,14 +161,14 @@ description: "Tunes I play."
 - The Old Concertina(Micho Russel's)/Cooley’s/The Wise Maid
 - Dunmore Lasses/Morning Dew/The Star Of Munster
 - Salamanca Reel/The Banshee (McMahon's)/Sailor's Bonnet
-- Jenny Picking Cockles/Over The Moor To Maggie/_Rakish Paddy_
+- Jenny Picking Cockles/Over The Moor To Maggie/Rakish Paddy
 - Crowley’s No1/The Concertina/Mulqueen’s
+- The Temperance Reel/George White’s Favourite/The Virginia Reel
 - _Ríl An Spidéil_/_The Twelve Pins_
 - _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
 - _Sword In The Hand_/_The Providence Reel_/The Old Bush
 - _Tommy Peoples’_/_The Long Drop_/Drowsie Maggie
 - Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
-- _The Temperance Reel_/_George White’s Favourite_/_The Virginia Reel_
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
 - _The Galtee Rangers_/_Glentown Reel_/_The Doon_
 - _The Musical Priest_/_John Stetson’s no2_
@@ -179,6 +179,7 @@ description: "Tunes I play."
 - Reel Of Rio
 - The Merry Blacksmith
 - The Ships Are Sailing
+- Within A Mile Of Dublin
 - _The Man Of Aran_
 - _Mother And Child_
 - _Lucy Campbell's_
