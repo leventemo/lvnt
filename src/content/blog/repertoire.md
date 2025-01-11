@@ -23,22 +23,23 @@ description: "Tunes I play."
 - Paddy O’Rafferty/Jim Ward’s/When The Cock Crows
 - The Wren's Nest no1/The Wren's Nest no2 (Morgan Rattle/Cordal)/Banish Misfortune
 - Dusty Windowsills(Blasket Sound)/Rose In The Heather/Cliffs Of Moher
-- Carraroe/The Hag At The Churn/Patsy Geary’s Slide
+- The Hag At The Churn/Patsy Geary’s Slide
+- Calliope House/The Cowboy Jig/Carraroe
+- O’Dea’s/Adam and Eve (Kevin McHugh's)
 - The Lilting Banshee/_Haste To The Wedding_/_The Maid On The Green_
 - _The Famous Baravan_/The Donegal Lass
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
-- _O’Dea’s_/_Adam and Eve_
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
-- Monaghan/_Mist On The Mountain_/_Humours of Drinagh_
+- _Mist On The Mountain_/_Humours of Drinagh_
+- _The Smiling Bride_/_The Handsome Young Maidens_
 - _Christy Barry’s #1_/_Christy Barry’s #2_
 - _The Hole In The Hedge_/_Seamus Cooley’s_
 - _The Castle (Sean Ryan's)_/_The Nightingale_
-- _The Smiling Bride_/_The Handsome Young Maidens_
 - Morrison’s
-- Calliope House
 - Leslie's March
 - Blarney Pilgrim
 - Rolling Waves
+- Monaghan
 - _Lark In The Morning_
 - _The Frost Is All Over_
 - _The Humours Of Ennistymon_
@@ -164,22 +165,24 @@ description: "Tunes I play."
 - Jenny Picking Cockles/Over The Moor To Maggie/Rakish Paddy
 - Crowley’s No1/The Concertina/Mulqueen’s
 - The Temperance Reel/George White’s Favourite/The Virginia Reel
+- Within A Mile Of Dublin/Sword In The Hand/Miss McLeod's
+- The Boyne Hunt/Shannon Breeze (Rolling In The Ryegrass)/Red Haired Lass
 - _Ríl An Spidéil_/_The Twelve Pins_
-- _The Boyne Hunt_/Shannon Breeze (Rolling In The Ryegrass)/_Red Haired Lass_
-- _Sword In The Hand_/_The Providence Reel_/The Old Bush
 - _Tommy Peoples’_/_The Long Drop_/Drowsie Maggie
 - Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
 - _The Galtee Rangers_/_Glentown Reel_/_The Doon_
 - _The Musical Priest_/_John Stetson’s no2_
 - _Paddy Fahey’s_/_Francie Donnellan’s_/_The Fisherman’s Island_
+- _Porthole Of The Kelp_/_The Maids Of Mitchelstown_
 - The Ashplant
 - St. Anne’s Reel
 - The Maid Behind the Bar
 - Reel Of Rio
 - The Merry Blacksmith
 - The Ships Are Sailing
-- Within A Mile Of Dublin
+- The Old Bush
+- _The Providence Reel_
 - _The Man Of Aran_
 - _Mother And Child_
 - _Lucy Campbell's_
@@ -231,7 +234,7 @@ description: "Tunes I play."
 ### Waltzes - Fonó:
 
 - Inisheer
-- _Give Me Your Hand_
+- Give Me Your Hand
 
 ## Schottische
 
