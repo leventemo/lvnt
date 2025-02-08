@@ -3,12 +3,4 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I've been dipping a toe in web development for a while now and I've decided to set up this digital garden. Hope to see it bear some fruit. Or veg?
-
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-I write code in JavaScript & TypeScript, and whatever comes with those. I'd been slowly approaching ReactJS before getting down to learning Angular and just recently, I've also become interested in testing. You can read more about my journey [here](/posts/learning-tracker).
+I think and I feel. I try to be better at listening to people and music, mostly instrumental at that, I don't know why. I write code and I play the flute and I've decided to set up this digital garden. Hope to see it bear some fruit. Or veg? Or what?
