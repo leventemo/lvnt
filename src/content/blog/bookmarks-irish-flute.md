@@ -158,8 +158,8 @@ description: "My response to the question of who to listen to if you want to exp
 
 ## OTHER RESOURCES:
 
-  [Terry McGee's website](https://www.mcgee-flutes.com/) - tons of historical & technical info in one place
+- [Terry McGee's website](https://www.mcgee-flutes.com/) - tons of historical & technical info in one place
 - [S.C. Hamilton: The Irish Flute Player's Handbook](https://sc-hamilton.ie/handbook/)
-- [scores](thesession.org)
+- [scores](https://thesession.org/)
 - [tune info](https://www.irishtune.info/)
 - [Chiff and Fipple Flute Forum](https://forums.chiffandfipple.com/viewforum.php?f=2)
