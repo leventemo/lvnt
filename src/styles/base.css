@@ -108,6 +108,11 @@
   ::-webkit-scrollbar-thumb:hover {
     @apply bg-skin-card-muted;
   }
+
+  .full-width-container {
+    display: grid;
+    place-content: center;
+  }
 }
 
 @layer components {
