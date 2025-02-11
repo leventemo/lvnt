@@ -33,12 +33,11 @@ description: "My response to the question of who to listen to if you want to exp
 - [Out Of The Ashes, 2016](https://www.youtube.com/watch?v=N997Afj6YPs&list=OLAK5uy_l2ks_RKU2D2IJXkuwtD35gsm_h0U-ke00)
 - [Back To The Island, 2019](https://www.youtube.com/watch?v=nFR-1UvIKpQ&list=OLAK5uy_mhTTz_0sCtZARup4HLnuwGj8k0ghDZBzMnSU)
 
-## Isaac Muller in Mulligans, Amsterdam
+## Isaac Muller
 
 ### video
 
-- Another example of the flute-and-fiddle act.
-- [link](https://www.youtube.com/watch?v=dLpHe-aG-l8)
+- [in Mulligans, Amsterdam](https://www.youtube.com/watch?v=dLpHe-aG-l8)
 
 ## Jean-Michel Veillon
 
@@ -56,11 +55,16 @@ description: "My response to the question of who to listen to if you want to exp
 
 ## Paul McGrattan
 
-### video
+### album
+
+[The Frost is All Over](https://www.youtube.com/watch?v=FYnVzHmAIpg&list=OLAK5uy_kbYbyDcGWSUyXjERzqIpYsItqBMYD9jIE)
+
+## Cein Sweeney
 
 ### albums
 
-[The Frost is All Over](https://www.youtube.com/watch?v=FYnVzHmAIpg&list=OLAK5uy_kbYbyDcGWSUyXjERzqIpYsItqBMYD9jIE)
+- [Carlos * Sweeney * McCartin](https://www.youtube.com/watch?v=Rm9PdKHK0D4&list=OLAK5uy_m4LMEfX4POd8a6s7P2eYE3Yrmoh_Cl2MA)
+- [The One After It](https://www.youtube.com/watch?v=23PLkjKBE3g&list=OLAK5uy_mHhMK_1fiIi8HPva6AcYoNmzjPsWHrjsA)
 
 ## Brendan Mulholland
 
@@ -82,6 +86,8 @@ description: "My response to the question of who to listen to if you want to exp
 
 ## Conal o'Grada
 
+### video
+
 [3 reels](https://www.youtube.com/watch?v=jQvtl1QZW_c)
 
 ## Sylvain Barou
@@ -98,9 +104,9 @@ description: "My response to the question of who to listen to if you want to exp
 
 ### video
 
+[M. McGoldrick - Dezi Donnelly: Rainy Day set](https://www.youtube.com/watch?v=_h_hnvJle2E)
 [Elmstein1](https://www.youtube.com/watch?v=p9qY5OM5SbU)
 [Elmstein2](https://www.youtube.com/watch?v=sHkGR5Ohb10)
-[M. McGoldrick - Dezi Donnelly: Rainy Day set](https://www.youtube.com/watch?v=_h_hnvJle2E)
 
 ## Tom Oakes
 
@@ -114,50 +120,46 @@ description: "My response to the question of who to listen to if you want to exp
 
 - [Colonel Fraser's](https://www.youtube.com/watch?v=z4NannKg3qQ)
 
-## Steffen Gabriel, flute player and flute maker
+## Steffen Gabriel, flute player and [flute maker](https://www.gabrielflutes.com/english)
 
 ### video
 
-- [Youtube](https://www.youtube.com/@irishwoodenflutessteffenga6774)
+- [Youtube channel](https://www.youtube.com/@irishwoodenflutessteffenga6774)
 - [Land's Ends Sessions "Palmer's Gate"](https://www.youtube.com/watch?v=kp_fqtBiIL8)
 
 ### album
 
 - [The Land's End Sessions](https://www.youtube.com/watch?v=UDZpfgKH-aQ&list=OLAK5uy_kEuKfyJqaws2CTULFjR2lke2CvvfYme20)
 
-### website
+## Sarah Hale, teaching tunes on Youtube
 
-- [website](https://www.gabrielflutes.com/english)
+### video
 
-## Sarah Hale
+- [Youtube channel](https://www.youtube.com/@sarahhale176)
 
-[Youtube](https://www.youtube.com/@sarahhale176)
+## Shannon Heaton, teaching tunes on Youtube
 
-## Shannon Heaton
+### video
 
-[Youtube](https://www.youtube.com/@ShannonHeatonMusic)
+- [Youtube channel](https://www.youtube.com/@ShannonHeatonMusic)
 
-Ismerek még két régizene felől érkezőt. Repertoárjukon és játékmódjukon lehet is hallani ezt, biztos tetszeni fog neked.
+## Chris Norman, with early music background, [player and maker](https://chrisnorman.com/)
 
-## Chris Norman:
+### video
 
-https://chrisnorman.com/
-Youtube: https://www.youtube.com/@BoxwoodMediaMusic
-megvan van egy-két CD-je, ha majd érdekel
+- [Youtube channel](https://www.youtube.com/@BoxwoodMediaMusic)
 
-## Brian Barryman - historizáló, 1 cd
+## Brian Barryman, with early music background
 
-http://www.brianberryman.com/
-Youtube: https://www.youtube.com/@brianberryman7264
-megvan a Crossing The Border CD-je
+### video
 
-## Woodenflute Obsession cd-k
+- [Youtube channel](https://www.youtube.com/@brianberryman7264)
+- [website](http://www.brianberryman.com/)
 
 ## OTHER RESOURCES:
 
-- Terry McGee: tons of historical & technical info in one place
-  [website](https://www.mcgee-flutes.com/)
-- Hammy Handbook
+  [Terry McGee's website](https://www.mcgee-flutes.com/) - tons of historical & technical info in one place
+- [S.C. Hamilton: The Irish Flute Player's Handbook](https://sc-hamilton.ie/handbook/)
 - [scores](thesession.org)
 - [tune info](https://www.irishtune.info/)
-- Chiff and Fipple Flute Forum
+- [Chiff and Fipple Flute Forum](https://forums.chiffandfipple.com/viewforum.php?f=2)
