@@ -2,7 +2,7 @@
 title: Bookmarks - Irish flute
 author: Leventemo
 pubDatetime: 2025-02-08T11:11:51Z
-postSlug: bookmarks/irish-flute
+postSlug: bookmarks-irish-flute
 featured: false
 draft: false
 tags:
