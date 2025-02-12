@@ -74,7 +74,7 @@ description: "My response to the question of who to listen to if you want to exp
 
 ### albums
 
-- [Tuned Up and Music In The Glen](https://www.youtube.com/watch?v=ldwDLfYl650&list=PL_ZO2WYkA5iVp3GbNudGeL1JUK-dcSWFR&index=8)
+- [Tuned Up / Music In The Glen](https://www.youtube.com/watch?v=ldwDLfYl650&list=PL_ZO2WYkA5iVp3GbNudGeL1JUK-dcSWFR&index=8)
 - [Jane's Hill](https://www.youtube.com/watch?v=oUsVjEJ9Kj8&list=OLAK5uy_lrfWMJVSr0_xd3-V0qmcXQGFICj5kFSdc)
 - [Bartin's Bay](https://www.youtube.com/watch?v=3aNcHFANNTg&list=OLAK5uy_n7Mzdtlk8gAGwgxZOJfR7Yh0se2uyY2Po)
 
@@ -104,9 +104,9 @@ description: "My response to the question of who to listen to if you want to exp
 
 ### video
 
-[M. McGoldrick - Dezi Donnelly: Rainy Day set](https://www.youtube.com/watch?v=_h_hnvJle2E)
-[Elmstein1](https://www.youtube.com/watch?v=p9qY5OM5SbU)
-[Elmstein2](https://www.youtube.com/watch?v=sHkGR5Ohb10)
+- [M. McGoldrick - Dezi Donnelly: Rainy Day set](https://www.youtube.com/watch?v=_h_hnvJle2E)
+- [Elmstein1](https://www.youtube.com/watch?v=p9qY5OM5SbU)
+- [Elmstein2](https://www.youtube.com/watch?v=sHkGR5Ohb10)
 
 ## Tom Oakes
 
