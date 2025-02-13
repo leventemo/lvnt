@@ -15,3 +15,7 @@ description: "Miscellaneous links worth revisiting."
 ## [Calculating Empires](https://calculatingempires.net)
 
 ## [Flexbox labs](https://flexboxlabs.netlify.app/)
+
+## [tsconfig.json](https://2ality.com/2025/01/tsconfig-json.html)
+
+## [Anglar: The Documentary](https://www.youtube.com/watch?v=cRC9DlH45lA)
