@@ -14,8 +14,16 @@ description: "Miscellaneous links worth revisiting."
 
 ## [Calculating Empires](https://calculatingempires.net)
 
+An overview of technology and power since 1500.
+
 ## [Flexbox labs](https://flexboxlabs.netlify.app/)
+
+Flexbox playground.
 
 ## [tsconfig.json](https://2ality.com/2025/01/tsconfig-json.html)
 
-## [Anglar: The Documentary](https://www.youtube.com/watch?v=cRC9DlH45lA)
+A guide to `tsconfig.json` by Axel Rauschmayer.
+
+## [Angular: The Documentary](https://www.youtube.com/watch?v=cRC9DlH45lA)
+
+The story of the Angular framework told by those involved.
