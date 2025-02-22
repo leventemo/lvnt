@@ -26,5 +26,6 @@ description: "Online tools I like to use."
 
 - [fffuel](https://www.fffuel.co/)
 
-## [CSS Selectors](https://www.fffuel.co/css-selectors/)
+## CSS Selectors
 
+- [fffuel - CSS Selectors](https://www.fffuel.co/css-selectors/)

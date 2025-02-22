@@ -27,3 +27,5 @@ A guide to `tsconfig.json` by Axel Rauschmayer.
 ## [TypeScript in a Node.js Project](https://www.robinwieruch.de/typescript-node-js/)
 
 ## [SQL Noir](https://www.sqlnoir.com)
+
+## [Naz Hamid](https://nazhamid.com/journal/)

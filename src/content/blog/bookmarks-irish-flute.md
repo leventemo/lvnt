@@ -35,8 +35,10 @@ description: "My response to the question of who to listen to if you want to exp
 
 ## Brian Finnegan
 
-### viedo
-- [Marcos](https://www.youtube.com/watch?v=wqes0Usn_j0&list=RDEMYlVPTblJZOtEkjEiMBSsJg&index=5)
+### video
+- [Kan: Marcos](https://www.youtube.com/watch?v=wqes0Usn_j0&list=RDEMYlVPTblJZOtEkjEiMBSsJg&index=5)
+- [Flook: The Crystal Year/Foxes' Rock](https://www.youtube.com/watch?v=z_mHccBFgQM)
+- [Starrs](https://www.youtube.com/watch?v=4qT8h7xiUB4)
 
 ## Isaac Muller
 
@@ -64,15 +66,39 @@ description: "My response to the question of who to listen to if you want to exp
 
 [The Frost is All Over](https://www.youtube.com/watch?v=FYnVzHmAIpg&list=OLAK5uy_kbYbyDcGWSUyXjERzqIpYsItqBMYD9jIE)
 
+## Harry Bradley
+
+### video
+
+- [Lord McDonald](https://www.youtube.com/watch?v=SHlm5MR7IfA)
+- [Willie Clancy Summer School, 2023](https://www.youtube.com/watch?v=ivj_rwkGlEk)
+
+## Emer Mayock
+
+### video
+- [Straight to Bed](https://www.youtube.com/watch?v=Ed1Q5DPxnsA)
+- [The Humours of Ballymanny/The Humours of Kiltyclogher/Bill the Weaver's](https://www.youtube.com/watch?v=6tM2L18cTNs)
+
 ## Seamus Egan
 * [Emily's Reel](https://www.youtube.com/watch?v=Yu26Y0DXyT8)
 
 ## Cein Sweeney
 
+### video
+
+- [Céin Sweeney & Barry Conaty: Showcase concert at Cruinniú na bhFliúit, 2021](https://www.youtube.com/watch?v=_yAK9yfjSH0)
+
 ### albums
 
 - [Carlos * Sweeney * McCartin](https://www.youtube.com/watch?v=Rm9PdKHK0D4&list=OLAK5uy_m4LMEfX4POd8a6s7P2eYE3Yrmoh_Cl2MA)
 - [The One After It](https://www.youtube.com/watch?v=23PLkjKBE3g&list=OLAK5uy_mHhMK_1fiIi8HPva6AcYoNmzjPsWHrjsA)
+
+## Barry Conaty
+
+### video
+
+- [Willie Clancy Summer School, 2024](https://www.youtube.com/watch?v=5Ruq7ko5CzI)
+- [Comhaltas Irish Tour, 2018](https://www.youtube.com/watch?v=X-99uTxg0xY)
 
 ## Brendan Mulholland
 
@@ -120,7 +146,7 @@ description: "My response to the question of who to listen to if you want to exp
 
 ### video
 
-[Devon Flute Player's Salute To Shetland](https://www.youtube.com/watch?v=rpdTXP9qHdo)
+- [Devon Flute Player's Salute To Shetland](https://www.youtube.com/watch?v=rpdTXP9qHdo)
 
 ## Órlaith McAuliffe
 
@@ -128,7 +154,13 @@ description: "My response to the question of who to listen to if you want to exp
 
 - [Colonel Fraser's](https://www.youtube.com/watch?v=z4NannKg3qQ)
 
-## Steffen Gabriel, flute player and [flute maker](https://www.gabrielflutes.com/english)
+## Eimear McGeown
+
+### video
+
+- [Bucks of Oranmore](https://www.youtube.com/watch?v=lWpXjrkk7jE)
+
+## Steffen Gabriel, flute player & [flute maker](https://www.gabrielflutes.com/english)
 
 ### video
 
@@ -166,7 +198,7 @@ description: "My response to the question of who to listen to if you want to exp
 
 ## OTHER RESOURCES:
 
-- [Terry McGee's website](https://www.mcgee-flutes.com/) - tons of historical & technical info in one place
+- [Terry McGee's website](https://www.mcgee-flutes.com/) - historical & technical info
 - [S.C. Hamilton: The Irish Flute Player's Handbook](https://sc-hamilton.ie/handbook/)
 - [scores](https://thesession.org/)
 - [tune info](https://www.irishtune.info/)
