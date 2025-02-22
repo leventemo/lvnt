@@ -6,7 +6,7 @@ postSlug: bookmarks-tools
 featured: false
 draft: false
 tags:
-  - tools
+  - tooling
   - bookmarks
 description: "Online tools I like to use."
 ---
