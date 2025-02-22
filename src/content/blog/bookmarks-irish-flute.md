@@ -33,6 +33,11 @@ description: "My response to the question of who to listen to if you want to exp
 - [Out Of The Ashes, 2016](https://www.youtube.com/watch?v=N997Afj6YPs&list=OLAK5uy_l2ks_RKU2D2IJXkuwtD35gsm_h0U-ke00)
 - [Back To The Island, 2019](https://www.youtube.com/watch?v=nFR-1UvIKpQ&list=OLAK5uy_mhTTz_0sCtZARup4HLnuwGj8k0ghDZBzMnSU)
 
+## Brian Finnegan
+
+### viedo
+- [Marcos](https://www.youtube.com/watch?v=wqes0Usn_j0&list=RDEMYlVPTblJZOtEkjEiMBSsJg&index=5)
+
 ## Isaac Muller
 
 ### video
@@ -58,6 +63,9 @@ description: "My response to the question of who to listen to if you want to exp
 ### album
 
 [The Frost is All Over](https://www.youtube.com/watch?v=FYnVzHmAIpg&list=OLAK5uy_kbYbyDcGWSUyXjERzqIpYsItqBMYD9jIE)
+
+## Seamus Egan
+* [Emily's Reel](https://www.youtube.com/watch?v=Yu26Y0DXyT8)
 
 ## Cein Sweeney
 

@@ -1,0 +1,30 @@
+---
+title: Bookmarks - Tools
+author: Leventemo
+pubDatetime: 2025-02-22T09:21:38Z
+postSlug: bookmarks-tools
+featured: false
+draft: false
+tags:
+  - tools
+  - bookmarks
+description: "Online tools I like to use."
+---
+
+## Table of contents
+
+## Layout
+
+ - [Flexbox labs](https://flexboxlabs.netlify.app/)
+
+## Colours
+
+- [Paletton](https://paletton.com)
+- [Super Color Palette](https://supercolorpalette.com)
+
+## Svg
+
+- [fffuel](https://www.fffuel.co/)
+
+## [CSS Selectors](https://www.fffuel.co/css-selectors/)
+

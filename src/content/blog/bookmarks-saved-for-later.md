@@ -16,14 +16,14 @@ description: "Miscellaneous links worth revisiting."
 
 An overview of technology and power since 1500.
 
-## [Flexbox labs](https://flexboxlabs.netlify.app/)
-
-Flexbox playground.
-
 ## [tsconfig.json](https://2ality.com/2025/01/tsconfig-json.html)
 
 A guide to `tsconfig.json` by Axel Rauschmayer.
 
-## [Angular: The Documentary](https://www.youtube.com/watch?v=cRC9DlH45lA)
+## [Dhafer Youssef - Zakir Hussein - Hüsnü Senlendirici](https://www.youtube.com/watch?v=4Elh8WytKfA)
 
-The story of the Angular framework told by those involved.
+## [Deeply Understand Currying](https://www.yazeedb.com/posts/deeply-understand-currying-in-7-minutes)
+
+## [TypeScript in a Node.js Project](https://www.robinwieruch.de/typescript-node-js/)
+
+## [SQL Noir](https://www.sqlnoir.com)
