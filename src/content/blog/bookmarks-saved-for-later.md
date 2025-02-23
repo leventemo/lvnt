@@ -14,7 +14,7 @@ description: "Miscellaneous links worth revisiting."
 
 ## [Calculating Empires](https://calculatingempires.net)
 
-An overview of technology and power since 1500.
+An info-packed overview of technology and power since 1500.
 
 ## [tsconfig.json](https://2ality.com/2025/01/tsconfig-json.html)
 
@@ -22,10 +22,20 @@ A guide to `tsconfig.json` by Axel Rauschmayer.
 
 ## [Dhafer Youssef - Zakir Hussein - Hüsnü Senlendirici](https://www.youtube.com/watch?v=4Elh8WytKfA)
 
+Live at Schlossfestspielen Ludwigsburg
+
 ## [Deeply Understand Currying](https://www.yazeedb.com/posts/deeply-understand-currying-in-7-minutes)
+
+Turn multy-argument functions into unary functions?
 
 ## [TypeScript in a Node.js Project](https://www.robinwieruch.de/typescript-node-js/)
 
+Setting up a TS project with Node.js
+
 ## [SQL Noir](https://www.sqlnoir.com)
 
+Brush up your SQL solving mysteries.
+
 ## [Naz Hamid](https://nazhamid.com/journal/)
+
+Blogger.
