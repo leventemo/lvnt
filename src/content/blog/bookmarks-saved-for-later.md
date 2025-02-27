@@ -39,3 +39,14 @@ Brush up your SQL solving mysteries.
 ## [Naz Hamid](https://nazhamid.com/journal/)
 
 Blogger.
+
+## Aytaç Doğan
+[Kanun Resitali 1 (Full Albüm Video)](https://www.youtube.com/watch?v=VS3LafxrMIs)
+
+## [Ohm](https://ohmjs.org/)
+
+JS parser lib
+
+## [View Transitions](https://www.builder.io/blog/view-transitions)
+
+Replace your JavaScript Animation Library with View Transitions

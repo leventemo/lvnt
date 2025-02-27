@@ -72,6 +72,7 @@ description: "My response to the question of who to listen to if you want to exp
 
 - [Lord McDonald](https://www.youtube.com/watch?v=SHlm5MR7IfA)
 - [Willie Clancy Summer School, 2023](https://www.youtube.com/watch?v=ivj_rwkGlEk)
+- [Bag of Spuds/John Henry's](https://www.youtube.com/watch?v=vk8obLUvptU)
 
 ## Emer Mayock
 
