@@ -42,7 +42,7 @@ Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Bett
 
 Thinking, Fast and Slow, by Daniel Kahneman, ISBN 9780374275631 (ISBN10: 0374275637), 2011
 
-As You Were, by Elaine Feeney, Penguin, ?
+As You Were, by Elaine Feeney, Penguin, 20??
 
 ## To sit down with
 
@@ -55,5 +55,7 @@ A Short History of Nearly Everything, by Bill Bryson, ISBN 9780767908184 (ISBN10
 Ficciones, by Jorge Luis Borges, ISBN 9780802130303 (ISBN10: 0802130305), 1944
 
 333 historias de la transición, by Carlos Santos, ISBN 9788490604977 (ISBN10: 8490604975), 2015
+
+Contra las patrias, by Fernando Savater, Maxi Tusquets, 2007
 
 
