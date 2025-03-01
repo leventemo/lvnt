@@ -1,13 +1,13 @@
 ---
 title: Bucket of Books
 author: Leventemo
-pubDatetime: 2025-03-23T07:41:33Z
+pubDatetime: 2025-03-01T07:41:33Z
 postSlug: books
 featured: false
 draft: false
 tags:
   - books
-description: "Before that bucket gets kicked."
+description: "Before that kick lands on that bucket."
 ---
 
 ## Table of contents
@@ -46,15 +46,15 @@ As You Were, by Elaine Feeney, Penguin, 20??
 
 ## To sit down with
 
-Los caballos de Dios, by Mahi Binebine, ISBN 9788420413525 (ISBN10: 8420413526), 2010
+Los caballos de Dios, by Mahi Binebine, Penguin Random House Grupo Editorial, 2010
 
-A Short History of Nearly Everything, by Bill Bryson, ISBN 9780767908184 (ISBN10: 076790818X), 2003
+A Short History of Nearly Everything, by Bill Bryson, Black Swan, 2003
 
-Íme, az ember, by Vilmos Csányi, ISBN 9789633104101 (ISBN10: 9633104106), 2015
+Íme, az ember, by Vilmos Csányi, Libri, 2015
 
-Ficciones, by Jorge Luis Borges, ISBN 9780802130303 (ISBN10: 0802130305), 1944
+Ficciones, by Jorge Luis Borges, Alianza Editorial, 2002
 
-333 historias de la transición, by Carlos Santos, ISBN 9788490604977 (ISBN10: 8490604975), 2015
+333 historias de la transición, by Carlos Santos, La Esfera de los Libros, 2015
 
 Contra las patrias, by Fernando Savater, Maxi Tusquets, 2007
 
