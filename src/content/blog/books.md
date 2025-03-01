@@ -14,6 +14,10 @@ description: "Before that bucket gets kicked."
 
 ## To get
 
+The Life and Rhymes of Benjamin Zephaniah: The Autobiography, by Benjamin Zephaniah, ISBN 9781471168949 (ISBN10: 1471168948), 2018
+
+José Luis Sampedro: La Escritura Necesaria, by Gloria Palacios, ISBN 9788478443031 (ISBN10: 8478443037), 1996
+
 Carolan: The Life, Times and Music of an Irish Harper, by Donal O'Sullivan, ISBN 9781900428712 (ISBN10: 1900428717), 1958, 2001
 
 Tomás Ó Canainn: Traditional Music In Ireland, ISBN 9780946005734 (ISBN10: 0946005737), 1993
@@ -25,10 +29,6 @@ Clean Code: A Handbook of Agile Software Craftsmanship, by Robert C. Martin, ISB
 Computer Science: An Overview (12th edition), by Glenn Brookshear, 2014
 
 Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, by Martin Kleppmann, O'Reilly Media, ?
-
-The Life and Rhymes of Benjamin Zephaniah: The Autobiography, by Benjamin Zephaniah, ISBN 9781471168949 (ISBN10: 1471168948), 2018
-
-José Luis Sampedro: La Escritura Necesaria, by Gloria Palacios, ISBN 9788478443031 (ISBN10: 8478443037), 1996
 
 I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away, by Bill Bryson, ISBN 9780767903820 (ISBN10: 076790382X), 1998
 
