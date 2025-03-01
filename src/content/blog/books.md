@@ -3,7 +3,7 @@ title: Bucket of Books
 author: Leventemo
 pubDatetime: 2025-03-23T07:41:33Z
 postSlug: books
-featured: true
+featured: false
 draft: false
 tags:
   - books
