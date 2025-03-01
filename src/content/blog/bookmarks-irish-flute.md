@@ -201,6 +201,7 @@ description: "My response to the question of who to listen to if you want to exp
 
 - [Terry McGee's website](https://www.mcgee-flutes.com/) - historical & technical info
 - [S.C. Hamilton: The Irish Flute Player's Handbook](https://sc-hamilton.ie/handbook/)
+- [Hammy Hamilton: Flutemaker Blog](https://hammy-flutemaker.blogspot.com/)
 - [scores](https://thesession.org/)
 - [tune info](https://www.irishtune.info/)
 - [Chiff and Fipple Flute Forum](https://forums.chiffandfipple.com/viewforum.php?f=2)
