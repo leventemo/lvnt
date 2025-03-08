@@ -3,7 +3,7 @@ title: Bookmarks - Music
 author: Leventemo
 pubDatetime: 2025-03-07T08:04:25Z
 postSlug: bookmarks.music
-featured: true
+featured: false
 draft: false
 tags:
   - music
