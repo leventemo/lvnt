@@ -113,4 +113,4 @@ description: "Music I'm keeping in mind."
 
 ## Hariprasad Chaurasia
 
-* [Bengali Folk Tune - with Shivkumar Sharma](https://www.youtube.com/watch?v=46M-SOSrSmc)
+* [Bengali Folk Tune](https://www.youtube.com/watch?v=46M-SOSrSmc)
