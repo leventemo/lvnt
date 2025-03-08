@@ -54,7 +54,7 @@ A Short History of Nearly Everything, by Bill Bryson, Black Swan, 2003
 
 Ficciones, by Jorge Luis Borges, Alianza Editorial, 2002
 
-333 historias de la transición, by Carlos Santos, La Esfera de los Libros, 2015
+333 historias de la transición, by Carlos Santos, Madrid, La Esfera de los Libros, 2015
 
 Contra las patrias, by Fernando Savater, Maxi Tusquets, 2007
 
