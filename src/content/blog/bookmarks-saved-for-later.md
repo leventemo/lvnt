@@ -58,6 +58,10 @@ Brush up your SQL solving mysteries.
 
 A guide to `tsconfig.json` by Axel Rauschmayer.
 
+### [Unions and intersections of object types in TypeScript](https://2ality.com/2025/03/object-type-union-intersection.html)
+
+Explore use cases
+
 ## Music
 
 ### [Dhafer Youssef - Zakir Hussein - Hüsnü Senlendirici](https://www.youtube.com/watch?v=4Elh8WytKfA)

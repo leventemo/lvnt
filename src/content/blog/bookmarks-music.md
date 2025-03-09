@@ -114,3 +114,7 @@ description: "Music I'm keeping in mind."
 ## Hariprasad Chaurasia
 
 * [Bengali Folk Tune](https://www.youtube.com/watch?v=46M-SOSrSmc)
+
+## Manu Katché
+
+* [Live at the Frontières Jazz Festival in Montgenèvre (2018)](https://www.youtube.com/watch?v=GPxM74OvnMA)
