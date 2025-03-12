@@ -60,13 +60,16 @@ A guide to `tsconfig.json` by Axel Rauschmayer.
 
 ### [Unions and intersections of object types in TypeScript](https://2ality.com/2025/03/object-type-union-intersection.html)
 
-Explore use cases
+Explore use cases.
+
+### [The LLM Index](https://sapling.ai/llm/index)
+
+A list of large language models.
 
 ## Music
 
 ### [Dhafer Youssef - Zakir Hussein - Hüsnü Senlendirici](https://www.youtube.com/watch?v=4Elh8WytKfA)
 
-Live at Schlossfestspielen Ludwigsburg
+Live at Schlossfestspielen Ludwigsburg.
 
-### Aytaç Doğan
-[Kanun Resitali 1 (Full Albüm Video)](https://www.youtube.com/watch?v=VS3LafxrMIs)
+### [Aytaç Doğan - Kanun Resitali 1 (Full Albüm Video)](https://www.youtube.com/watch?v=VS3LafxrMIs)
