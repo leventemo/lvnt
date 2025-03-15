@@ -2,11 +2,12 @@
 title: Postgres Data Types
 author: Leventemo
 pubDatetime: 2025-03-10T13:21:42Z
-postSlug: pg.data.types
+postSlug: database-datatypes-pg
 featured: false
 draft: false
 tags:
   - databases
+  - datatypes
   - Postgres
 description: "The most common data types in Postgres."
 ---
