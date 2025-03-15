@@ -28,12 +28,6 @@ An info-packed overview of technology and power since 1500.
 
 ## Tech
 
-### [Beyond the Hype](https://www.youtube.com/watch?v=Pv0cfsastFs)
-
-A Realistic Look at Large Language Models
-
-### [LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
-
 ### [Ohm](https://ohmjs.org/)
 
 JS parser lib
@@ -65,6 +59,16 @@ Explore use cases.
 ### [The LLM Index](https://sapling.ai/llm/index)
 
 A list of large language models.
+
+### [Embeddings](https://x.com/svpino/status/1893292386857398652?ck_subscriber_id=945510218)
+
+An interesting idea behind LLMs.
+
+### [Beyond the Hype](https://www.youtube.com/watch?v=Pv0cfsastFs)
+
+A Realistic Look at Large Language Models
+
+### [LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 
 ## Music
 
