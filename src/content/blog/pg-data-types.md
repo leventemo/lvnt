@@ -1,7 +1,7 @@
 ---
 title: Postgres Data Types
 author: Leventemo
-pubDatetime: 2025-03-09T13:21:42Z
+pubDatetime: 2025-03-10T13:21:42Z
 postSlug: pg.data.types
 featured: false
 draft: false
@@ -17,12 +17,18 @@ description: "Data types, ranges and storage sizes in Postgres."
 
 **some** of the categories of data types in Postgres
 
-| <!-- -->      | <!-- -->      | <!-- --> |
-| :------------ | :------------ | :------- |
-| **Numbers**   | Currency      | Binary   |
-| **Date/Time** | **Character** | JSON     |
-| Geometric     | Range         | Arrays   |
-| **Boolean**   | XML           | UUID     |
+* Numbers
+* Currency
+* Binary
+* Date/Time
+* Character
+* JSON
+* Geometric
+* Range
+* Arrays
+* Boolean
+* XML
+* UUID
 
 ## Numeric Types
 
