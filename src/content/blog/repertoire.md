@@ -26,7 +26,7 @@ description: "Tunes I play."
 - The Hag At The Churn/Patsy Geary’s Slide
 - Calliope House/The Cowboy Jig/Carraroe
 - O’Dea’s/Adam and Eve (Kevin McHugh's)
-- The Lilting Banshee/_Haste To The Wedding_/_The Maid On The Green_
+- The Lilting Banshee/Haste To The Wedding/The Maid On The Green
 - _The Famous Baravan_/The Donegal Lass
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
@@ -167,8 +167,8 @@ description: "Tunes I play."
 - The Temperance Reel/George White’s Favourite/The Virginia Reel
 - Within A Mile Of Dublin/Sword In The Hand/Miss McLeod's
 - The Boyne Hunt/Shannon Breeze (Rolling In The Ryegrass)/Red Haired Lass
+- Tommy Peoples’/_The Long Drop_/Drowsie Maggie
 - _Ríl An Spidéil_/_The Twelve Pins_
-- _Tommy Peoples’_/_The Long Drop_/Drowsie Maggie
 - Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
 - _The Galtee Rangers_/_Glentown Reel_/_The Doon_
