@@ -2,7 +2,7 @@
 title: Postgres Data Types
 author: Leventemo
 pubDatetime: 2025-03-10T13:21:42Z
-postSlug: database/datatypes/pg
+postSlug: datatypes-pg
 featured: false
 draft: false
 tags:
