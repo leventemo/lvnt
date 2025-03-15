@@ -8,7 +8,7 @@ draft: false
 tags:
   - databases
   - Postgres
-description: "Data types, ranges and storage sizes in Postgres."
+description: "The most common data types in Postgres."
 ---
 
 ## Table of contents
@@ -17,16 +17,16 @@ description: "Data types, ranges and storage sizes in Postgres."
 
 **some** of the categories of data types in Postgres
 
-* Numbers
+* **Numbers**
 * Currency
 * Binary
-* Date/Time
-* Character
+* **Date/Time**
+* **Character**
 * JSON
 * Geometric
 * Range
 * Arrays
-* Boolean
+* **Boolean**
 * XML
 * UUID
 
