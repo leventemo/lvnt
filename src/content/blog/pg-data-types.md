@@ -17,11 +17,12 @@ description: "Data types, ranges and storage sizes in Postgres."
 
 **some** of the categories of data types in Postgres
 
-| :------------ | :------------ | :----- |
-| **Numbers**   | Currency      | Binary |
-| **Date/Time** | **Character** | JSON   |
-| Geometric     | Range         | Arrays |
-| **Boolean**   | XML           | UUID   |
+| <!-- -->      | <!-- -->      | <!-- --> |
+| :------------ | :------------ | :------- |
+| **Numbers**   | Currency      | Binary   |
+| **Date/Time** | **Character** | JSON     |
+| Geometric     | Range         | Arrays   |
+| **Boolean**   | XML           | UUID     |
 
 ## Numeric Types
 
