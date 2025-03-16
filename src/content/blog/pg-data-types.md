@@ -67,7 +67,6 @@ Numeric types: things to consider
 
 ## Character Types
 
-
 CHAR(5)
 * stores a fixed length of characters
 * if we provide a larger number of characters than what the param defines, PG trims the string down until it gets down to the right number
@@ -116,14 +115,83 @@ why so many possible values?
 
 ## Times, Dates and Timestamps
 
-...
+### DATE
+
+you can provide a string for a date in just about any format
+* PG converts it into a fixed date value
+* examples:
+  + `SELECT ('NOV-20-1980'::DATE)` -> `date`, `1980-11-20`
+  + `SELECT ('NOV 20 1980'::DATE)` -> `date`, `1980-11-20`
+  + `SELECT ('NOV 20, 1980'::DATE)` -> `date`, `1980-11-20`
+  + `SELECT ('1980 NOV 20'::DATE)` -> `date`, `1980-11-20`
+  + `SELECT ('1980 November 20'::DATE)` -> `date`, `1980-11-20`
+
+### TIME / TIME WITHOUT TIME ZONE
+
+provide a time inside of a string with or withour am/pm designation or a 24-hour format
+* PG converts any format you can imagine into a 24-hour format
+* TIME is an alias of TIME WITHOUT TIME ZONE
+* examples:
+  + `SELECT ('01:23'::TIME)` -> `time without time zone`, `01:23:00`
+  + `SELECT ('01:23 PM'::TIME)` -> `time without time zone`, `13:23:00`
+
+### TIME WITH TIME ZONE
+
+any value put in will be converted into the appropriate UTC value
+* examples:
+  + `SELECT ('01:23 AM EST'::TIME WITH TIME ZONE)` -> `time with time zone`, `01:23:00-05:00`
+    - `EST` = Eastern Standard Time, Eastern Coast of USA
+    - `-05:00`: indicates 5 hours behind UTC time
+  + `SELECT ('01:23 AM PST'::TIME WITH TIME ZONE)` -> `time with time zone`, `01:23:00-08:00`
+    - `PST` = Pacific Standard Time, along the Pacific coast of USA
+  + `SELECT ('01:23 AM z'::TIME WITH TIME ZONE)` -> `time with time zone`, `01:23:00+00:00`
+    - `z`: short for `UTC`
+  + `SELECT ('01:23 AM UTC'::TIME WITH TIME ZONE)` -> `time with time zone`, `01:23:00+00:00`
+
+### TIMESTAMP WITH / WITHOUT TIME ZONE
+
+date, time & optional time zone in just about any format in a string
+* will be stored in a fix format
+* examples:
+  + `SELECT ('NOV-20-1980 1:23 AM PST'::TIMESTAMP WITH TIME ZONE)` -> `time with time zone`, `1980-11-20 10:23:00+01`
+* PG has a lot of diff functions and ways to work with time as well
+  + we can do calculations between diff timestamps
 
 ## Intervals
 
-...
+### store intervals
+
+think of INTERVAL as being a duration of time
+* examples:
+  + `SELECT ('1 day'::INTERVAL)` -> `interval`, `1 day`
+  + `SELECT ('1 D'::INTERVAL)` -> `interval`, `1 day`
+  + `SELECT ('1 D 20 H'::INTERVAL)` -> `interval`, `1 day 20:00:00`
+  + `SELECT ('1 D 20 H 30 M 45 S'::INTERVAL)` -> `interval`, `1 day 20:30:45`
+
+### use intervals to manipulate dates, times & timestamps
+
+numeric operations on intervals
+* we can totally abstract out the idea of days, hours, minutes & seconds when it comes to doing the math behind them
+* examples
+  + `SELECT ('1 D 20 H 30 M 45 S'::INTERVAL) - ('1 D'::INTERVAL)` -> `interval`, `20:30:45`
+
+add / subtract time from dates, times & timestamps
+* subtract an interval from a timestamp
+  + `SELECT ('NOV 20 1980 1:23 AM EST'::TIMESTAMP WITH TIME ZONE) - ('1 D'::INTERVAL)` -> `interval`, `1980-11-19 07:23:00+01`
+
+numeric operations between 2 dates, times & timestamps
+* eg. find the number of days between 2 dates
+  + `SELECT ('NOV 20 1980 1:23 AM EST'::TIMESTAMP WITH TIME ZONE) - ('NOV 10 1980 1:23 AM EST'::TIMESTAMP WITH TIME ZONE)` -> `interval`, `10 days`
+* eg. find the number of days and hours between 2 times
+  + `SELECT ('NOV 20 1980 1:23 AM EST'::TIMESTAMP WITH TIME ZONE) - ('NOV 10 1980 11:23 AM EST'::TIMESTAMP WITH TIME ZONE)` -> `interval`, `9 days 14:00:00`
+* eg. mix in time diff time zones
+  + `SELECT ('NOV 20 1980 1:23 AM EST'::TIMESTAMP WITH TIME ZONE) - ('NOV 10 1980 5:43 AM PST'::TIMESTAMP WITH TIME ZONE)` -> `interval`, `9 days 16:40:00`
+
+being able do these at a db level is useful,
+* as opposed to getting some specialized lib on your server
 
 ## SOURCES
 
 * [Postgres docs: Numeric Types](https://www.postgresql.org/docs/current/datatype-numeric.html)
-* [Stephen Gider: SQL and PostgreSQL](https://www.postgresql.org/docs/current/datatype-numeric.html)
+* [Stephen Grider: SQL and PostgreSQL](https://www.postgresql.org/docs/current/datatype-numeric.html)
 

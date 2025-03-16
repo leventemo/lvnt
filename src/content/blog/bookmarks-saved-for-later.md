@@ -56,6 +56,18 @@ A guide to `tsconfig.json` by Axel Rauschmayer.
 
 Explore use cases.
 
+### [FormData with TS](https://www.freecodecamp.org/news/how-to-enforce-type-safety-in-formdata-with-typescript/)
+
+How to Enforce Type Safety in FormData with TypeScript.
+
+### [Search With Astro Actions and Fuse.js](https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/)
+
+Demo.
+
+### [Zod](https://didoesdigital.com/blog/zod-overview/)
+
+TS data validation lib.
+
 ### [The LLM Index](https://sapling.ai/llm/index)
 
 A list of large language models.
