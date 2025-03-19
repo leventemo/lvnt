@@ -64,6 +64,10 @@ How to Enforce Type Safety in FormData with TypeScript.
 
 Demo.
 
+### [Astro + SQLite](https://www.youtube.com/live/5mn3EpWCcJs?t=2376s)
+
+Ship a SQLite file to the browser and run queries on it.
+
 ### [Zod](https://didoesdigital.com/blog/zod-overview/)
 
 TS data validation lib.
@@ -83,6 +87,10 @@ A Realistic Look at Large Language Models
 ### [LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 
 ## Music
+
+## [Brian Finnegan - Shepherds](https://brianfinnegan.bandcamp.com/album/shepherds-3)
+
+Music he grew up with.
 
 ### [Dhafer Youssef - Zakir Hussein - Hüsnü Senlendirici](https://www.youtube.com/watch?v=4Elh8WytKfA)
 
