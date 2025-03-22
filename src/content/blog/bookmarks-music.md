@@ -76,7 +76,8 @@ description: "Music I'm keeping in mind."
 ## Flook
 * [Wrong Foot Forward](https://www.youtube.com/watch?v=r0Cy8eo3dkk)
 
-<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=581953172/size=large/bgcol=212737/linkcol=FF6B01/artwork=none/transparent=true/" seamless><a href="https://flookquartet.bandcamp.com/album/sanju">Sanju by Flook</a></iframe>
+<iframe style="border: 0; width: 100%; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=581953172/size=large/bgcol=212737/linkcol=FF6B01/artwork=none/transparent=false
+/" seamless><a href="https://flookquartet.bandcamp.com/album/sanju">Sanju by Flook</a></iframe>
 
 ## Seamus Egan & John Doyle
 * [Eamonn Coyne's](https://www.youtube.com/watch?v=TNQCM4rgj3Q)
