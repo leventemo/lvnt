@@ -16,12 +16,20 @@ Came across this idea of a link blog in [Simon Willison's newsletter](https://si
 ## Table of contents
 
 ## José Luís Sampedro
-<iframe width="95%" src="https://www.youtube.com/embed/oHtkgCmsQuo?si=ssXiUCET7XLBJm34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Epíogo. The last interview he gave.
+
+<iframe width="98%" height="320" src="https://www.youtube.com/embed/oHtkgCmsQuo?si=ssXiUCET7XLBJm34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Caoimhín Ó Raghallaigh
-* A talk given for [Ireland's Edge](https://www.irelandsedge.net).
-* [Ireland's Edge | Caoimhín Ó Raghallaigh](https://www.youtube.com/watch?v=Lw66rEUjy7M)
+
+A talk given for [Ireland's Edge](https://www.irelandsedge.net).
+
+<iframe width="98%" height="320" src="https://www.youtube.com/embed/Lw66rEUjy7M?si=AfhK_pgUxk0lWKmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Cerca de tu casa
-* [making of](https://www.youtube.com/watch?v=_DXrr69U-T0)
+
+Cerca de tu casa: making of.
+
+<iframe width="98%" height="320" src="https://www.youtube.com/embed/_DXrr69U-T0?si=mK7TZiYYFw-lThNT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
