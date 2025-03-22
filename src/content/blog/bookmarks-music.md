@@ -122,4 +122,4 @@ description: "Music I'm keeping in mind."
 
 ## Sonic Garbage (just start clicking)
 
-* [Sonic Garbage][https://sonicgarbage.greg.technology]
+* [Sonic Garbage](https://sonicgarbage.greg.technology)
