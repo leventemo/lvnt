@@ -118,3 +118,7 @@ description: "Music I'm keeping in mind."
 ## Manu Katché
 
 * [Live at the Frontières Jazz Festival in Montgenèvre (2018)](https://www.youtube.com/watch?v=GPxM74OvnMA)
+
+## Sonic Garbage (just start clicking)
+
+* [Sonic Garbage][https://sonicgarbage.greg.technology]

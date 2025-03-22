@@ -1,7 +1,7 @@
 ---
 title: Repertoire
 author: Leventemo
-pubDatetime: 2024-07-21T10:11:51Z
+pubDatetime: 2024-08-21T10:10:50Z
 postSlug: repertoire
 featured: false
 draft: false
@@ -14,43 +14,6 @@ description: "Tunes I play."
 
 ## Jigs
 
-### Jigs - Fonó
-
-- Garrett Barry’s/Walls of Liscarrol/The Legacy
-- Geese In The Bog/Connaughtman’s Rambles/Out On The Ocean
-- Tripping Up The Stairs/The Lisnagún
-- Young Tom Ennis/My Darling Asleep/Club Céili (The Old Favourite)
-- Paddy O’Rafferty/Jim Ward’s/When The Cock Crows
-- The Wren's Nest no1/The Wren's Nest no2 (Morgan Rattle/Cordal)/Banish Misfortune
-- Dusty Windowsills(Blasket Sound)/Rose In The Heather/Cliffs Of Moher
-- The Hag At The Churn/Patsy Geary’s Slide
-- Calliope House/The Cowboy Jig/Carraroe
-- O’Dea’s/Adam and Eve (Kevin McHugh's)
-- The Lilting Banshee/Haste To The Wedding/The Maid On The Green
-- _The Famous Baravan_/The Donegal Lass
-- _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
-- Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
-- _Mist On The Mountain_/_Humours of Drinagh_
-- _The Smiling Bride_/_The Handsome Young Maidens_
-- _Christy Barry’s #1_/_Christy Barry’s #2_
-- _The Hole In The Hedge_/_Seamus Cooley’s_
-- _The Castle (Sean Ryan's)_/_The Nightingale_
-- Morrison’s
-- Leslie's March
-- Blarney Pilgrim
-- Rolling Waves
-- Monaghan
-- _Lark In The Morning_
-- _The Frost Is All Over_
-- _The Humours Of Ennistymon_
-- _Gallagher's Frolics_
-- _Saddle The Pony_
-- _The Humours Of Ballyloughlin_
-- _Hunting The Squirrel_
-- _Anne Fraser MacKenzie_
-
-### Jigs - own sets:
-
 - The Woodcock/Kerfunten
 - _Sixpenny Money_/Rambling Pitchfork/The Eavesdropper
 - The Hag At The Churn/The Kesh Jig/Morrison’s
@@ -62,6 +25,7 @@ description: "Tunes I play."
 - _Humours Of Glendart/The Trip To Athlone/Blackthorn Stick_
 - Kalyana
 - The North Star
+- Morgan Lattler(Cordal)
 - _The Lonesome Jig_
 - _The Gold Ring_
 - _Sweet Briar_
@@ -77,20 +41,9 @@ description: "Tunes I play."
 - _Lisbet’s Kitchen_/_Józsi’s_
 - _Jigs For John_ ...
 - _The Irish Washerwoman/Pull Out The Knife And Stick It Again_
-- Morgan Lattler
 - _Jig Of Slurs_
 
 ## Slips jigs
-
-### Slip jigs - Fonó:
-
-- Elizabeth Kelly’s Delight/Na Ceannabháin Bhána (The Cottongrass Flowers)
-- The Butterfly/Nead na Lachan sa mhúta (The Foxhunter)
-- _The Exile’s Jig_/_Wink And She’ll Follow You_
-- Kid On The Mountain
-- Fig For A Kiss
-
-### Slip jigs - own sets:
 
 - Fig For A Kiss/Kid On The Mountain/The Humours Of Whiskey
 - Snowy Path/The Disused Railway/_The Man Of Aran_
@@ -99,51 +52,14 @@ description: "Tunes I play."
 
 ## Slides
 
-### Slides - Fonó:
-
-- The Brosna no.1/Denis Murphy’s/Dingle Regatta
-- Star Above The Garter/Johnny Mickey’s/Dingle Regatta
-- The Road To Lisdoonvarna
-- Patsy Geary’s Slide
-- _The Brosna no.2_
-- _The Weavers_
-
-### Slides - own sets:
-
 - Cúil Aodha/O’Keefe’s/Kissed the Quaker’s Wife
 
 ## Polkas
-
-### Polkas - Fonó:
-
-- Dennis Murphy’s/John Ryan’s
-- Maggie In The Wood/Oh The Britches Full Of Stitches (in A)
-- Balleydesmond 3-1-2
-- Balleydesmond 2/Balleydesmond 1/_Cathy’s Favourite_
-- The Siege Of Ennis/Balleydesmond 2/Ned Kelly’s Polka
-- Maggie In The Wood/Oh The Britches Full Of Stitches
-- The Glen Cottage No1/The Glen Cottage No2
-- _Jer O’Connel’s_/_Patrick O’Connor’s_/Oh The Britches Full Of Stitches
-- _Din Tarrant’s_/_Tom Barrett’s_/_O’Connor’s_
-- Kerry Polka
-
-### Polkas - own sets:
 
 - Kerry Polka/Balleydesmond 1/Balleydesmond 2
 - The Britches Full Of Stiches (in G)/Maggie In The Wood/_Mark Quinn’s_/_Gan Ainm_/_The Maids of Armagh_
 
 ## Hornpipes
-
-### Hornpipes - Fonó:
-
-- The Blackbird/Poll Ha’penny
-- Boys Of Bluehill/Harvest Home/Cronin’s
-- Rights Of Man/_King Of The Fairies_
-- _The Galway Hornpipe_/The Flowers Of Edinburgh
-- _Petronella_
-- _The Peacock’s Feather 1-2_
-
-### Hornpipes - own sets:
 
 - Rights of Man/Chief O’Neills Favourite/Sailor’s Hornpipe
 - O'Connor's Favourite/Kildare Fancy/Brendan Vincent’s Favourite
@@ -153,54 +69,6 @@ description: "Tunes I play."
 - Cronin's Hornpipe
 
 ## Reels
-
-### Reels - Fonó:
-
-- O’Connell’s Trip To Parliament/The Torn Jacket/Come West Along The Road
-- Cup Of Tea/Silver Spear/The Humours Of Tulla
-- Bag Of Spuds/Brenda Subbert’s
-- The Old Concertina(Micho Russel's)/Cooley’s/The Wise Maid
-- Dunmore Lasses/Morning Dew/The Star Of Munster
-- Salamanca Reel/The Banshee (McMahon's)/Sailor's Bonnet
-- Jenny Picking Cockles/Over The Moor To Maggie/Rakish Paddy
-- Crowley’s No1/The Concertina/Mulqueen’s
-- The Temperance Reel/George White’s Favourite/The Virginia Reel
-- Within A Mile Of Dublin/Sword In The Hand/Miss McLeod's
-- The Boyne Hunt/Shannon Breeze (Rolling In The Ryegrass)/Red Haired Lass
-- Tommy Peoples’/_The Long Drop_/Drowsie Maggie
-- _Ríl An Spidéil_/_The Twelve Pins_
-- Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
-- _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
-- _The Galtee Rangers_/_Glentown Reel_/_The Doon_
-- _The Musical Priest_/_John Stetson’s no2_
-- _Paddy Fahey’s_/_Francie Donnellan’s_/_The Fisherman’s Island_
-- _Porthole Of The Kelp_/_The Maids Of Mitchelstown_
-- The Ashplant
-- St. Anne’s Reel
-- The Maid Behind the Bar
-- Reel Of Rio
-- The Merry Blacksmith
-- The Ships Are Sailing
-- The Old Bush
-- _The Providence Reel_
-- _The Man Of Aran_
-- _Mother And Child_
-- _Lucy Campbell's_
-- _Sally Gardens_
-- _The Laurel Tree_
-- _Christmas Eve_
-- _The Galway Rambler_
-- _Tim Maloney's_
-- _The Bucks of Oranmore_
-- _The Congress Reel_
-- _The Morning Star_
-- _Sergeant Early's Dream_
-- _Blair Athol_
-- _The Cardin' O't_
-- _Lexie MacAskill_
-- _The Fair Wind (Rip The Calico)_
-
-### Reels - own sets:
 
 - Morning Dew/Golden Keyboard
 - Andy McGann’s No. 42/Gweebarra Bridge/_Rodney Miller’s_
@@ -219,25 +87,10 @@ description: "Tunes I play."
 
 ## Carolan
 
-### Carolan - Fonó:
-
-- Eleanor Plunkett
-- Planxty Irwin
-
-### Carolan - own sets:
-
 - Eleanor Plunkett/Planxty Irwin
 - Carolan's Welcome/Lord Inchiquin
 
 ## Waltzes
 
-### Waltzes - Fonó:
+...
 
-- Inisheer
-- Give Me Your Hand
-
-## Schottische
-
-### Schottische - Fonó:
-
-- History Man

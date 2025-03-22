@@ -31,3 +31,7 @@ description: "Online tools I like to use."
 ## CSS Selectors
 
 - [fffuel - CSS Selectors](https://www.fffuel.co/css-selectors/)
+
+## Image editing
+
+- [Photopea](https://www.photopea.com)
