@@ -17,19 +17,20 @@ Came across this idea of a link blog in [Simon Willison's newsletter](https://si
 
 ## José Luís Sampedro
 
-Epíogo. The last interview he gave.
+Epíogo. The last interview he gave.git status
 
-<iframe width="98%" height="320" src="https://www.youtube.com/embed/oHtkgCmsQuo?si=ssXiUCET7XLBJm34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/oHtkgCmsQuo?si=ssXiUCET7XLBJm34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Caoimhín Ó Raghallaigh
 
 A talk given for [Ireland's Edge](https://www.irelandsedge.net).
 
-<iframe width="98%" height="320" src="https://www.youtube.com/embed/Lw66rEUjy7M?si=AfhK_pgUxk0lWKmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Lw66rEUjy7M?si=AfhK_pgUxk0lWKmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Cerca de tu casa
 
 Cerca de tu casa: making of.
 
-<iframe width="98%" height="320" src="https://www.youtube.com/embed/_DXrr69U-T0?si=mK7TZiYYFw-lThNT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/_DXrr69U-T0?si=mK7TZiYYFw-lThNT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
