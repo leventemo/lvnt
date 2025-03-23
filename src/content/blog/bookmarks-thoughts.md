@@ -33,7 +33,7 @@ Came across this idea of a link blog in [Simon Willison's newsletter](https://si
 
 ## What if money didn't exist?
 
-I remember the eyebrows it raised and the meh-smile she threw at me when I put the question to a friend who was reading history at uni at the time. Here is an idea though that doesn't intend to abolish money, probably widest the abstraction that's closest to our everyday life in the most practical terms possible. It would, kind of, fine-tune or enhance the abstraction instead, wouldn't it?
+I remember the eyebrows it raised and the meh-smile she threw at me when I put the question to a friend who was reading history at uni at the time. Here is an idea though that doesn't intend to abolish money, probably the widest abstraction that's closest to our everyday life in the most practical terms possible. It would, kind of, fine-tune or enhance the abstraction instead, wouldn't it?
 
 [What if money didn't exist?](https://gomakethings.com/what-if-money-didnt-exist/) [^2]
 
