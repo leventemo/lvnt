@@ -38,4 +38,5 @@ I remember the eyebrows it raised and the meh-smile she threw at me when I put t
 [What if money didn't exist?](https://gomakethings.com/what-if-money-didnt-exist/) [^2]
 
 [^1]: Carlos Santos, 333 historias de la transición, Madrid, La Esfera de los Libros, 2015, p44
+
 [^2] Thanks to Chris Ferdinandi of [gomakethings.com](https://gomakethings.com/) for giving me permission to link his text here.
