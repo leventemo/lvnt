@@ -29,4 +29,6 @@ Came across this idea of a link blog in [Simon Willison's newsletter](https://si
 
 ## Thought process: mutual dependencies
 
-"Puede usted seguir preguntando: sobre la (...) serán siempre más las preguntas que las respuestas." - Carlos Santos, 333 historias de la transición, Madrid, La Esfera de los Libros, 2015, p44
+"Puede usted seguir preguntando: sobre la (...) serán siempre más las preguntas que las respuestas." - Carlos Santos [^1]
+
+[^1]: Carlos Santos, 333 historias de la transición, Madrid, La Esfera de los Libros, 2015, p44
