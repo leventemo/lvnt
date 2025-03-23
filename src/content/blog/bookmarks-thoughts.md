@@ -26,3 +26,7 @@ Came across this idea of a link blog in [Simon Willison's newsletter](https://si
 ## Cerca de tu casa
 
 * [making of](https://www.youtube.com/watch?v=_DXrr69U-T0)
+
+## Thought process
+
+"Puede usted seguir preguntando: (...) serán siempre más las preguntas que las respuestas." - Carlos Santos, 333 historias de la transición, Madrid, La Esfera de los Libros, 2015, p44
