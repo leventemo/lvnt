@@ -26,6 +26,14 @@ Blogger.
 
 An info-packed overview of technology and power since 1500.
 
+## [Dataviz vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
+
+Different types of chart categorized.
+
+## [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
+
+Bite-size insights.
+
 ## Tech
 
 ### [Ohm](https://ohmjs.org/)

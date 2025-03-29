@@ -120,6 +120,12 @@ description: "Music I'm keeping in mind."
 
 * [Live at the Frontières Jazz Festival in Montgenèvre (2018)](https://www.youtube.com/watch?v=GPxM74OvnMA)
 
+## Penguin Cafe Orchestra
+
+* [Live at the BBC 1989](https://www.youtube.com/watch?v=qbyCM0HD_dg)
+* [album PCO](https://www.youtube.com/watch?v=mFlKxfhMYls&list=PLEQqOZ_y4MgDLYF9_Pc0jW7NjIIPVjQvz)
+* [documentary](https://www.youtube.com/watch?v=Rw_gciKrZEM)
+
 ## Sonic Garbage (just start clicking)
 
 * [Sonic Garbage](https://sonicgarbage.greg.technology)

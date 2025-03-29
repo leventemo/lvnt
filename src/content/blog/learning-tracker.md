@@ -237,7 +237,8 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 | **Jest**               | &check; |                |             |
 | **Postman**            | &check; |    &check;     |             |
 | **Selenium**           | &check; |                |             |
-| **TablePlus**          | &check; |                |             |
+| **TablePlus**          | &check; |    &check;     |             |
+| **pgAdmin4**           | &check; |    &check;     |             |
 
 &nbsp;
 
