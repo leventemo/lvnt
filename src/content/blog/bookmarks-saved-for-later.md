@@ -80,6 +80,8 @@ Ship a SQLite file to the browser and run queries on it.
 
 TS data validation lib.
 
+### [A fluid CSS methodology](https://willybrauner.com/journal/a-fluid-css-methodology)
+
 ### [The LLM Index](https://sapling.ai/llm/index)
 
 A list of large language models.
