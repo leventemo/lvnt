@@ -75,6 +75,7 @@ description: "Music I'm keeping in mind."
 
 ## Flook
 * [Wrong Foot Forward](https://www.youtube.com/watch?v=r0Cy8eo3dkk)
+* [Companion Star/The Coral Castle](https://www.youtube.com/watch?v=GEff-owpecs&list=PL4YRnUu6tc3iXtWTjlaEniV6fC6tRDczl&index=4)
 * [Sanju](https://flookquartet.bandcamp.com/album/sanju)
 
 ## Seamus Egan & John Doyle
