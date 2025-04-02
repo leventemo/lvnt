@@ -28,6 +28,9 @@ description: "Tunes played at the Irish session in Fonó."
 - _The Famous Baravan_/The Donegal Lass
 - _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
+- _Anne Fraser MacKenzie_/_Peggy's_/_Charlie Hunter_
+- _Sorry I Am For What I Have Done_/_Humours Of Ballingarry_
+- _The Swallowtail_/_The Pipers Of Roguery_/_The Tenpenny Bit_
 - _Mist On The Mountain_/_Humours of Drinagh_
 - _The Smiling Bride_/_The Handsome Young Maidens_
 - _Christy Barry’s #1_/_Christy Barry’s #2_
@@ -45,7 +48,6 @@ description: "Tunes played at the Irish session in Fonó."
 - _Saddle The Pony_
 - _The Humours Of Ballyloughlin_
 - _Hunting The Squirrel_
-- _Anne Fraser MacKenzie_
 
 ## Slips jigs
 
@@ -85,6 +87,7 @@ description: "Tunes played at the Irish session in Fonó."
 - _The Galway Hornpipe_/The Flowers Of Edinburgh
 - _Petronella_
 - _The Peacock’s Feather 1-2_
+- _Off To California_
 
 ## Reels
 
@@ -132,6 +135,8 @@ description: "Tunes played at the Irish session in Fonó."
 - _The Cardin' O't_
 - _Lexie MacAskill_
 - _The Fair Wind (Rip The Calico)_
+- _The Tempest_
+- _Boys Of Malin_
 
 ## Carolan
 
