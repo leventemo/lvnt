@@ -26,6 +26,10 @@ Blogger.
 
 An info-packed overview of technology and power since 1500.
 
+## [Historic Borders](https://historicborders.app)
+
+In steps of 100 years.
+
 ## [Dataviz vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 
 Different types of chart categorized.

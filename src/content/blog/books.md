@@ -59,3 +59,5 @@ Ficciones, by Jorge Luis Borges, Alianza Editorial, 2002
 Contra las patrias, by Fernando Savater, Maxi Tusquets, 2007
 
 The Lonely Crowd, by David Riesman, ...
+
+The Art of Statistics. Learning from Data, by David Spiegelhalter, 2019, Penguin Random House
