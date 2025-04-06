@@ -26,19 +26,27 @@ Blogger.
 
 An info-packed overview of technology and power since 1500.
 
-## [Historic Borders](https://historicborders.app)
+### [Historic Borders](https://historicborders.app)
 
 In steps of 100 years.
 
-## [Dataviz vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
+### [Dataviz vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
 
 Different types of chart categorized.
 
-## [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
+## Tech
+
+### [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 
 Bite-size insights.
 
-## Tech
+### [Postgres vs. SQL Server: B-Tree Index Differences & the Benefit of Deduplication](https://pganalyze.com/blog/postgresql-vs-sql-server-btree-index-deduplication)
+
+PG Indexing.
+
+### [Trunk](https://pgt.dev/)
+
+Postgres extension registry and package manager.
 
 ### [Ohm](https://ohmjs.org/)
 
@@ -47,10 +55,6 @@ JS parser lib
 ### [View Transitions](https://www.builder.io/blog/view-transitions)
 
 Replace your JavaScript Animation Library with View Transitions
-
-### [Deeply Understand Currying](https://www.yazeedb.com/posts/deeply-understand-currying-in-7-minutes)
-
-Turn multy-argument functions into unary functions?
 
 ### [TypeScript in a Node.js Project](https://www.robinwieruch.de/typescript-node-js/)
 
@@ -102,7 +106,7 @@ A Realistic Look at Large Language Models
 
 ## Music
 
-## [Brian Finnegan - Shepherds](https://brianfinnegan.bandcamp.com/album/shepherds-3)
+### [Brian Finnegan - Shepherds](https://brianfinnegan.bandcamp.com/album/shepherds-3)
 
 Music he grew up with.
 
