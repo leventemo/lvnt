@@ -48,6 +48,10 @@ PG Indexing.
 
 Postgres extension registry and package manager.
 
+### [postgres-meta](https://github.com/supabase/postgres-meta)
+
+A RESTful API for managing Postgres.
+
 ### [Ohm](https://ohmjs.org/)
 
 JS parser lib
