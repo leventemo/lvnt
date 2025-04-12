@@ -36,6 +36,10 @@ Different types of chart categorized.
 
 ## Tech
 
+### [NodeJS testing](https://github.com/goldbergyoni/nodejs-testing-best-practices)
+
+Best practices.
+
 ### [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 
 Bite-size insights.
@@ -43,6 +47,10 @@ Bite-size insights.
 ### [Postgres vs. SQL Server: B-Tree Index Differences & the Benefit of Deduplication](https://pganalyze.com/blog/postgresql-vs-sql-server-btree-index-deduplication)
 
 PG Indexing.
+
+### [Time in PostgreSQL](https://boringsql.com/posts/know-the-time-in-postgresql/)
+
+Working with time in Postgres.
 
 ### [Trunk](https://pgt.dev/)
 
@@ -55,6 +63,10 @@ A RESTful API for managing Postgres.
 ### [Ohm](https://ohmjs.org/)
 
 JS parser lib
+
+### [searchable dropdon](https://javascript.plainenglish.io/how-to-build-a-searchable-dropdown-with-fetch-api-and-json-data-ab409d1b244a)
+
+In JS.
 
 ### [View Transitions](https://www.builder.io/blog/view-transitions)
 
@@ -84,10 +96,6 @@ How to Enforce Type Safety in FormData with TypeScript.
 
 Demo.
 
-### [Astro + SQLite](https://www.youtube.com/live/5mn3EpWCcJs?t=2376s)
-
-Ship a SQLite file to the browser and run queries on it.
-
 ### [Zod](https://didoesdigital.com/blog/zod-overview/)
 
 TS data validation lib.
@@ -98,15 +106,9 @@ TS data validation lib.
 
 A list of large language models.
 
-### [Embeddings](https://x.com/svpino/status/1893292386857398652?ck_subscriber_id=945510218)
-
-An interesting idea behind LLMs.
-
 ### [Beyond the Hype](https://www.youtube.com/watch?v=Pv0cfsastFs)
 
 A Realistic Look at Large Language Models
-
-### [LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 
 ## Music
 
