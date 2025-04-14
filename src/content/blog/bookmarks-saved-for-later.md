@@ -102,6 +102,12 @@ TS data validation lib.
 
 ### [A fluid CSS methodology](https://willybrauner.com/journal/a-fluid-css-methodology)
 
+What it says on the tin.
+
+### [Directives](https://medium.com/coreteq/directives-a-core-feature-of-the-angular-toolkit-34ccec531e19)
+
+A core feature in Angular.
+
 ### [The LLM Index](https://sapling.ai/llm/index)
 
 A list of large language models.
