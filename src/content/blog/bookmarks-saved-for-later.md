@@ -108,6 +108,10 @@ What it says on the tin.
 
 A core feature in Angular.
 
+### [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+.. and Data Structures
+
 ### [The LLM Index](https://sapling.ai/llm/index)
 
 A list of large language models.
@@ -117,6 +121,8 @@ A list of large language models.
 A Realistic Look at Large Language Models
 
 ## Music
+
+### [Jackie Molard Quartet - Mycelium](https://www.youtube.com/playlist?list=OLAK5uy_mz6rFziAHYRH0zLXZPs-yNhRVzeOFaAJI)
 
 ### [Brian Finnegan - Shepherds](https://brianfinnegan.bandcamp.com/album/shepherds-3)
 
