@@ -22,7 +22,7 @@ find out about your remote/origin
   + if your remote is not called origin, get the URLs of all remotes
   + remotes can be added, removed or modified at any time so there is a chance that the remotes in your local repo don't include the remote it was originally cloned from
 
-turn of fast-forwarding for one pull
+turn off fast-forwarding for one pull
 * `git pull --no-ff`
 
 log divergent history
