@@ -24,3 +24,6 @@ find out about your remote/origin
 
 turn of fast-forwarding for one pull
 * `git pull --no-ff`
+
+log divergent history
+* `git log --oneline --decorate --graph --all`
