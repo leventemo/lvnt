@@ -48,6 +48,11 @@ description: "Music I'm keeping in mind."
 
 * [Children's Songs: No. 4](https://www.youtube.com/watch?v=RntXiLvhmhg)
 
+## Michael McGoldrick
+
+* [Riée](https://www.youtube.com/watch?v=JkuhwJdfWng&list=OLAK5uy_n3bdeTa_tFJWKmNjIG-xR0bt794sbChhw&index=10)
+* [Ridée, live version]
+
 ## Vallely Brothers & Tiarnan O Diunnchinn
 * [The Singing Stream](https://www.youtube.com/watch?v=mRXe_HFvQ0g)
 

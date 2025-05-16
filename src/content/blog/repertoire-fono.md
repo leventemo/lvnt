@@ -25,8 +25,8 @@ description: "Tunes played at the Irish session in Fonó."
 - Calliope House/The Cowboy Jig/Carraroe
 - O’Dea’s/Adam and Eve (Kevin McHugh's)
 - The Lilting Banshee/Haste To The Wedding/The Maid On The Green
+- Tom Busby/Mug Of Brown Ale/Kesh Jig
 - _The Famous Baravan_/The Donegal Lass
-- _Tom Busby_/_Mug Of Brown Ale_/Kesh Jig
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
 - _Anne Fraser MacKenzie_/_Peggy's_/_Charlie Hunter_
 - _Sorry I Am For What I Have Done_/_Humours Of Ballingarry_
@@ -83,11 +83,11 @@ description: "Tunes played at the Irish session in Fonó."
 
 - The Blackbird/Poll Ha’penny
 - Boys Of Bluehill/Harvest Home/Cronin’s
+- Off To California
 - Rights Of Man/_King Of The Fairies_
 - _The Galway Hornpipe_/The Flowers Of Edinburgh
 - _Petronella_
 - _The Peacock’s Feather 1-2_
-- _Off To California_
 
 ## Reels
 
