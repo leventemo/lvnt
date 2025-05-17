@@ -25,5 +25,8 @@ find out about your remote/origin
 turn off fast-forwarding for one pull
 * `git pull --no-ff`
 
-log divergent history
+log divergent histories between branches
 * `git log --oneline --decorate --graph --all`
+
+interactive staging
+* `git add -i`
