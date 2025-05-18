@@ -133,3 +133,9 @@ Music he grew up with.
 Live at Schlossfestspielen Ludwigsburg.
 
 ### [Aytaç Doğan - Kanun Resitali 1 (Full Albüm Video)](https://www.youtube.com/watch?v=VS3LafxrMIs)
+
+### Hania Rani
+
+[On Giacometti - Live at Atelier in Stampa](https://www.youtube.com/watch?v=0NTVXaxHBQQ)
+
+[Live from Studio S2](https://www.youtube.com/watch?v=kFRdoYfZYUY)
