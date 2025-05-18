@@ -36,6 +36,7 @@ description: "Tunes played at the Irish session in Fonó."
 - _Christy Barry’s #1_/_Christy Barry’s #2_
 - _The Hole In The Hedge_/_Seamus Cooley’s_
 - _The Castle (Sean Ryan's)_/_The Nightingale_
+- Lonesome Jig
 - Morrison’s
 - Leslie's March
 - Blarney Pilgrim
@@ -117,8 +118,8 @@ description: "Tunes played at the Irish session in Fonó."
 - The Merry Blacksmith
 - The Ships Are Sailing
 - The Old Bush
+- The Providence Reel
 - _Julia Delaney's_
-- _The Providence Reel_
 - _The Man Of Aran_
 - _Mother And Child_
 - _Lucy Campbell's_
@@ -151,3 +152,7 @@ description: "Tunes played at the Irish session in Fonó."
 ## Schottische
 
 - History Man
+
+## Strathspey
+
+- Calum's Road
