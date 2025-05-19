@@ -30,3 +30,6 @@ log divergent histories between branches
 
 interactive staging
 * `git add -i`
+
+change most recent commit message
+* `git commit --amend -m "an updated commit message"`
