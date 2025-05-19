@@ -132,7 +132,9 @@ Music he grew up with.
 
 Live at Schlossfestspielen Ludwigsburg.
 
-### [Aytaç Doğan - Kanun Resitali 1 (Full Albüm Video)](https://www.youtube.com/watch?v=VS3LafxrMIs)
+### [Aytaç Doğan - Kanun Resitali 1](https://www.youtube.com/watch?v=VS3LafxrMIs)
+
+Full Albüm Video
 
 ### Hania Rani
 
