@@ -29,7 +29,7 @@ description: "Tunes played at the Irish session in Fonó."
 - _The Famous Baravan_/The Donegal Lass
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
 - _Anne Fraser MacKenzie_/_Peggy's_/_Charlie Hunter_
-- _Sorry I Am For What I Have Done_/_Humours Of Ballingarry_
+- Rambling Pitchfork/_Sorry I Am For What I Have Done_/_Humours Of Ballingarry_
 - _The Swallowtail_/_The Pipers Of Roguery_/_The Tenpenny Bit_
 - _Mist On The Mountain_/_Humours of Drinagh_
 - _The Smiling Bride_/_The Handsome Young Maidens_
