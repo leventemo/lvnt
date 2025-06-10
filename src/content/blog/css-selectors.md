@@ -7,5 +7,6 @@ featured: false
 draft: true
 tags:
   - testing
-description: "How to target those HTML elements with CSS."
+  - css
+description: "Targeting HTML elements with CSS."
 ---

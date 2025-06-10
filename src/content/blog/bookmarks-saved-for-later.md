@@ -56,9 +56,17 @@ Working with time in Postgres.
 
 Postgres extension registry and package manager.
 
-### [postgres-meta](https://github.com/supabase/postgres-meta)
+### [Unpacking Config and Environment Variables in Node ](https://blog.platformatic.dev/stop-losing-sleep-over-nodejs-config-heres-how-to-get-it-right)
 
-A RESTful API for managing Postgres.
+How to get it right.
+
+### [Using SQL in Node with Sequelize](https://blog.appsignal.com/2025/06/11/using-sql-in-nodejs-with-sequelize.html)
+
+ORM WTF?
+
+### [Orange ORM: A Neat ORM for Node and TypeScript ](https://orange-orm.io/)
+
+ORM WTF?
 
 ### [Ohm](https://ohmjs.org/)
 
