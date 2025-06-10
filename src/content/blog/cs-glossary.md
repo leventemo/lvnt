@@ -4,7 +4,7 @@ author: Leventemo
 pubDatetime: 2024-08-14T19:05:51Z
 postSlug: cs-glossary
 featured: false
-draft: false
+draft: true
 tags:
   - computer-science
 description: "Basic concepts in computer science."

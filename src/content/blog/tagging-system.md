@@ -4,7 +4,7 @@ author: Leventemo
 pubDatetime: 2025-02-12T11:11:51Z
 postSlug: tagging-system
 featured: false
-draft: false
+draft: true
 tags:
   - databases
   - postgres

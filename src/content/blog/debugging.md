@@ -4,7 +4,7 @@ author: Leventemo
 pubDatetime: 2024-08-30T06:36:51Z
 postSlug: debugging
 featured: false
-draft: false
+draft: true
 tags:
   - tooling
 description: "Setting up debugging in VS Code & Chrome Debugger"

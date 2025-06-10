@@ -4,7 +4,7 @@ author: Leventemo
 pubDatetime: 2025-05-31T15:10:43Z
 postSlug: errorbank
 featured: false
-draft: false
+draft: true
 tags:
   - databases
   - language

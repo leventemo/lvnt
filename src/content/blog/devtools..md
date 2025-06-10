@@ -1,7 +1,7 @@
 ---
 title: DevTools
 author: Leventemo
-pubDatetime: 2024-01-06T10:20:51Z
+pubDatetime: 2024-01-06T10:20:52Z
 postSlug: devtools
 featured: false
 draft: true

@@ -1,7 +1,7 @@
 ---
 title: Util funtions
 author: Leventemo
-pubDatetime: 2024-01-15T10:20:51Z
+pubDatetime: 2024-01-15T10:20:54Z
 postSlug: util-funtions
 featured: false
 draft: true
