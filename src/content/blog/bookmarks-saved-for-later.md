@@ -14,138 +14,92 @@ description: "Miscellaneous links worth revisiting."
 
 ## Misc
 
-### [Ana Penyas](https://anapenyas.es/)
+[Ana Penyas](https://anapenyas.es/) - illustrator
 
-Illustrator.
+[Naz Hamid](https://nazhamid.com/journal/) - blogger
 
-### [Naz Hamid](https://nazhamid.com/journal/)
+[Calculating Empires](https://calculatingempires.net) - info-packed overview of technology and power since 1500
 
-Blogger.
+[Historic Borders](https://historicborders.app) - in steps of 100 years
 
-### [Calculating Empires](https://calculatingempires.net)
+[Dataviz vocabulary](https://ft-interactive.github.io/visual-vocabulary/) - types of chart categorized
 
-An info-packed overview of technology and power since 1500.
+## Node.js
 
-### [Historic Borders](https://historicborders.app)
+[TypeScript in a Node.js Project](https://www.robinwieruch.de/typescript-node-js/) - setting up a TS project with Node.js
 
-In steps of 100 years.
+[NodeJS testing](https://github.com/goldbergyoni/nodejs-testing-best-practices) - best practices
 
-### [Dataviz vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
+[Unpacking Config and Environment Variables in Node ](https://blog.platformatic.dev/stop-losing-sleep-over-nodejs-config-heres-how-to-get-it-right) - how to get it right
 
-Different types of chart categorized.
+[Using SQL in Node with Sequelize](https://blog.appsignal.com/2025/06/11/using-sql-in-nodejs-with-sequelize.html)
 
-## Tech
+## PostGres
 
-### [NodeJS testing](https://github.com/goldbergyoni/nodejs-testing-best-practices)
+[Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns) - bite-size insights
 
-Best practices.
+[Postgres vs. SQL Server: B-Tree Index Differences & the Benefit of Deduplication](https://pganalyze.com/blog/postgresql-vs-sql-server-btree-index-deduplication) - PG Indexing
 
-### [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
+[Time in PostgreSQL](https://boringsql.com/posts/know-the-time-in-postgresql/) - working with time in Postgres
 
-Bite-size insights.
+[Trunk](https://pgt.dev/) - Postgres extension registry and package manager
 
-### [Postgres vs. SQL Server: B-Tree Index Differences & the Benefit of Deduplication](https://pganalyze.com/blog/postgresql-vs-sql-server-btree-index-deduplication)
+## Astro
 
-PG Indexing.
+[RESTful TypeScript API With Astro](https://www.youtube.com/watch?v=2Mo3q_7NfCY)
 
-### [Time in PostgreSQL](https://boringsql.com/posts/know-the-time-in-postgresql/)
+[Working with APIs in Astro](https://www.youtube.com/watch?v=iX-mTitP4aE)
 
-Working with time in Postgres.
+[Dynamic API endpoints in Astrp](https://www.youtube.com/watch?v=Q1GJpcJLXhQ&t=11s)
 
-### [Trunk](https://pgt.dev/)
+[API Data Fetching](https://www.youtube.com/watch?v=9wXdv7rHW2w&t=5s)
 
-Postgres extension registry and package manager.
+[Search With Astro Actions and Fuse.js](https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/) - demo
 
-### [Unpacking Config and Environment Variables in Node ](https://blog.platformatic.dev/stop-losing-sleep-over-nodejs-config-heres-how-to-get-it-right)
+## Angular
 
-How to get it right.
+[Directives](https://medium.com/coreteq/directives-a-core-feature-of-the-angular-toolkit-34ccec531e19) - a core feature in Angular
 
-### [Using SQL in Node with Sequelize](https://blog.appsignal.com/2025/06/11/using-sql-in-nodejs-with-sequelize.html)
+## Misc Tech
 
-ORM WTF?
+[Ohm](https://ohmjs.org/) - JS parser lib
 
-### [Orange ORM: A Neat ORM for Node and TypeScript ](https://orange-orm.io/)
+[searchable dropdon](https://javascript.plainenglish.io/how-to-build-a-searchable-dropdown-with-fetch-api-and-json-data-ab409d1b244a) - in JS.
 
-ORM WTF?
+[View Transitions](https://www.builder.io/blog/view-transitions) - replace your JavaScript Animation Library with View Transitions
 
-### [Ohm](https://ohmjs.org/)
+[SQL Noir](https://www.sqlnoir.com) - brush up your SQL solving mysteries.
 
-JS parser lib
+[A fluid CSS methodology](https://willybrauner.com/journal/a-fluid-css-methodology)
 
-### [searchable dropdon](https://javascript.plainenglish.io/how-to-build-a-searchable-dropdown-with-fetch-api-and-json-data-ab409d1b244a)
+[JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
-In JS.
+## LLMs
 
-### [View Transitions](https://www.builder.io/blog/view-transitions)
+[The LLM Index](https://sapling.ai/llm/index) - a list of large language models
 
-Replace your JavaScript Animation Library with View Transitions
+[Beyond the Hype](https://www.youtube.com/watch?v=Pv0cfsastFs) - a realistic look at Large Language Models
 
-### [TypeScript in a Node.js Project](https://www.robinwieruch.de/typescript-node-js/)
+## TS
 
-Setting up a TS project with Node.js
+[Unions and intersections of object types in TypeScript](https://2ality.com/2025/03/object-type-union-intersection.html) - explore use cases
 
-### [SQL Noir](https://www.sqlnoir.com)
+[FormData with TS](https://www.freecodecamp.org/news/how-to-enforce-type-safety-in-formdata-with-typescript/) - How to Enforce Type Safety in FormData with TypeScript
 
-Brush up your SQL solving mysteries.
+[Zod](https://didoesdigital.com/blog/zod-overview/) - a TS data validation lib
 
-### [tsconfig.json](https://2ality.com/2025/01/tsconfig-json.html)
-
-A guide to `tsconfig.json` by Axel Rauschmayer.
-
-### [Unions and intersections of object types in TypeScript](https://2ality.com/2025/03/object-type-union-intersection.html)
-
-Explore use cases.
-
-### [FormData with TS](https://www.freecodecamp.org/news/how-to-enforce-type-safety-in-formdata-with-typescript/)
-
-How to Enforce Type Safety in FormData with TypeScript.
-
-### [Search With Astro Actions and Fuse.js](https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/)
-
-Demo.
-
-### [Zod](https://didoesdigital.com/blog/zod-overview/)
-
-TS data validation lib.
-
-### [A fluid CSS methodology](https://willybrauner.com/journal/a-fluid-css-methodology)
-
-What it says on the tin.
-
-### [Directives](https://medium.com/coreteq/directives-a-core-feature-of-the-angular-toolkit-34ccec531e19)
-
-A core feature in Angular.
-
-### [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-
-.. and Data Structures
-
-### [The LLM Index](https://sapling.ai/llm/index)
-
-A list of large language models.
-
-### [Beyond the Hype](https://www.youtube.com/watch?v=Pv0cfsastFs)
-
-A Realistic Look at Large Language Models
+[tsconfig.json](https://2ality.com/2025/01/tsconfig-json.html) - a guide by Axel Rauschmayer
 
 ## Music
 
-### [Jackie Molard Quartet - Mycelium](https://www.youtube.com/playlist?list=OLAK5uy_mz6rFziAHYRH0zLXZPs-yNhRVzeOFaAJI)
+[Jackie Molard Quartet - Mycelium](https://www.youtube.com/playlist?list=OLAK5uy_mz6rFziAHYRH0zLXZPs-yNhRVzeOFaAJI)
 
-### [Brian Finnegan - Shepherds](https://brianfinnegan.bandcamp.com/album/shepherds-3)
+[Brian Finnegan - Shepherds](https://brianfinnegan.bandcamp.com/album/shepherds-3) - music he grew up with
 
-Music he grew up with.
+[Dhafer Youssef - Zakir Hussein - Hüsnü Senlendirici](https://www.youtube.com/watch?v=4Elh8WytKfA) - live at Schlossfestspielen Ludwigsburg.
 
-### [Dhafer Youssef - Zakir Hussein - Hüsnü Senlendirici](https://www.youtube.com/watch?v=4Elh8WytKfA)
+[Aytaç Doğan - Kanun Resitali 1](https://www.youtube.com/watch?v=VS3LafxrMIs) - full Albüm Video
 
-Live at Schlossfestspielen Ludwigsburg.
+[Hania Rani: On Giacometti - Live at Atelier in Stampa](https://www.youtube.com/watch?v=0NTVXaxHBQQ)
 
-### [Aytaç Doğan - Kanun Resitali 1](https://www.youtube.com/watch?v=VS3LafxrMIs)
-
-Full Albüm Video
-
-### Hania Rani
-
-[On Giacometti - Live at Atelier in Stampa](https://www.youtube.com/watch?v=0NTVXaxHBQQ)
-
-[Live from Studio S2](https://www.youtube.com/watch?v=kFRdoYfZYUY)
+[Hania Rani: Live from Studio S2](https://www.youtube.com/watch?v=kFRdoYfZYUY)

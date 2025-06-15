@@ -19,6 +19,9 @@ to include in vocab:
 * C/U
 * use, along with form (not exactly the same)
 
+rework learners table
+* first_name + surname1 + surname2 columns -> name only
+
 look into PG12+ "generated columns with stored expressions" for inclusive categories
 ```
 CREATE TABLE mytable (
@@ -54,13 +57,13 @@ samples at all levels and refine categories tree
 
 This is to help me keep clear and consistent on how to go about setting up a database and filling it up with information. The contents of this post is far from being finished, it will definitely change as work is done. Read it as a kind of a diary of thinking up a freamwork.
 
-I spent 11 years teaching English in Spain and while listening to people speaking English in the classroom and in the street, I witnessed something that struck me first and kept fascinating me all those years. When trying to express themselves in English and feeling unable to find the right word, Spanish speakers have a secret weapon that had been absolutely unknown to me, someone whose first language is Hungarian. This secret weapon is the habit of using Spanish words with an English-sounding pronunciation to fill the gaps of your English vocabulary.
+I spent 11 years teaching English in Spain and while listening to people speaking English in the classroom and in the street, I witnessed something that struck me first and kept fascinating me all those years. When trying to express themselves in English and feeling unable to find the right word, Spanish speakers have a secret weapon that had been absolutely unknown to me, someone whose first language is Hungarian. I'm talking about the habit of using Spanish words with an English-sounding pronunciation to fill the gaps in your English vocabulary.
 
 And it works, most of the time. Depending on the speakers' level of English and linguistic awareness, they tend to hazard this technique with various degrees of confidence, the "English-sounding" pronunciation might be far from perfect, spelling might turn out to be plain Spanish when done in writing and the right register is very often missed but communication is maintained and the message is delivered.
 
 Researchers call it L1 interference and it's easy to pinpoint the background reasons to it in the case of Spanish and English. There's a vast amount of shared vocabulary between them. Spanish is a Latin language and English has a body of Latin loan words coming directly from church Latin or via French. [This website](https://www.colorincolorado.org/guide/cognate-list-english-and-spanish) claims 30-40% of all English words "have a related word in Spanish" and [here is](https://www.quia.com/files/quia/users/ijcano/SPAN_FALL_2010/SPAN_2001/Instant-Spanish-Vocabulary---September-2010.pdf) an attempt, written for English speakers, to help them boost their Spanish vocabulary.
 
-Categorizing and quantifying different types of errors at different levels of the learning process could serve the purpose of offering statistical insights to leaerners and teachers alike.
+Categorizing and quantifying different types of errors at different levels of the learning process could offer statistical insights to leaerners and teachers alike, that's what this project is all about.
 
 ## the data
 
@@ -85,11 +88,11 @@ This is a list of Common European Framework of Reference levels and the preparat
 
 ## design principles
 
-Needless to say, I'm aiming at an even data distribution across all levels/courses in terms of the number of writers (ie. students) and "sessions" (ie. pieces of writing), otherwise some of the queries below would bring up distorted statistics.
+Needless to say, I'm aiming at an even data distribution across all levels/courses in terms of the number of writers (ie. students) and "assignments" (ie. pieces of writing), otherwise some of the queries below would bring up distorted statistics.
 
 ## error categories
 
-As long as an error fits into one of a series of distinct, exclusive categories, no problem. That's the scenario I had in mind when I started playing with the idea of an error bank. As soon as I started looking at examples, I realized that a bulk of them falls into multiple types. _friday_ is a spelling mistake but it could/should be listed as a capitalization error as well. Should these two categories be exclusive or inclusive (one category being part of the other)? A framework needs to be developed but it can only be done on the fly, renaming, adjusting, restructuring it while filling up the database.
+As long as an error fits into one of a series of distinct, exclusive categories, no problem. That's the scenario I had in mind when I started playing with the idea of an error bank. As soon as I started looking at examples, I realized that a bulk of them fall into multiple types. _friday_ is a spelling mistake but it could/should be listed as a capitalization error as well. Should these two categories be exclusive or inclusive (one category being part of the other)? A framework needs to be developed but it can only be done on the fly, renaming, adjusting, restructuring it while filling up the database.
 
 ### exclusive categories
 
@@ -452,9 +455,7 @@ VALUES
 
 CREATE TABLE learners (
 	id SERIAL PRIMARY KEY,
-	first_name VARCHAR(15) NOT NULL,
-	surname1 VARCHAR(15) NOT NULL,
-	surname2 VARCHAR(15) NOT NULL
+	name VARCHAR(50) NOT NULL
 );
 
 CREATE TABLE assignment (
