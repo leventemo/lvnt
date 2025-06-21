@@ -34,6 +34,20 @@ description: "Miscellaneous links worth revisiting."
 
 [Using SQL in Node with Sequelize](https://blog.appsignal.com/2025/06/11/using-sql-in-nodejs-with-sequelize.html)
 
+[Node.js Moves Toward Stable TypeScript Support with Amaro 1.0](https://socket.dev/blog/node-js-moves-toward-stable-typescript-support-with-amaro-1-0)
+
+## SQL games
+
+[SQL Island](https://sql-island.informatik.uni-kl.de/) - for beginners
+
+[SQL Murder Mystery](https://mystery.knightlab.com/) - intermediate, complex queries & logical reasoning
+
+[SQL Police Dpt](https://sqlpd.com/) - beginner to advanced
+
+[SQL Noir](https://www.sqlnoir.com) - all skill levels
+
+[SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) - all skill levels, most comprehensive SQL coverage, systematic learning
+
 ## PostGres
 
 [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns) - bite-size insights
@@ -43,6 +57,16 @@ description: "Miscellaneous links worth revisiting."
 [Time in PostgreSQL](https://boringsql.com/posts/know-the-time-in-postgresql/) - working with time in Postgres
 
 [Trunk](https://pgt.dev/) - Postgres extension registry and package manager
+
+[PostGres deployment checklist](https://stormatics.tech/blogs/checklist-is-your-postgresql-deployment-production-grade)
+
+[PGConf.dev 2025](https://www.youtube.com/playlist?list=PLTw6f6dqzO1tCLr_OHjZ37kY2r35u2tCq#pgconfdev2025)
+
+[Logical Replication](https://boringsql.com/posts/logication-replication-introduction/)
+
+[Never use CASCADE deletes on critical foreign keys](https://vince.beehiiv.com/p/how-i-dropped-the-production-database-on-a-friday-night)
+
+[New MS VSCode extension for PG](https://www.youtube.com/watch?v=wzyY7GNV7Xo&list=PLlrxD0HtieHjHHYfXx3llOlESrX1IpJro&index=24)
 
 ## Astro
 
@@ -62,13 +86,13 @@ description: "Miscellaneous links worth revisiting."
 
 ## Misc Tech
 
+[AG Charts](https://www.ag-grid.com/charts/gallery/?utm_source=charts-homepage&utm_medium=hero-section&utm_campaign=homepage-cta)
+
 [Ohm](https://ohmjs.org/) - JS parser lib
 
 [searchable dropdon](https://javascript.plainenglish.io/how-to-build-a-searchable-dropdown-with-fetch-api-and-json-data-ab409d1b244a) - in JS.
 
 [View Transitions](https://www.builder.io/blog/view-transitions) - replace your JavaScript Animation Library with View Transitions
-
-[SQL Noir](https://www.sqlnoir.com) - brush up your SQL solving mysteries.
 
 [A fluid CSS methodology](https://willybrauner.com/journal/a-fluid-css-methodology)
 
@@ -89,6 +113,9 @@ description: "Miscellaneous links worth revisiting."
 [Zod](https://didoesdigital.com/blog/zod-overview/) - a TS data validation lib
 
 [tsconfig.json](https://2ality.com/2025/01/tsconfig-json.html) - a guide by Axel Rauschmayer
+
+[Advanced TS Tricks](https://egghead.io/advanced-type-script-tricks-for-cleaner-safer-code~v5rnf?utm_campaign=Advanced%20TypeScript%20Tricks%20for%20Cleaner%2C%20Safer%20Code&utm_content=Advanced%20TypeScript%20Tricks%20for%20Cleaner%2C%20Safer%20Code&utm_medium=email_action&utm_source=customer.io
+)
 
 ## Music
 
