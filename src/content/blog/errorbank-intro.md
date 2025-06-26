@@ -1,35 +1,35 @@
 ---
 title: Errorbank - Intro
 author: Leventemo
-pubDatetime: 2025-05-31T15:10:43Z
-draft: true
+pubDatetime: 2025-06-26T16:10:43Z
+draft: false
 tags:
   - databases
   - language
-  - tefl
-  - L1_interference
-description: "Working out principles of designing a database of errors made by Spanish speakers when using English."
+description: "A database of errors made by Spanish speakers when using English."
 ---
 
-## the idea
+## idea
 
-I spent 11 years teaching English in Spain and while listening to people speaking English in the classroom and in the street, I witnessed something that struck me first and kept fascinating me all those years. When trying to express themselves in English but feeling unable to find the right word, Spanish speakers have a secret weapon that had been absolutely unknown to me, someone whose first language is Hungarian. It's the habit of using Spanish words with an English-sounding pronunciation to fill the gaps in your English vocabulary.
+I spent a good few years teaching English in Spain and while listening to people speaking English in classroom settings or everyday conversations, I witnessed something that struck me first and kept fascinating me all those years. When trying to express themselves in English, but feeling unable to find the right word, Spanish speakers tend to use a secret weapon that had been absolutely unknown to me, someone whose first language is Hungarian. It's the habit of using Spanish words with an English-sounding pronunciation to fill the gaps in your English vocabulary.
 
 And it works, most of the time. Depending on the speaker's level of English and linguistic awareness, they tend to hazard this technique with various degrees of confidence; the "English-sounding" pronunciation might be far from perfect, spelling might turn out to be plain Spanish when done in writing and the right register is very often missed but communication is maintained and the message is delivered.
 
-Researchers of language learning call it L1 interference and it's easy to pinpoint the background reasons to it in the case of Spanish and English. There's a vast amount of shared vocabulary between them. Spanish is a Latin language and English has a body of Latin loan words coming directly from church Latin or via French. [This website](https://www.colorincolorado.org/guide/cognate-list-english-and-spanish) claims 30-40% of all English words "have a related word in Spanish" and [here is](https://www.quia.com/files/quia/users/ijcano/SPAN_FALL_2010/SPAN_2001/Instant-Spanish-Vocabulary---September-2010.pdf) an attempt, written for English speakers, to help them boost their Spanish vocabulary.
+Researchers of language learning call it L1 interference and it's easy to pinpoint the background reasons to it in the case of Spanish and English. There's a vast amount of shared vocabulary between them. Spanish is a language of Latin origin and English has a body of Latin loan words coming directly from church Latin or via French. [This website](https://www.colorincolorado.org/guide/cognate-list-english-and-spanish) claims 30-40% of all English words "have a related word in Spanish" and [here is](https://www.quia.com/files/quia/users/ijcano/SPAN_FALL_2010/SPAN_2001/Instant-Spanish-Vocabulary---September-2010.pdf) an attempt, written for English speakers, to help them boost their Spanish vocabulary.
 
-Categorizing and quantifying different types of errors at different levels of the learning process could offer useful statistical insights to learners and teachers alike, that's what this project is all about.
+Categorizing and quantifying different types of errors at different stages of the learning process could offer useful statistical insights to learners and teachers alike, that's what this project is all about.
 
-## the data
+## data
 
 Part of my job was marking writing, mock exams most of the time or assignments modelled after typical exam tasks, so I was exposed to written Spanglish. There was an emphasis on giving learners and parents quality feedback on both written and spoken English. After a while my initial amusement turned into an interest in trying to get a deeper understanding of the types of mistakes my students made and I started collecting them. This project is nothing else than an attempt to build a framework around the data in my notes. Of course, more data would offer more refined statistics but that remains an open question for a next step in the future.
 
-The original idea of a possible project was something that would only look at spelling mistakes. The outcome of it would have been a blog post or an updatable database interface listing misspelled words ordered by frequency. However, once you start sorting the material into different types, ignoring any example feels like a lost opportunity, even if you need to rethink your system of categories again and agan. To cut it short, I decided to go for the whole hog and try to include everything, be it spelling, vocabulary, syntax, etc. More work, slower progress but also more exciting outcome, hopefully.
+## scope
+
+The original idea of a possible project was something that would only look at spelling mistakes. The outcome of it could have been a blog post or an updatable database interface listing misspelled words ordered by frequency. However, once you start sorting the material into different types, ignoring any example feels like a lost opportunity, even if you need to rethink your system of categories again and agan. To cut it short, I decided to go for the whole hog and try to include everything, be it spelling, vocabulary, syntax, etc. More work, slower progress but also more exciting outcome, hopefully.
 
 ## levels and courses
 
-This is a list of Common European Framework of Reference levels and the preparation courses at the academy my data comes from. From B1 up, each level is covered by two 1-year courses, named loosely after their targeted Cambridge exam. Since these courses break up each level into two sublevels, including both levels AND courses in the database will offer more refined statistics. There's no data for A1 and A2 levels at the moment.
+Here is a list of the levels of the Common European Framework of Reference and the exam preparation courses at the academy my data comes from. From B1 up, each level is covered by two 1-year courses, named loosely after their targeted Cambridge exam. Since these courses break each level up into two sublevels, including both levels AND courses in the database will offer more refined statistics. There's no data for A1 and A2 levels at the moment.
 
 | CEFR level |    course    |
 | :---------: | :----------- |
@@ -46,14 +46,34 @@ This is a list of Common European Framework of Reference levels and the preparat
 
 ## design principles
 
-Needless to say, I'm aiming at an even data distribution across all levels/courses in terms of the number of writers (ie. students) and "assignments" (ie. pieces of writing), otherwise some of the queries below would bring up distorted statistics.
+When working with data, consistency is key at every level: creating a clear framework of distinct categories and feeding data into it.
 
-## the outcome
+Needless to say, I'm aiming at an even data distribution across all levels/courses in terms of the number of writers (ie. students) and "assignments" (ie. pieces of writing), otherwise some of the queries below would lead to distorted statistics.
 
-here is a quick list of example queries:
-* list and sort the most common spelling mistakes and the correct forms at a given level
+For a start, errors fall into four main categories:
+* writing mechanics (spelling, that is, in everyday English),
+* vocabulary,
+* syntax
+* and tenses.
+
+Each of these is divided into subcategories and building a system of these subcategories is the real challenge. As mentioned above, it entails starting processing the material, setting up elements of a consistent framework, dealing with borderline cases, examples that might fall into multiple categories, categories that overlap others, rethinking and changing the system, going back and checking your data. Work is still being done and a lot of questions are still undecided. This is going to be the subject of another writeup here.
+
+## outcome
+
+The user interface should accomodate filtering for levels/course and error types. Sorting by frequency is a must and the queries should be able to get the errors themselves or calculated frequency values.
+
+Here is a quick list of a few example queries:
+* list and sort the most common spelling mistakes and the correct forms at a given level/all levels
+* list and sort distinct errors of the false friend type by frequency at a given level/all levels
 * show a statistical overview of the number of errors using false friends across different levels
 * show a statistical overview of all the different types of errors across different levels (begs for some kind of dataviz)
-* list and sort all errors according to frequency, filtering for a selected level
-* list and sort all types errors according to frequency, filtering for a selected level
-* list and sort selected categories of errors according to frequency, filtering for a selected level
+* list and sort all distinct errors by frequency, filtering for a selected level
+* list and sort all types errors by frequency, filtering for a selected level
+* list and sort selected categories of errors by frequency, filtering for a selected level
+
+## tech stack
+
+* Postgres database
+* Express API server
+* Angular user interface
+* some dataviz library, to be decided
