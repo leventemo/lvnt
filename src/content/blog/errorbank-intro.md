@@ -2,6 +2,8 @@
 title: Errorbank - Intro
 author: Leventemo
 pubDatetime: 2025-06-26T06:10:43Z
+postSlug: errorbank-intro
+featured: false
 draft: false
 tags:
   - databases
@@ -15,7 +17,7 @@ I spent a good few years teaching English in Spain and while listening to people
 
 And it works, most of the time. Depending on the speaker's level of English and linguistic awareness, they hazard this technique with various degrees of confidence; the "English-sounding" pronunciation might be far from perfect, spelling might turn out to be plain Spanish when done in writing and the right register is very often missed but communication is maintained and the message is delivered.
 
-Researchers of language learning call it L1 interference and it's easy to pinpoint the background reasons to it in the case of Spanish and English. There's a vast amount of shared vocabulary between them. Spanish is a language of Latin origin and English has a body of Latin loan words coming directly from church Latin or via French. [This website](https://www.colorincolorado.org/guide/cognate-list-english-and-spanish) claims 30-40% of all English words "have a related word in Spanish" and [here is](https://www.quia.com/files/quia/users/ijcano/SPAN_FALL_2010/SPAN_2001/Instant-Spanish-Vocabulary---September-2010.pdf) an attempt, written for English speakers, to help them boost their Spanish vocabulary.
+Researchers of language learning talk about something they call "L1 interference" (L1 meaning your first language, ie. your mother tongue) and it's easy to pinpoint the background reasons to it in the case of Spanish and English. There's a vast amount of shared vocabulary between them. Spanish is a language of Latin origin and English has a body of Latin loan words coming directly from church Latin, via French or [other routes](https://en.wikipedia.org/wiki/Latin_influence_in_English). [This website](https://www.colorincolorado.org/guide/cognate-list-english-and-spanish) claims 30-40% of all English words "have a related word in Spanish" and [here is](https://www.quia.com/files/quia/users/ijcano/SPAN_FALL_2010/SPAN_2001/Instant-Spanish-Vocabulary---September-2010.pdf) an attempt, written for English speakers, to help them boost their Spanish vocabulary.
 
 Categorizing and quantifying different types of errors at different stages of the learning process could offer useful statistical insights to learners and teachers alike, that's what this project is all about.
 
@@ -31,8 +33,8 @@ The original idea of a possible project was something that would only look at sp
 
 Here is a list of the levels of the Common European Framework of Reference and the exam preparation courses at the academy my data comes from. From B1 up, each level is covered by two 1-year courses, named loosely after their targeted Cambridge exam. Since these courses break each level up into two sublevels, including both levels AND courses in the database will offer more refined statistics. There's no data for A1 and A2 levels at the moment.
 
-| CEFR level |    course    |
-| :---------: | :----------- |
+| CEFR levels |   courses   |
+| :---------: | :---------- |
 | A1         | ...          |
 | A2         | ...          |
 | B1         | PET1         |
