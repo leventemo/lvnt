@@ -27,7 +27,7 @@ Part of my job was marking writing, mock exams most of the time or assignments m
 
 ## scope
 
-The original idea of a possible project was something that would only look at spelling mistakes. The outcome of it could be a blog post or even an updatable database interface listing misspelled words ordered by frequency. However, once you start sorting the material into different types, ignoring any example feels like a lost opportunity, even if you need to rethink your system of categories again and again. To cut it short, I decided to go for the whole hog and try to include everything, be it spelling, vocabulary, syntax, etc. More work, slower progress but also more exciting results, hopefully.
+The original idea of a possible project was something that would only look at spelling mistakes. The outcome of it could be a blog post or even an updatable database interface listing misspelled words ordered by frequency. However, once you start sorting the material into different types, ignoring any example feels like a lost opportunity, even if you need to rethink your system of categories again and again. To cut it short, I decided to go for the whole hog and try to include everything, be it spelling, vocabulary, syntax, etc. More work, slower progress but also more exciting results, hopefully. So the scope of the project is not strictly about L1 interference any more, it looks at errors in general, all types of them.
 
 ## levels and courses
 
@@ -62,11 +62,11 @@ Each of these is divided into subcategories and building a system of these subca
 
 ## the outcome
 
-The user interface should accomodate filtering for levels/courses and error types. Sorting by frequency is a must and the queries should be able to come back with the errors themselves listed or calculated frequency values.
+The user interface I am imagining accomodates filtering for levels/courses and error types. Sorting by frequency is a must and the queries are able to come back with the errors themselves listed or calculated frequency values.
 
 Here is a quick list of a few example queries:
 * list and sort the most common spelling mistakes and their respective correct forms at a given level/all levels
-* list and sort distinct errors of the false friend type by frequency at a given level/all levels
+* list and sort distinct errors of the false friends type by frequency at a given level/all levels
 * show a statistical overview of the number of errors of the false friends type across different levels
 * show a statistical overview of all the different types of errors across different levels (begs for some kind of dataviz)
 * list and sort all distinct errors by frequency at a given level/all levels
