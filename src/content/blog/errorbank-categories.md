@@ -2,13 +2,12 @@
 title: Errorbank - Categories
 author: Leventemo
 pubDatetime: 2025-05-31T15:10:43Z
+postSlug: errorbank-categories
 draft: true
 tags:
   - databases
   - language
-  - tefl
-  - L1_interference
-description: "Working out principles of designing a database of errors made by Spanish speakers when using English."
+description: "Designing a database of errors made by Spanish speakers when using English."
 ---
 
 ## TODO
@@ -24,9 +23,8 @@ CREATE TABLE mytable (
 );
 ```
 * "in this case, flag2 is generated based on the value of flag1, but you can still update flag2 independently using an UPDATE statement"
-* better than a trigger as it is at a db desig level
+* better than a trigger as it is at a db design level
 
-update categories tree
 update the create statements below
 
 2ND ROUND:
@@ -38,8 +36,6 @@ update the create statements below
 	+ syntax table -> use (?)
 * introduce frequency-markers?
 	+ unified abstractions for calculating frequency
-
-rewrite spelling (l1driven) & capitals (distinct exclusive) as inclusive: spelling contains capitals?
 
 skim through textbooks for categories & extend catergories tree if necessary
 
@@ -181,6 +177,7 @@ VOCABULARY
 * form_phrasal_verb
 * form_idiom
 * form_irregular_verb
+* form_plural (move to syntax?)
 * form_irregular_plural
 * form_prefix
 * form_suffix
@@ -192,33 +189,39 @@ VOCABULARY
 * preposition
 
 SYNTAX
-* missing_subj
-* obj
+* subject_pool
+* missing_subject
+* object_pool
 * indirect_obj
 * verb_pattern
-* adj
-* adv
-* sing_plur
-* articles
+* adjective_pool
+* adjective_word_order
+* adjective_sing_plur
+* sing_plur_pool
+* adverb
 * third_singular
+* article
+* some_any
 
-TENSES
+TENSE
 * pres_simp
 * pres_cont
-* pres_perf
+* pres_perf_simp
 * pres_perf_cont
 * past_simp
 * past_cont
-* past_perf
+* past_perf_simp
 * past_perf_cont
-* fut_sim
+* fut_simp
 * fut_cont
-* fut_perf
+* fut_perf_simp
 * fut_perf_cont
 * arranged
 * insta_decision
 * gonna_plan
 * gonna_evidence
+
+REVISIT
 
 ## creating records
 
@@ -784,3 +787,17 @@ package.json
 In this case, you would install dependencies for both projects in the same `package.json` file, and use scripts to build and run each project separately.
 
 Ultimately, the choice of project structure depends on your specific needs and preferences.
+
+
+## rename db
+
+`ALTER DATABASE old_database_name RENAME TO new_database_name;`
+
+As for choosing a new name, here are a few things to be careful about:
+
+Database names in PostgreSQL are case-sensitive, so mydb and MyDB would be considered two different names.
+Database names cannot be longer than 63 characters.
+Database names cannot contain certain special characters, such as @, #, $, etc. Stick to alphanumeric characters and underscores.
+It's also a good idea to avoid using reserved keywords, such as user, database, table, etc. as database names.
+Make sure the new name is not already in use by another database.
+It's also worth noting that renaming a database does not change the ownership of the database or its contents. If you need to change the ownership, you'll need to use a separate command, such as ALTER DATABASE new_database_name OWNER TO new_owner;
