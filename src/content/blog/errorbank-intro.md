@@ -11,6 +11,8 @@ tags:
 description: "A database of errors made by Spanish speakers when using English."
 ---
 
+## Table of contents
+
 ## the idea
 
 I spent a good few years teaching English in Spain and while listening to people using English in the classroom or otherwise, I witnessed something that struck me first and kept fascinating me all those years. When trying to express themselves in English, but feeling unable to find the right word, Spanish speakers tend to reach for a secret weapon that had been absolutely unknown to me, someone whose first language is Hungarian. It's the habit of using Spanish words with an English-sounding pronunciation to fill the gaps in your English vocabulary.
