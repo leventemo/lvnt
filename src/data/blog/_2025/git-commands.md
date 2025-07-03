@@ -33,3 +33,7 @@ interactive staging
 
 change most recent commit message
 * `git commit --amend -m "an updated commit message"`
+
+force-push to a remote repo and override whatever is in there
+* `git fetch <name-of-remote>`: if needed, fetch the changes by other devs
+* `git push <name-of-remote> <your-branch-name> --force`
