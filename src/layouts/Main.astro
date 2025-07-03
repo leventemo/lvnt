@@ -42,6 +42,16 @@ const backUrl = SITE.showBackButton ? Astro.url.pathname : "/";
   <slot />
 </main>
 
+<style>
+  main {
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+  }
+</style>
+
 <script>
   document.addEventListener("astro:page-load", () => {
     const mainContent: HTMLElement | null =
