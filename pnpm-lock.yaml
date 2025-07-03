@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@astrojs/internal-helpers':
+        specifier: ^0.6.1
+        version: 0.6.1
       '@astrojs/rss':
         specifier: ^4.0.12
         version: 4.0.12
@@ -1215,7 +1218,7 @@ packages:
 
   astro@5.10.0:
     resolution: {integrity: sha512-g/t54kVzQnFVijs+GbbbX/NBAFTl/3yNAEA/AQYq4FumLLVv7n4BIF+jKhcPGn9iFGyT1Cjvr7KB/qYyNvHEIg==}
-    engines: {node: 18.20.8 || ^20.3.0 || >=22.0.0, npm: '>=9.6.5', pnpm: '>=10.12.1'}
+    engines: {node: 18.20.8 || ^20.3.0 || >=22.0.0, npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
   astrojs-compiler-sync@1.0.1:
