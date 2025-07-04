@@ -132,6 +132,12 @@ description: "Music I'm keeping in mind."
 * [album PCO](https://www.youtube.com/watch?v=mFlKxfhMYls&list=PLEQqOZ_y4MgDLYF9_Pc0jW7NjIIPVjQvz)
 * [documentary](https://www.youtube.com/watch?v=Rw_gciKrZEM)
 
+## [Brìghde Chaimbeul & Aidan O'Rourke at Sligachan | Skye Live 2021](https://www.youtube.com/watch?v=BN-QdOhOL7Q&list=RDBN-QdOhOL7Q&start_radio=1)
+
+[Hania Rani: On Giacometti - Live at Atelier in Stampa](https://www.youtube.com/watch?v=0NTVXaxHBQQ)
+
+[Hania Rani: Live from Studio S2](https://www.youtube.com/watch?v=kFRdoYfZYUY)
+
 ## Sonic Garbage (just start clicking)
 
 * [Sonic Garbage](https://sonicgarbage.greg.technology)

@@ -22,7 +22,11 @@ description: "Miscellaneous links worth revisiting."
 
 [Historic Borders](https://historicborders.app) - in steps of 100 years
 
+## Data Visualization
+
 [Dataviz vocabulary](https://ft-interactive.github.io/visual-vocabulary/) - types of chart categorized
+
+[160 different types of data visualizations](https://datavizproject.com/)
 
 ## Node.js
 
@@ -35,6 +39,10 @@ description: "Miscellaneous links worth revisiting."
 [Using SQL in Node with Sequelize](https://blog.appsignal.com/2025/06/11/using-sql-in-nodejs-with-sequelize.html)
 
 [Node.js Moves Toward Stable TypeScript Support with Amaro 1.0](https://socket.dev/blog/node-js-moves-toward-stable-typescript-support-with-amaro-1-0)
+
+[Email for developers](https://resend.com/)
+
+[Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/)
 
 ## SQL games
 
@@ -126,7 +134,3 @@ description: "Miscellaneous links worth revisiting."
 [Dhafer Youssef - Zakir Hussein - Hüsnü Senlendirici](https://www.youtube.com/watch?v=4Elh8WytKfA) - live at Schlossfestspielen Ludwigsburg.
 
 [Aytaç Doğan - Kanun Resitali 1](https://www.youtube.com/watch?v=VS3LafxrMIs) - full Albüm Video
-
-[Hania Rani: On Giacometti - Live at Atelier in Stampa](https://www.youtube.com/watch?v=0NTVXaxHBQQ)
-
-[Hania Rani: Live from Studio S2](https://www.youtube.com/watch?v=kFRdoYfZYUY)
