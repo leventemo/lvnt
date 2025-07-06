@@ -177,3 +177,87 @@ Licensed under the MIT License, Copyright © 2025
 ---
 
 Made with 🤍 by [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/satnaing/astro-paper/graphs/contributors).
+
+## todo
+
+- [ ] `projects/index.png.ts` necessary to duplicate?
+- [ ] `getSortedProjects.ts` necessary to duplicate?
+
+In an Astro project, a folder named `[...slug]` is a special type of route that enables dynamic routing. The `[...slug]` syntax is called a "catch-all" route.
+
+When a folder is named `[...slug]`, Astro will capture any URL segments that match the folder's path and pass them as an array of values to the page component. This allows you to create dynamic routes that can handle multiple URL segments.
+
+For example, if you have a folder structure like this:
+```
+src/pages/posts/[...slug]/index.astro
+```
+Astro will match any URL that starts with /posts/ and capture the remaining URL segments as an array of values. The `index.astro` page component will receive these values as a prop called `params.slug`.
+
+You can then use these values to fetch data, render content, or perform other actions in your page component.
+
+In your case, since you most recently edited the file at
+src/pages/projects/index.astro, I'm assuming you might be looking to create a dynamic route for projects. If you rename the projects folder to [...slug], you'll be able to capture URL segments and pass them to the index.astro page component as a prop.
+
+
+You
+1:59 pm, Jul 6, 2025
+And how about a file called `[...page].astro`?
+
+Windsurf
+1:59 pm, Jul 6, 2025
+In an Astro project, a file named `[...page].astro` is another example of a catch-all route.
+
+When a file is named `[...page].astro`, Astro will capture any URL segments that match the file's path and pass them as an array of values to the page component.
+
+In this case, the `[...page]` syntax will capture one or more URL segments, and pass them to the page component as a prop called `params.page`.
+
+For example, if you have a file named `[...page].astro` in the src/pages directory, Astro will match URLs like:
+
+/
+/about
+/about/team
+/about/team/john
+And pass the captured URL segments as an array to the `[...page].astro` page component.
+
+This allows you to create a single page component that can handle multiple URL segments and render different content based on the captured values.
+
+Note that the `[...page]` syntax is similar to the `[...slug]` syntax I mentioned earlier, but it's used for a single file instead of a folder.
+
+------
+
+It looks like you've made good progress!
+
+Since you've mirrored the contents of
+src/pages/posts
+ and rewritten "blog" to "projects", the issue is likely due to the fact that the getCollection function is not returning any data for the "projects" collection.
+
+Here are a few things you can check:
+
+Make sure the .md files in
+src/data/projects
+ are correctly formatted: Ensure that the frontmatter in each .md file is correct and contains the necessary fields (e.g., title, description, etc.).
+Check the getCollection function: Verify that the getCollection function is correctly configured to fetch data from the "projects" collection. You can try logging the result of getCollection to see if it's returning any data.
+Verify the getSortedPosts function: If you're using the getSortedPosts function to sort and filter the posts, make sure it's correctly configured to handle the "projects" collection.
+Check the page.data prop: In your [...page].astro file, log the page.data prop to see if it's receiving any data. If it's empty, it could indicate that the issue is with the data fetching or processing.
+To help you debug, you can try adding some console logs or using the Astro debugger to inspect the data being passed to your components.
+
+Here's an example of how you can log the page.data prop in your [...page].astro file:
+
+astro
+---
+// ...
+---
+
+<Layout title={`Posts | ${SITE.title}`}>
+  <Header />
+  <Main pageTitle="Projects" pageDesc="Some of my personal projects.">
+    <ul>
+      {console.log(page.data)} // Add this line to log the page.data prop
+      {page.data.map(data => <Card {...data} />)}
+    </ul>
+  </Main>
+  <!-- ... -->
+</Layout>
+This should give you a better idea of what's going on with the data.
+
+
