@@ -18,6 +18,7 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 
 | Completed | Course / Book                                                                                                                       |          by...          |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------- | :---------------------: |
+| 2025/06   | [Learn Prisma In 60 Minutes](https://www.youtube.com/watch?v=RebA5J-rlwg)                                                           |   [Web Dev Simplified]  |
 | 2024/04   | [API testing with Postman](https://www.freecodecamp.org/news/learn-how-to-use-postman-to-test-apis/)                                |     Valentin Despa      |
 | 2024/03   | [What is a RESTful API?](https://www.youtube.com/watch?v=Q-BpqyOT3a8)                                                               |     [Brad Traversy]     |
 | 2023/11   | [VS Code Magic Tricks](https://fireship.io/courses/vscode-tricks/)                                                                  |       [Fireship]        |
@@ -183,8 +184,6 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 | :---------------------- | :-----: | :------------: | :---------: |
 | **HTML5**               | &check; |    &check;     |   &check;   |
 | **CSS3**                | &check; |    &check;     |   &check;   |
-| **CSS Flexbox**         | &check; |    &check;     |   &check;   |
-| **CSS Grid**            | &check; |    &check;     |   &check;   |
 | **Bootstrap**           | &check; |    &check;     |             |
 | **Bulma**               | &check; |    &check;     |             |
 | **Sass**                |  soon   |                |             |
@@ -198,29 +197,29 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 | **GitHub**              | &check; |    &check;     |   &check;   |
 | **Angular**             | &check; |    &check;     |   &check;   |
 | **OOP**                 | &check; |    &check;     |             |
-| **RxJS**                | &check; |    &check;     |             |
+| **RxJS**                | &check; |                |             |
 | **Angular Material**    | &check; |    &check;     |   &check;   |
+| **Astro**               | &check; |    &check;     |             |
 | **NPM**                 | &check; |    &check;     |   &check;   |
 | **Node.js**             | &check; |    &check;     |             |
-| **Express.js**          | &check; |                |             |
+| **Express.js**          | &check; |    &check;     |             |
 | **Consuming APIs**      | &check; |    &check;     |             |
-| **Creating REST APIs**  | &check; |                |             |
+| **Creating REST APIs**  | &check; |    &check;     |             |
 | **Unit Testing**        | &check; |    &check;     |             |
 | **Integration Testing** |  soon   |                |             |
-| **End-to-end Testing**  |  soon   |                |             |
-| **Test Automation**     | &check; |                |             |
+| **End-to-end Testing**  | &check; |    &check;     |   &check;   |
+| **Test Automation**     | &check; |    &check;     |   &check;   |
 | **Text To Speech**      | &check; |                |             |
-| **Websockets**          | &check; |                |             |
-| **SQL**                 | &check; |                |             |
-| **PostgreSQL**          |  soon   |                |             |
+| **Websockets**          |  soon   |                |             |
+| **SQL**                 | &check; |    &check;     |             |
+| **PostgreSQL**          | &check; |    &check;     |             |
+| **Prisma ORM**          | &check; |                |             |
 | **MongoDB**             | &check; |    &check;     |             |
 | **Firebase**            | &check; |                |             |
 | **Custom e-commerce**   |  soon   |                |             |
 | **Deployment**          | &check; |    &check;     |             |
 | **Data Visualization**  |  soon   |                |             |
 | **Accessibility**       | &check; |                |             |
-| **React**               | &check; |                |             |
-| **Redux**               | &check; |                |             |
 
 &nbsp;
 
@@ -273,3 +272,4 @@ Inspired by Syk Houdeib's [idea](https://github.com/Syknapse/My-Learning-Tracker
 [Astro]: https://astro.build/
 [Fireship]: https://fireship.io/
 [Steve Griffith]: https://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3
+[Web Dev Simplified]: https://www.youtube.com/watch?v=RebA5J-rlwg

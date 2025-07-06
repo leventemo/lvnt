@@ -16,15 +16,18 @@ description: "... in which frogs don't just sit, each in a box. But some boxes d
 
 ### one error, one box
 
-As long as an error fits into one of a series of distinct, exclusive categories, no problem. **tipical* -> *typical* is one type of error, **Is wonderful.* -> *It is wonderful.* is a completely different one. That's the scenario I had in mind when I started playing with the idea of an error bank. And that's a strict model you might expect from a database: there are, say, 100 records in the rows and you are informed how-many-of-a-hundred each of your categories reach. Nice and clean. So clean you already see it in the form of some graph. So nice it took me a while to give up fighting real data in order to stick to this model.
+As long as an error fits into one of a series of distinct, exclusive categories, no problem. **tipical* -> *typical* is one type of error, **Is wonderful.* -> *It is wonderful.* is a completely different one. That's the scenario I had in mind when I started playing with the idea of an error bank. And that's a strict model you might expect from a database: there are, say, 100 records in the rows and you are told how-many-of-a-hundred each of your categories reach. Nice and clean. So clean you already see it in the form of some graph. So nice it took me a while to give up fighting real data just because I wanted to stick to this model.
 
 ### one error, many boxes
 
 As I started looking at examples and categorizing them, I realized that a bulk of them fall into multiple types. The error **I'll give it back for you.* -> *I'll give it back to you.* can be - and should be - categorized as __vocab__ > __preposition__ but if we want information about how the ability to use indirect objects evolves across levels, we might want to mark it as __syntax__ > __indirect_obj__ as well. This is exactly what a database is good for and good at: with both categories marked true, it will list the error when we want to look at mistakes of the prepositions type as well as mistakes of the indirect object types. Obviously, not all errors of the __preposition__ type will be marked as __indirect_obj__ and vica versa.
 
+#### more examples
+
 Here is an example of two similar but not identical types of error:
 * *my restaurant favourite* -> *my favourite restaurant*
 	+ This is clearly a problem with the word order of adjectives. One error, one box: __syntax__ > __adj__
+  * NOTE: Actually, it might not be the best example bc we might decide to set up a __pool_word_order__ category
 * *about my places favourites* -> *about my favourite places*
 	+ There are two mistakes being made here: one is identical to what we see in the previous example (__syntax__ > __adj__), the other has something to do with the use of singular/plural (__syntax__ > __sing_plur__)
 
@@ -45,6 +48,8 @@ example: ...pool
 	+ spelling (writing mechanics)
 	+ capitals (capitalisation)
 
+#### more examples
+ ...
 
 
 
@@ -55,7 +60,7 @@ example: ...pool
 sometimes the boundaries are not so clear
 * **They put very big tapas.* - put & poner(se) - are they false friends or do they just sound too similar to be distinguished?
 
-many of the vocab.form type errors are also syntax errors
+many of the __vocab_form__ type errors are also __syntax__ errors
 ```
 SELECT errors.id, error, correct, spelling_id, vocab_id, syntax_id, tense_id
 FROM errors

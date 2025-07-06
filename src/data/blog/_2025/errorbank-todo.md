@@ -14,6 +14,10 @@ description: "Up next."
 
 ## up next
 
+* integrate and try Prisma into API
+	+ PostgreSQL constraints: https://www.prisma.io/dataguide/postgresql/column-and-table-constraints
+	+ Prisma into Astro: https://www.prisma.io/docs/guides/astro
+	+ create & delete db-s & tables in Prisma/Postgres
 * clean up categories post
 * update the create statements
 * backup
@@ -33,6 +37,8 @@ CREATE TABLE mytable (
 * better than a trigger as it is at a db design level
 
 ## to decide
+
+should __vocab__ > __use__ be ported into __syntax__ > __adj__, etc - in order to avoid double recording?
 
 should verb patterns be a POOL?
 * and __include indirect_obj__?
@@ -63,3 +69,9 @@ should __syntax__ > __adj__ go deeper to?
 skim through textbooks for categories & extend catergories tree if necessary
 
 samples at all levels and refine categories tree
+
+## db design options
+
+* A: 3-level model (try with Prisma)
+* B: 2-level model + POOL columns
+* C: 1-level model: everything in the coloumn names
