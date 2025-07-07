@@ -14,7 +14,7 @@ export async function getStaticPaths() {
   );
 
   return projects.map(project => ({
-    params: { slug: getPath(project.id, project.filePath, false) },
+    params: { slug: getPath(project.id, project.filePath, false, true) },
     props: project,
   }));
 }
