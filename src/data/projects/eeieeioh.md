@@ -1,7 +1,7 @@
 ---
 title: eeieeioh
 author: Leventemo
-pubDatetime: 2023-06-06T10:27:36Z
+pubDatetime: 2022-03-21T05:17:24Z
 postSlug: eeieeioh
 featured: false
 draft: false
@@ -10,8 +10,8 @@ tags:
 description: "A platform for learning/teaching English."
 ---
 
-Bla, bla
+__eeieeioh__ is the biggest personal projects I've worked on. It is a collection of "mini-apps", or activity types, each designed to answer a need coming from the TEFL classroom. It is built with Angular, data being sourced from the `assets` folder in json format.
 
-I used it when teaching English. It's still online. The design was inspired by one single button I liked a lot.
+[Code](https://github.com/leventemo/eeieeioh)
 
-[eeieeioh](https://eeieeioh.com/home)
+[Demo](https://eeieeioh.com/home)

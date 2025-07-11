@@ -1,7 +1,7 @@
 ---
 title: Hotel Check-in
 author: Leventemo
-pubDatetime: 2024-07-06T10:27:36Z
+pubDatetime: 2021-12-14T06:12:48Z
 postSlug: hotel-check-in
 featured: false
 draft: false
@@ -10,8 +10,8 @@ tags:
 description: "Role-play cards for the TEFL classroom."
 ---
 
-Bla, bla
+Press a button and get a new card in order to practice giving personal information in English. The tool was built using "Faker".
 
-I used it when teaching English. It's still online. The design was inspired by one single button I liked a lot.
+[Code](...)
 
-[Hotel Check-in](https://chcht.netlify.app/)
+[Demo](https://chcht.netlify.app/)
