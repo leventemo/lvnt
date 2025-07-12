@@ -63,6 +63,7 @@ should __syntax__ > __adj__ go deeper to?
 * rename:
 	+ assignment table -> assignmentS
 	+ syntax table -> use (?)
+	+ delete __levels.courses__ -> just use __b1_1__, __b1_2__, etc. format for levels
 * introduce frequency-markers?
 	+ unified abstractions for calculating frequency
 
