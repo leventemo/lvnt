@@ -52,16 +52,16 @@ This is what the `levels` table looked like until this week. I've just decided t
 
 | levels |
 | :----: |
-| A1.1   |
-| A2.2   |
-| B1.1   |
-| B1.2   |
-| B2.1   |
-| B2.2   |
-| C1.1   |
-| C1.2   |
-| C2.1   |
-| C2.2   |
+| A1 (no data)   |
+| A2 (no data)   |
+| B1.1           |
+| B1.2           |
+| B2.1           |
+| B2.2           |
+| C1.1           |
+| C1.2           |
+| C2.1           |
+| C2.2           |
 
 ## design principles
 
@@ -75,7 +75,7 @@ For a start, errors fall into four main categories:
 * syntax
 * and tenses.
 
-Each of these is divided into subcategories and building a system of these subcategories is the real challenge. As mentioned above, it entails starting processing the material, setting up elements of a consistent framework, dealing with borderline cases, examples that might fall into multiple categories, categories that overlap others, rethinking and changing the system, going back and checking the consistency of your data. Work is still being done and a number of questions are still undecided. This is going to be the subject of another writeup here.
+Each of these is divided into subcategories and building a system of these subcategories is the real challenge. As mentioned above, it entails starting processing the material, setting up elements of a consistent framework, dealing with borderline cases, examples that might fall into multiple categories, categories that overlap others, rethinking and changing the system, going back and checking the consistency of your data. Work is still being done and a number of questions are still undecided. This is going to be the subject of another writeup here and even the main categories listed above are not set in stone.
 
 ## the outcome
 
