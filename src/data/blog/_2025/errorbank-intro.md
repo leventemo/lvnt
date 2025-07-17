@@ -48,6 +48,21 @@ Here is a list of the levels of the Common European Framework of Reference and t
 | C2         | Proficiency1 |
 | C2         | Proficiency2 |
 
+This is what the `levels` table looked like until this week. I've just decided to simplify things to this one column though, which will still allow for filtering for CEFR levels or what "courses" represented in the previous version above.
+
+| levels |
+| :----: |
+| A1.1   |
+| A2.2   |
+| B1.1   |
+| B1.2   |
+| B2.1   |
+| B2.2   |
+| C1.1   |
+| C1.2   |
+| C2.1   |
+| C2.2   |
+
 ## design principles
 
 When working with data, consistency is key at every stage: when creating a clear framework of distinct categories and while feeding data into it.
@@ -77,7 +92,15 @@ Here is a quick list of a few example queries:
 
 ## tech stack
 
+work is being done on prototyping right now, using these technologies
 * Postgres database
 * Express API server
+* DB server: Prisma / Neon / DigitalOcean / Render ?
 * Angular user interface
 * some dataviz library, to be decided
+
+to check out:
+Cloudflare hosting
+Zero Sync
+Kysely
+Knex.js

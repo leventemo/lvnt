@@ -28,6 +28,8 @@ description: "Miscellaneous links worth revisiting."
 
 [160 different types of data visualizations](https://datavizproject.com/)
 
+[Our World in Data embeds](https://ourworldindata.org/new-feature-embed-archived-charts)
+
 ## Node.js
 
 [TypeScript in a Node.js Project](https://www.robinwieruch.de/typescript-node-js/) - setting up a TS project with Node.js
@@ -74,7 +76,13 @@ description: "Miscellaneous links worth revisiting."
 
 [Never use CASCADE deletes on critical foreign keys](https://vince.beehiiv.com/p/how-i-dropped-the-production-database-on-a-friday-night)
 
-[New MS VSCode extension for PG](https://www.youtube.com/watch?v=wzyY7GNV7Xo&list=PLlrxD0HtieHjHHYfXx3llOlESrX1IpJro&index=24)
+[New MS VSCode extension for PG](https://www.youtube.com/watch?v=wzyY7GNV7Xo)
+
+[New MS VSCode extension for PG - demo](https://www.youtube.com/watch?v=wzyY7GNV7Xo)
+
+[Don't Do This in PG](https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgJHfXGmdFmwtXnjClqGpPcJJ)
+
+[PG Query Plan Visualization Tools](https://www.pgmustard.com/blog/postgres-query-plan-visualization-tools)
 
 ## Astro
 

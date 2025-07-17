@@ -23,6 +23,7 @@ description: "Online tools I like to use."
 - [Paletton](https://paletton.com)
 - [Super Color Palette](https://supercolorpalette.com)
 - [OKLCH Color Picker & Converter](https://oklch.com)
+- [Colormoods](https://colormoods.co/)
 
 ## Svg
 
@@ -35,3 +36,7 @@ description: "Online tools I like to use."
 ## Image editing
 
 - [Photopea](https://www.photopea.com)
+
+## Animation
+
+- [fliiipBook](https://www.fliiipbook.com/)
