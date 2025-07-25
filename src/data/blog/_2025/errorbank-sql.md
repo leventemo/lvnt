@@ -73,12 +73,14 @@ gonna_plan BOOLEAN DEFAULT false,
 gonna_evidence BOOLEAN DEFAULT false,
 );
 
+--OK
 CREATE TABLE levels (
 	id SERIAL PRIMARY KEY,
-	cefr VARCHAR(2) NOT NULL,
-	course VARCHAR(15)
+	cefr VARCHAR(4) NOT NULL,
+	course VARCHAR(15) NOT NULL
 );
 
+--OK
 INSERT INTO
 	levels (cefr, course)
 VALUES
@@ -91,30 +93,33 @@ VALUES
 	('C2', 'Proficiency1'),
 	('C2', 'Proficiency2');
 
+--OK
 CREATE TABLE learners (
 	id SERIAL PRIMARY KEY,
 	name VARCHAR(50) NOT NULL
 );
 
+--OK
 CREATE TABLE assignments (
 	id SERIAL PRIMARY KEY,
 	learner_id INTEGER REFERENCES learners(id),
-	level_id INTEGER REFERENCES levels(id)
+	level_id INTEGER REFERENCES levels(id),
 	date DATE NOT NULL,
-	specifier VARCHAR(15) NOT NULL
+	task VARCHAR(20) NOT NULL
 );
 
+-- id, error, correct, level_id, learner_id, assignment only: OK
 CREATE TABLE errors (
 	id SERIAL PRIMARY KEY,
 	error VARCHAR(70) NOT NULL,
 	correct VARCHAR(70) NOT NULL,
-	spelling_id INTEGER REFERENCES spelling(id),
-	vocab_id INTEGER REFERENCES vocab(id),
-	syntax_id INTEGER REFERENCES syntax(id),
-	tense_id INTEGER REFERENCES tenses(id),
+	spelling_id INTEGER REFERENCES spelling(id), --to finalize
+	vocab_id INTEGER REFERENCES vocab(id), --to finalize
+	syntax_id INTEGER REFERENCES syntax(id), --to finalize
+	tense_id INTEGER REFERENCES tenses(id), --to finalize
 	level_id INTEGER REFERENCES levels(id),
 	learner_id INTEGER REFERENCES learners(id),
-	assignment_id INTEGER REFERENCES assignment(id)
+	assignment_id INTEGER REFERENCES assignments(id)
 );
 
 INSERT INTO "public"."errors" ("id", "error", "correct", "spelling", "vocabulary", "false_friend", "prefix", "suffix", "collocation", "preposition", "syntax", "tenses", "other", "level_id", "learner_id", "assignment_id") VALUES
@@ -461,16 +466,3 @@ In this case, you would install dependencies for both projects in the same `pack
 
 Ultimately, the choice of project structure depends on your specific needs and preferences.
 
-
-## rename db
-
-`ALTER DATABASE old_database_name RENAME TO new_database_name;`
-
-As for choosing a new name, here are a few things to be careful about:
-
-Database names in PostgreSQL are case-sensitive, so mydb and MyDB would be considered two different names.
-Database names cannot be longer than 63 characters.
-Database names cannot contain certain special characters, such as @, #, $, etc. Stick to alphanumeric characters and underscores.
-It's also a good idea to avoid using reserved keywords, such as user, database, table, etc. as database names.
-Make sure the new name is not already in use by another database.
-It's also worth noting that renaming a database does not change the ownership of the database or its contents. If you need to change the ownership, you'll need to use a separate command, such as ALTER DATABASE new_database_name OWNER TO new_owner;

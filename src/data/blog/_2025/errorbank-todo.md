@@ -14,14 +14,14 @@ description: "Up next."
 
 ## up next
 
-* integrate and try Prisma into API
+- [X] integrate and try Prisma into API - no, try a query builder instead
 	+ PostgreSQL constraints: https://www.prisma.io/dataguide/postgresql/column-and-table-constraints
 	+ Prisma into Astro: https://www.prisma.io/docs/guides/astro
 	+ create & delete db-s & tables in Prisma/Postgres
 * clean up categories post
 * update the create statements
-* backup
-* upgradee PostGres to 17.
+- [X] backup
+* upgrade PostGres to 17.
 * add log table
 * C/U: mention the difficulty of categorizing it in "categories" - meaning or form or use? - inherently mng but surfaces as form:  *informations* or use: *an information*
 
