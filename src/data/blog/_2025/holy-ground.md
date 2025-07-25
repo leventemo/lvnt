@@ -4,7 +4,7 @@ author: Leventemo
 pubDatetime: 2025-07-25T07:09:38Z
 postSlug: holy-ground
 featured: false
-draft: true
+draft: false
 tags:
   - culture
   - thoughts
