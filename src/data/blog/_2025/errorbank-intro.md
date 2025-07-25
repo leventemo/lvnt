@@ -95,7 +95,7 @@ Here is a quick list of a few example queries:
 work is being done on prototyping right now, using these technologies
 * Postgres database
 * Express API server
-* DB server: Prisma / Neon / DigitalOcean / Render ?
+* DB server: Prisma / Neon / DigitalOcean / Render / Heroku / https://hostman.com ?
 * Angular user interface
 * some dataviz library, to be decided
 
