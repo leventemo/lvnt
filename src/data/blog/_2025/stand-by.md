@@ -19,4 +19,4 @@ But the sad truth is that the phrase _stand by_ couldn't be more elastic. Here a
 * to be ready for action
 * to help somebody or be friends with them, even in difficult situations
 
-Clearly, it might refer to anything from "just standing there" to actually "doing something". There is a reason it's so favoured and overused by people giving press conferences.
+Clearly, it may refer to anything from "just standing there" to actually "doing something". There is a reason it's so favoured and overused by people giving press conferences.

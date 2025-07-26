@@ -16,4 +16,4 @@ Went on to Google Images to double-check my long-standing and purely aesthetic-d
 
 Conclusion, the personal one: each to their own. Humanity can be divided into two major camps and I belong in one. I don't belong in the other.
 
-Conclusion, the practical one: when road rage strikes in the form of a need to slow your car down because that "sportsperson" has ventured onto tha narrow country road in his, say, neon-orange cycling shorts, don't shout. Don't ask him if cyclists pay road taxes. Just observe his shorts and have a good laugh at him, the incarnation of "I have the rights to ride my bike here".
+Conclusion, the practical one: when road rage strikes in the form of a need to slow your car down because that "sportsperson" has ventured onto that narrow country road in his, say, neon-orange cycling shorts, don't shout. Don't ask him if cyclists pay road taxes. Just observe his shorts and have a good laugh at him, the incarnation of "I have the rights to ride my bike here".
