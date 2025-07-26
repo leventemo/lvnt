@@ -36,11 +36,8 @@ description: "Lies that immediately make me uninterested in keeping listening."
 * Why do then democratically, riggedly or otherwise elected leaders think they can smash it into the face of citizens without losing face?
 * The careful wording makes it sound like it's full of good intentions and resolution but in most cases you were probably elected "to do whatever is in your power to do something about it" so what you are saying is simply "I'll do my job".
 
-## We will stand by ... as long as it takes.
 
-* It may sound believable on day one. Two weeks later it will mean you haven't done enough for 14 days. - Two months later ... - Two years later ...
-* Come to think of it, the sad truth might well be that the phrase _stand by_ couldn't be more elastic. Here are some of the meanings listed in [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/definition/english/stand-by?q=stand+by):
-  + to be present while something bad is happening but not do anything to stop it
-  + to be ready for action
-  + to help somebody or be friends with them, even in difficult situations
-* Clearly, it might refer to anything from "just standing there" to actually "giving support". There might be a reason it's so favoured and overused by people giving press conferences.
+>“I’m very blessed in that ... I meet the average person on the street from [ages] five to 95. I meet them all and I hear their concerns. And I’d be lying if I said they’re happy right now, and somebody has to speak for the Irish people... It’s certainly not something that I’ve made any decision on, but it does get frustrating when you see the hard-working Irish taxpayer working as hard out and having no say in things."
+https://www.irishtimes.com/politics/2025/07/19/michael-flatley-considering-irish-presidential-bid/
+
+https://www.anphoblacht.com/contents/18049
