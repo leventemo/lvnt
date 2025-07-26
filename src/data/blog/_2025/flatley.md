@@ -2,7 +2,6 @@
 title: Flatley
 author: Leventemo
 pubDatetime: 2025-07-26T05:55:11Z
-postSlug: flatley
 featured: false
 draft: false
 tags:
@@ -10,12 +9,7 @@ tags:
 description: "... for president?"
 ---
 
-## Table of contents
-
-## news
 >Michael Flatley to seek Irish presidency nomination
-
-## views
 
 Looks like Mr. Machine-Gun-Foot, the man who managed to apply the mindset of your gym coach to an art form and make it numeric and measurable, is back.
 
