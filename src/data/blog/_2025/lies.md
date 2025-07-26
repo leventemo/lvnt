@@ -16,11 +16,6 @@ description: "Lies that immediately make me uninterested in keeping listening."
 * Picked up the phrase from David Cameron, there's no need to delve into it any further, I don't think.
 * However, I need to note that there seem to be so many others using the phrase as part of outright lies these days. Make your own list of them and have a look before going to vote.
 
-## Cycling shorts look good on humans.
-
-* Went on to Google Images to double-check my long-standing aversion and I can report that no exception was found.
-* Conclusion: each to their own. Humanity can be divided into two major camps and I belong in one. I don't belong in the other.
-
 ## I'm following this religion because it provides a system of values.
 
 * So I suppose you went around, studied the value systems of all available religions and picked the one you think your children and grandchildren will benefit the most from in the future - if its values are applied to your own society now. And part of your quest was checking how the chosen religion lives up to its own values, right? Tell me about your informed decisions then, and the reasoning behind them.
