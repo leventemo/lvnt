@@ -6,9 +6,7 @@ postSlug: tagging-system
 featured: false
 draft: true
 tags:
-  - databases
-  - postgres
-  - sql
+  - tech
 description: "On a database level."
 ---
 

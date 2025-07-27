@@ -7,6 +7,7 @@ featured: false
 draft: true
 tags:
   - culture
+  - thoughts
 description: "..."
 ---
 

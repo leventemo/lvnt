@@ -6,7 +6,8 @@ postSlug: cycling-shorts
 featured: false
 draft: false
 tags:
-  - lies
+  - culture
+  - thoughts
 description: "... look good on humans."
 ---
 

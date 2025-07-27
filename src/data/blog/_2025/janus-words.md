@@ -6,7 +6,6 @@ postSlug: janus-words
 draft: true
 tags:
   - language
-  - culture
 description: "..."
 ---
 

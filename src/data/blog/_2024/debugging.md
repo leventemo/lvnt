@@ -6,7 +6,7 @@ postSlug: debugging
 featured: false
 draft: true
 tags:
-  - tooling
+  - tech
 description: "Setting up debugging in VS Code & Chrome Debugger"
 ---
 

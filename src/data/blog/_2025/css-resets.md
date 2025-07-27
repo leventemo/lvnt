@@ -6,7 +6,8 @@ postSlug: css-resets
 featured: false
 draft: false
 tags:
-  - css
+  - tech
+  - bookmarks
 description: "A collection."
 ---
 

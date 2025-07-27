@@ -6,7 +6,7 @@ postSlug: util-funtions
 featured: false
 draft: true
 tags:
-  - JavaScript
+  - tech
 description: "A collection of the util funtions I often use."
 ---
 

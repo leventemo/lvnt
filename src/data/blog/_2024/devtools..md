@@ -6,7 +6,7 @@ postSlug: devtools
 featured: false
 draft: true
 tags:
-  - tooling
+  - tech
 description: "A collection of DevTools shortcuts & tricks."
 ---
 

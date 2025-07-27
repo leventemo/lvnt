@@ -6,9 +6,7 @@ postSlug: datatypes-pg
 featured: false
 draft: false
 tags:
-  - databases
-  - datatypes
-  - Postgres
+  - tech
 description: "The most common data types in Postgres."
 ---
 

@@ -8,6 +8,7 @@ draft: false
 tags:
   - culture
   - books
+  - thoughts
 description: "Aquel día se bebio mucho cava."
 ---
 

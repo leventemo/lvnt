@@ -5,7 +5,6 @@ pubDatetime: 2025-06-30T15:10:43Z
 postSlug: errorbank-categories
 draft: true
 tags:
-  - databases
   - language
 description: "Up next."
 ---

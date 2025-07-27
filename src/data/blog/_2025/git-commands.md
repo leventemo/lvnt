@@ -6,8 +6,7 @@ postSlug: git-commands
 featured: false
 draft: false
 tags:
-  - tooling
-  - git
+  - tech
 description: "Non-trivial Git commands."
 ---
 

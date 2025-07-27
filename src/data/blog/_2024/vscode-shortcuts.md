@@ -6,7 +6,7 @@ postSlug: vscode-shotcuts
 featured: false
 draft: false
 tags:
-  - tooling
+  - tech
 description: "VS Code shortcuts using Hungarian keyboard layouts on Windows and MacOs."
 ---
 

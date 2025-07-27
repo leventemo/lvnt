@@ -6,7 +6,8 @@ postSlug: learning-tracker
 featured: false
 draft: false
 tags:
-  - learning
+  - bookmarks
+  - tech
 description: "An attempt to document my learning process in teaching myself web development."
 ---
 

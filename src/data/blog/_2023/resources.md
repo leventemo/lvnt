@@ -6,7 +6,8 @@ postSlug: resources
 featured: false
 draft: false
 tags:
-  - learning
+  - bookmarks
+  - tech
 description: "An incomplete and ever growing list of resources I find useful, in no particular order."
 ---
 

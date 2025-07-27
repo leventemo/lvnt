@@ -6,7 +6,7 @@ postSlug: status-codes
 featured: false
 draft: false
 tags:
-  - networking
+  - tech
 description: "HTTP response status codes."
 ---
 

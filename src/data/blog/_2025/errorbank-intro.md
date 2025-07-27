@@ -6,7 +6,7 @@ postSlug: errorbank-intro
 featured: false
 draft: false
 tags:
-  - databases
+  - projects
   - language
 description: "A database of errors made by Spanish speakers when using English."
 ---

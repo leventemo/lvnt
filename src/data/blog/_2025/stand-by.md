@@ -6,7 +6,7 @@ postSlug: stand-by
 featured: false
 draft: false
 tags:
-  - lies
+  - thoughts
 description: "... as long as it takes."
 ---
 

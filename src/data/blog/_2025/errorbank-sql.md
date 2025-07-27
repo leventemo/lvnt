@@ -5,7 +5,7 @@ pubDatetime: 2025-06-31T15:10:43Z
 postSlug: errorbank-categories
 draft: true
 tags:
-  - databases
+  - projects
   - language
 description: "Designing a database of errors made by Spanish speakers when using English."
 ---

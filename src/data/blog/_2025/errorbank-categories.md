@@ -5,7 +5,7 @@ pubDatetime: 2025-06-30T15:10:43Z
 postSlug: errorbank-categories
 draft: true
 tags:
-  - databases
+  - projects
   - language
 description: "... in which frogs don't just sit, each in a box. But some boxes do."
 ---

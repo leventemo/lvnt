@@ -6,7 +6,8 @@ postSlug: cs-glossary
 featured: false
 draft: true
 tags:
-  - computer-science
+  - bookmarks
+  - tech
 description: "Basic concepts in computer science."
 ---
 

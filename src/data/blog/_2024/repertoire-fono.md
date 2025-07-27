@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - music
-description: "Tunes played at the Irish session in Fonó."
+description: "Tunes played at the Irish session in Fonó, Budapest."
 ---
 
 ## Table of contents

@@ -6,7 +6,6 @@ postSlug: css-selectors
 featured: false
 draft: true
 tags:
-  - testing
-  - css
+  - tech
 description: "Targeting HTML elements with CSS."
 ---
