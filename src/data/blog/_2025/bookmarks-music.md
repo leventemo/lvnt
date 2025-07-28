@@ -50,8 +50,8 @@ description: "Music I'm keeping in mind."
 
 ## Michael McGoldrick
 
-* [Riée](https://www.youtube.com/watch?v=JkuhwJdfWng&list=OLAK5uy_n3bdeTa_tFJWKmNjIG-xR0bt794sbChhw&index=10)
-* [Ridée, live version]
+* [Ridée](https://www.youtube.com/watch?v=JkuhwJdfWng&list=OLAK5uy_n3bdeTa_tFJWKmNjIG-xR0bt794sbChhw&index=10)
+* [Ridée, live version](https://www.youtube.com/watch?v=oeL1wMEQJ-c&list=RDoeL1wMEQJ-c&start_radio=1)
 
 ## Vallely Brothers & Tiarnan O Diunnchinn
 * [The Singing Stream](https://www.youtube.com/watch?v=mRXe_HFvQ0g)
