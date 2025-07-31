@@ -28,8 +28,7 @@ description: "Lies that immediately make me uninterested in keeping listening."
 ## I'll do whatever is in my power to do something about it.
 
 * Is it sufficient to offer this type of niceties and platitudes to your bank? To your boss? To your friend? To your wife or husband? To your dog? Or does it just mean "Leave me alone for now."?
-* Why do then democratically, riggedly or otherwise elected leaders think they can smash it into the face of citizens without losing face?
-* The careful wording makes it sound like it's full of good intentions and resolution but in most cases you were probably elected "to do whatever is in your power to do something about it" so what you are saying is simply "I'll do my job".
+* The carefully powerful wording makes it sound like it's full of good intentions and resolution but in most cases you were probably elected "to do whatever is in your power to do something about it" so what you are saying is simply "I'll do my job".
 
 
 >“I’m very blessed in that ... I meet the average person on the street from [ages] five to 95. I meet them all and I hear their concerns. And I’d be lying if I said they’re happy right now, and somebody has to speak for the Irish people... It’s certainly not something that I’ve made any decision on, but it does get frustrating when you see the hard-working Irish taxpayer working as hard out and having no say in things."
