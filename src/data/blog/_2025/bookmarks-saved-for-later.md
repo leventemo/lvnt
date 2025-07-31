@@ -84,6 +84,8 @@ description: "Miscellaneous links worth revisiting."
 
 [PG Query Plan Visualization Tools](https://www.pgmustard.com/blog/postgres-query-plan-visualization-tools)
 
+[Migration & Upgrades](https://severalnines.com/blog/migration-and-upgrades-achieving-near-zero-downtime-in-postgresql/)
+
 ## Astro
 
 [RESTful TypeScript API With Astro](https://www.youtube.com/watch?v=2Mo3q_7NfCY)
@@ -132,6 +134,10 @@ description: "Miscellaneous links worth revisiting."
 
 [Advanced TS Tricks](https://egghead.io/advanced-type-script-tricks-for-cleaner-safer-code~v5rnf?utm_campaign=Advanced%20TypeScript%20Tricks%20for%20Cleaner%2C%20Safer%20Code&utm_content=Advanced%20TypeScript%20Tricks%20for%20Cleaner%2C%20Safer%20Code&utm_medium=email_action&utm_source=customer.io
 )
+
+## System design
+
+[Elements of System Design](https://github.com/jarulraj/periodic-table?ref=sidebar)
 
 ## Music
 
