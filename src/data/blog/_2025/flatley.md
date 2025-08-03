@@ -14,7 +14,7 @@ description: "... for president?"
 
 Looks like Mr. Machine-Gun-Foot, the man who managed to apply the mindset of your gym coach to an art form and make everything about it numeric and measurable, is back.
 
-Oh, but he's in the Guinnes Book of World Records for tapping his feet 28 times per second! – Who cares? Never googled a Guinnes World Record and I don't think I ever will. Actually, come to think of it now, I might be interested to know who the record-holder for "flapping one's ears" might be and how many times a human can do that in a second. Or an hour, whatever. This would be another very useful, respectable and artistic skill, I suppose.
+Oh, but he's in the Guinnes Book of World Records for tapping his feet 28 times per second! – Who cares? Can't even count to 20 in a sec. Never googled a Guinnes World Record and I don't think I ever will. Actually, come to think of it now, I might be interested to know who the record-holder for "flapping one's ears" might be and how many times a human can do that in a second. Or an hour, whatever. This would be another very useful, respectable and artistic skill, I suppose.
 
 True, he provided some good dancers and musicians with a well-deserved buck while creating and running this flying water-circus of Irish dancing with the smoke and the lights and the fireworks. (Many of them are not very keen to mention the fact that they were part of the gig though.) Looks like taste cannot be worked on as easily as your muscles and his post-Lord-of-the-Dance attempts at film attest to it.
 
