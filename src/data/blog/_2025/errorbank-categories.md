@@ -12,6 +12,27 @@ description: "... in which frogs don't just sit, each in a box. But some boxes d
 
 ## Table of contents
 
+
+## recording errors
+
+isolating errors - where possible without distorting data
+* *Also put in the summer snails.*
+  + *They also put snails in the summer.* -> *They also serve snails in the summer.*
+  + *Also offer snails in the summer.* -> *They also offer snails in the summer.*
+  + *They also offer in the summer snails.* -> *They also offer snails in the summer.*
+* *Can you borrow to my your bycicle?*
+  + *Can you borrow me your bicycle?* -> *Can you lend me your bicycle?*
+  + *Can you lend to me your bicycle?* -> *Can you lend me your bicycle?*
+  + *to my* -> *to me*
+  + *bycicle* -> *bicycle*
+
+not isolating where not possible/needed
+* *I like her decoration and her pizzas are awesome.* -> *I like the decoration (inside) and the pizzas are awesome.* - one error in two "implementation"
+
+as it's visible now, I manipulate data ...
+* arguably not scientific
+* SOLUTION: record "orig" as well
+
 ## error categories
 
 ### one error, one box

@@ -86,13 +86,17 @@ description: "Miscellaneous links worth revisiting."
 
 [Migration & Upgrades](https://severalnines.com/blog/migration-and-upgrades-achieving-near-zero-downtime-in-postgresql/)
 
+## SQL
+
+[SQL Generated Columns and Views](https://tighten.com/insights/sql-generated-columns-and-views-how-to-use-them-in-your-laravel-app/?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews)
+
 ## Astro
 
 [RESTful TypeScript API With Astro](https://www.youtube.com/watch?v=2Mo3q_7NfCY)
 
 [Working with APIs in Astro](https://www.youtube.com/watch?v=iX-mTitP4aE)
 
-[Dynamic API endpoints in Astrp](https://www.youtube.com/watch?v=Q1GJpcJLXhQ&t=11s)
+[Dynamic API endpoints in Astro](https://www.youtube.com/watch?v=Q1GJpcJLXhQ&t=11s)
 
 [API Data Fetching](https://www.youtube.com/watch?v=9wXdv7rHW2w&t=5s)
 
