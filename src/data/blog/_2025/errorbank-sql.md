@@ -10,7 +10,57 @@ tags:
 description: "Designing a database of errors made by Spanish speakers when using English."
 ---
 
-## the SQL to create the db
+## the SQL to create the db: 2nd round
+
+```sql
+CREATE TABLE levels (
+	id SERIAL PRIMARY KEY,
+	cefr VARCHAR(4) NOT NULL,
+	course VARCHAR(15) NOT NULL
+);
+
+INSERT INTO
+	levels (cefr, course)
+VALUES
+	('B1', 'PET1'),
+	('B1', 'PET2'),
+	('B2', 'First1'),
+	('B2', 'First2'),
+	('C1', 'Advanced1'),
+	('C1', 'Advanced2'),
+	('C2', 'Proficiency1'),
+	('C2', 'Proficiency2');
+
+CREATE TABLE learners (
+	id SERIAL PRIMARY KEY,
+	name VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE assignments (
+	id SERIAL PRIMARY KEY,
+	learner_id INTEGER REFERENCES learners(id),
+	level_id INTEGER REFERENCES levels(id),
+	date DATE NOT NULL,
+	task VARCHAR(30) NOT NULL
+);
+
+CREATE TABLE originals (
+	id SERIAL PRIMARY KEY,
+	quote VARCHAR(70) NOT NULL
+);
+
+CREATE TABLE errors (
+	id SERIAL PRIMARY KEY,
+	error VARCHAR(70) NOT NULL,
+	correct VARCHAR(70) NOT NULL,
+	level_id INTEGER REFERENCES levels(id),
+	learner_id INTEGER REFERENCES learners(id),
+	assignment_id INTEGER REFERENCES assignments(id),
+	orig_id INTEGER REFERENCES originals(id)
+);
+```
+
+## the SQL to create the db: 1st round
 
 ```sql
 CREATE TABLE writing_mechanics (
@@ -128,6 +178,26 @@ INSERT INTO "public"."errors" ("id", "error", "correct", "spelling", "vocabulary
 (3, 'I forgot read your email.', 'I forgot to read your email.', 'f', 'f', 'f', 'f', 'f', 'f', 'f', 'f', 'f', 'f', 1, 1, 2);
 
 
+```
+
+## queries to remember
+
+```sql
+-- find all Alejandros
+SELECT * FROM learners
+WHERE name LIKE '%Alejandro%';
+
+-- change data type of a column
+ALTER TABLE assignments
+ALTER COLUMN task
+TYPE VARCHAR(30);
+
+-- count
+SELECT
+   COUNT(*)
+FROM
+   errors
+WHERE level_id = 4;
 ```
 
 ## db design

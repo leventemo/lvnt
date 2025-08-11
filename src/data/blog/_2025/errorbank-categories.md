@@ -12,8 +12,17 @@ description: "... in which frogs don't just sit, each in a box. But some boxes d
 
 ## Table of contents
 
-
 ## recording errors
+
+repeated errors recorded twice max.
+* one instance might be a quick slip
+* when repeated, it might be a topic-dependent case
+  + no reason to record it as many times as the error is made
+  + decided to record it twice within an assignment (piece of writing)
+
+register:
+* contracted form when inappropriate register (see essays): not recorded
+* *wanna*, *gonna*, etc.: ignored when not suitable for the register of the genre (eg. essay)
 
 isolating errors - where possible without distorting data
 * *Also put in the summer snails.*
@@ -32,6 +41,21 @@ not isolating where not possible/needed
 as it's visible now, I manipulate data ...
 * arguably not scientific
 * SOLUTION: record "orig" as well
+
+however, smtmes I don't vdo that
+* eg. err 277 *I joined in art club*: would be too much of a stretch
+
+## category #1: L1 interference
+
+The very first move after getting enough data into the database: mark clear cases of L1 interference. This will give us an the possibility of filtering for all errors vs L1 errors. This yields some useful insights: the percentage of L1 errors, can't wait. But wait! There are clear cases and there are arguably (not) clear cases of L1 interference. See examples below.
+
+### clear cases
+
+eg.
+
+### grey areas
+
+eg.
 
 ## error categories
 
