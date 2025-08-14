@@ -190,7 +190,7 @@ description: "My response to the question of who to listen to if you want to exp
 
 - [Youtube channel](https://www.youtube.com/@BoxwoodMediaMusic)
 
-## Brian Barryman, with early music background
+## Brian Barryman, with early music background, also a [maker of fine flute cases](http://brianberrymanwoodworking.com/)
 
 ### video
 
