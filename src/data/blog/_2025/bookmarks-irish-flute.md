@@ -172,6 +172,16 @@ description: "My response to the question of who to listen to if you want to exp
 
 - [The Land's End Sessions](https://www.youtube.com/watch?v=UDZpfgKH-aQ&list=OLAK5uy_kEuKfyJqaws2CTULFjR2lke2CvvfYme20)
 
+## Barry Kerr
+
+### video
+
+- [Tailor's Thimble](https://www.youtube.com/watch?v=hcqbjwOey14)
+
+### album
+
+- [Castor Bay](https://barrylaurakerr.bandcamp.com/album/castor-bay)
+
 ## Sarah Hale, teaching tunes on Youtube
 
 ### video

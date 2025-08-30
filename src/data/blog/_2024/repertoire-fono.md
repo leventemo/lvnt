@@ -26,7 +26,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - O’Dea’s/Adam and Eve (Kevin McHugh's)
 - The Lilting Banshee/Haste To The Wedding/The Maid On The Green
 - Tom Busby/Mug Of Brown Ale/Kesh Jig
-- _The Famous Baravan_/The Donegal Lass
+- The Famous Baravan/The Donegal Lass
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
 - _Anne Fraser MacKenzie_/_Peggy's_/_Charlie Hunter_
 - Rambling Pitchfork/_Sorry I Am For What I Have Done_/_Humours Of Ballingarry_
@@ -104,11 +104,11 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Within A Mile Of Dublin/Sword In The Hand/Miss McLeod's
 - The Boyne Hunt/Shannon Breeze (Rolling In The Ryegrass)/Red Haired Lass
 - The Musical Priest/John Stetson’s no2
+- The Galtee Rangers/Glentown Reel/The Doon
 - Tommy Peoples’/_The Long Drop_/Drowsie Maggie
 - _Ríl An Spidéil_/_The Twelve Pins_
 - Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
-- _The Galtee Rangers_/_Glentown Reel_/_The Doon_
 - _Paddy Fahey’s_/_Francie Donnellan’s_/_The Fisherman’s Island_
 - _Porthole Of The Kelp_/_The Maids Of Mitchelstown_
 - The Ashplant
@@ -120,6 +120,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - The Old Bush
 - The Providence Reel
 - The Laurel Tree
+- The Morning Star
 - _Julia Delaney's_
 - _The Man Of Aran_
 - _Mother And Child_
@@ -130,7 +131,6 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - _Tim Maloney's_
 - _The Bucks of Oranmore_
 - _The Congress Reel_
-- _The Morning Star_
 - _Sergeant Early's Dream_
 - _Blair Athol_
 - _The Cardin' O't_

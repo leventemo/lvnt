@@ -14,3 +14,5 @@ hija mía
 as old as me. not my age group.
 
 Hope Valley Hill
+
+https://www.theguardian.com/books/2025/aug/18/skibidi-delulu-and-tradwife-among-words-added-to-cambridge-dictionary

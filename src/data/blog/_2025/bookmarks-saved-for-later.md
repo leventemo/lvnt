@@ -145,6 +145,8 @@ description: "Miscellaneous links worth revisiting."
 
 ## Music
 
+[Le voyage de Jacky Molard](https://www.youtube.com/watch?v=6giMf9YAuTw)
+
 [Jackie Molard Quartet - Mycelium](https://www.youtube.com/playlist?list=OLAK5uy_mz6rFziAHYRH0zLXZPs-yNhRVzeOFaAJI)
 
 [Brian Finnegan - Shepherds](https://brianfinnegan.bandcamp.com/album/shepherds-3) - music he grew up with

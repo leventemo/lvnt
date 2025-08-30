@@ -57,6 +57,7 @@ CREATE TABLE errors (
 	learner_id INTEGER REFERENCES learners(id),
 	assignment_id INTEGER REFERENCES assignments(id),
 	orig_id INTEGER REFERENCES originals(id)
+	l1_int BOOLEAN DEFAULT false,
 );
 ```
 
@@ -198,6 +199,57 @@ SELECT
 FROM
    errors
 WHERE level_id = 4;
+
+-- overview starting point
+WITH subquery AS (
+  SELECT
+    l.id,
+    l.course AS courses,
+    COALESCE(COUNT(e.id), 0) AS errors,
+    COALESCE(SUM(CASE WHEN e.l1_int THEN 1 ELSE 0 END), 0) AS l1_errors,
+    COUNT(DISTINCT a.learner_id) AS learners,
+    COUNT(DISTINCT a.id) AS assignments
+  FROM
+    levels l
+    LEFT JOIN assignments a ON l.id = a.level_id
+    LEFT JOIN errors e ON a.id = e.assignment_id
+  GROUP BY
+    l.id, l.course
+),
+totals AS (
+  SELECT
+    COALESCE(SUM(errors), 0) AS total_errors,
+    COALESCE(SUM(l1_errors), 0) AS total_l1_errors,
+    SUM(learners) AS total_learners,
+    SUM(assignments) AS total_assignments
+  FROM
+    subquery
+)
+SELECT
+  *
+FROM (
+  SELECT
+    courses,
+    errors,
+    l1_errors,
+    learners,
+    assignments
+  FROM
+    subquery
+  ORDER BY
+    id
+) AS subquery2
+
+UNION ALL
+
+SELECT
+  'Total' AS courses,
+  total_errors AS errors,
+  total_l1_errors AS l1_errors,
+  total_learners AS learners,
+  total_assignments AS assignments
+FROM
+  totals
 ```
 
 ## db design
