@@ -141,6 +141,10 @@ description: "Music I'm keeping in mind."
 * [On Giacometti - Live at Atelier in Stampa](https://www.youtube.com/watch?v=0NTVXaxHBQQ)
 * [Live from Studio S2](https://www.youtube.com/watch?v=kFRdoYfZYUY)
 
+## MacDara Ó Raghallaigh
+
+* [Broderick's/McDermott's](https://www.youtube.com/watch?v=MH6qSHHnTm0)
+
 ## Sonic Garbage (just start clicking)
 
 * [Sonic Garbage](https://sonicgarbage.greg.technology)
