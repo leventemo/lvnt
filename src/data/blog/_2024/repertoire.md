@@ -20,7 +20,7 @@ description: "Tunes I play."
 - Tooth Fairy/Calliope House/Kevin’s
 - Tobin’s/Monaghan Jig
 - Gallowglass/Blasket Sound(Dusty Windowsills)/Donegal Lass
-- Thugamar Fein An Samhradh Linn/_Casey’s_
+- Thugamar Fein An Samhradh Linn/Casey’s
 - Jim Ward’s/_Sully’s_/_Sliabh Russell_
 - _Humours Of Glendart/The Trip To Athlone/Blackthorn Stick_
 - _Chapel Bridge_/_The Inver Bank_/_Headwood Crossing_/_Capecastle Tunnel_/_Greenaghan Viaduct_
@@ -52,10 +52,12 @@ description: "Tunes I play."
 ## Slides
 
 - Cúil Aodha/O’Keefe’s/Kissed the Quaker’s Wife
-- _The Lancer's_
+- Paddy Cronin’s/If I had a Wife
+- The Lancer's
 
 ## Polkas
 
+- Patneen Ahern’s/Moss Murphy’s/John Joe Harnett’s
 - Kerry Polka/Balleydesmond 1/Balleydesmond 2
 - The Britches Full Of Stiches (in G)/Maggie In The Wood/_Mark Quinn’s_/_Gan Ainm_/_The Maids of Armagh_
 - The Old Polka
@@ -120,6 +122,10 @@ description: "Tunes I play."
 - _Catalina_
 - _Tommy Bhetty's_
 - _A Little Impulse_
+
+## Barndances
+
+- If we hadn't any Women in the World
 
 ## Strathspey
 

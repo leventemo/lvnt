@@ -46,6 +46,10 @@ description: "Miscellaneous links worth revisiting."
 
 [Modern Node.js Patterns for 2025](https://kashw1n.com/blog/nodejs-2025/)
 
+[How to keep package.json under control](https://blog.val.town/gardening-dependencies)
+
+[How To Set Up Express 5 For Production In 2025](https://www.reactsquad.io/blog/how-to-set-up-express-5-in-2025)
+
 ## SQL games
 
 [SQL Island](https://sql-island.informatik.uni-kl.de/) - for beginners
@@ -109,6 +113,8 @@ description: "Miscellaneous links worth revisiting."
 ## Misc Tech
 
 [AG Charts](https://www.ag-grid.com/charts/gallery/?utm_source=charts-homepage&utm_medium=hero-section&utm_campaign=homepage-cta)
+
+[ChartBrew](https://github.com/chartbrew/chartbrew)
 
 [Ohm](https://ohmjs.org/) - JS parser lib
 
