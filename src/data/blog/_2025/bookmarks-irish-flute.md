@@ -66,6 +66,12 @@ description: "My response to the question of who to listen to if you want to exp
 
 [The Frost is All Over](https://www.youtube.com/watch?v=FYnVzHmAIpg&list=OLAK5uy_kbYbyDcGWSUyXjERzqIpYsItqBMYD9jIE)
 
+## Catherine McEvoy
+
+### video
+
+- [Cuisle Cheoil part2](https://www.youtube.com/watch?v=yjbCPGkw3pw)
+
 ## Harry Bradley
 
 ### video
