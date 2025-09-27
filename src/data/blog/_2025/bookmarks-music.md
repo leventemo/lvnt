@@ -153,6 +153,10 @@ description: "Music I'm keeping in mind."
 
 * [Tiny Desk Concert](https://www.youtube.com/watch?v=Cx8AaSvH4EQ&list=RDCx8AaSvH4EQ&start_radio=1)
 
+## Villagers
+
+* [The Waves](https://www.youtube.com/watch?v=Fxx3WStXlBw)
+
 ## Sonic Garbage (just start clicking)
 
 * [Sonic Garbage](https://sonicgarbage.greg.technology)
