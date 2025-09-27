@@ -145,6 +145,14 @@ description: "Music I'm keeping in mind."
 
 * [Broderick's/McDermott's](https://www.youtube.com/watch?v=MH6qSHHnTm0)
 
+## Peter Gabriel
+
+* [Passion](https://www.youtube.com/watch?v=iPbbImIh1Fo&list=PLfimnwaZdumgGGE5PN8FHJzmODxLuaIdx)
+
+## Shakti
+
+* [Tiny Desk Concert](https://www.youtube.com/watch?v=Cx8AaSvH4EQ&list=RDCx8AaSvH4EQ&start_radio=1)
+
 ## Sonic Garbage (just start clicking)
 
 * [Sonic Garbage](https://sonicgarbage.greg.technology)
