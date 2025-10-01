@@ -50,6 +50,8 @@ description: "Miscellaneous links worth revisiting."
 
 [How To Set Up Express 5 For Production In 2025](https://www.reactsquad.io/blog/how-to-set-up-express-5-in-2025)
 
+[Nodejs MVC](https://medium.com/@ebwittenberg/create-a-simple-inventory-management-app-using-postgresql-and-express-d8b0cdc8f731)
+
 ## SQL games
 
 [SQL Island](https://sql-island.informatik.uni-kl.de/) - for beginners
