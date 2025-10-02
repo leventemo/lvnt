@@ -160,6 +160,8 @@ description: "My response to the question of who to listen to if you want to exp
 ### video
 
 - [Colonel Fraser's](https://www.youtube.com/watch?v=z4NannKg3qQ)
+- [The Gate To Southwell Folk Festival 2012 #1](https://www.youtube.com/watch?v=urBS6_p66Mg)
+- [The Gate To Southwell Folk Festival 2012 #2](https://www.youtube.com/watch?v=sKjwDWlNVVg)
 
 ## Eimear McGeown
 
