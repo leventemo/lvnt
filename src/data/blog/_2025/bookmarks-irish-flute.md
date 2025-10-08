@@ -216,7 +216,8 @@ description: "My response to the question of who to listen to if you want to exp
 - [website](http://www.brianberryman.com/)
 
 ## OTHER RESOURCES:
-
+- [A Guide to the Irish Flute ](https://www.irishfluteguide.info/)
+- [TRADSCHOOL](https://www.tradschool.com/en/irish-music/the-irish-flute/)
 - [Terry McGee's website](https://www.mcgee-flutes.com/) - historical & technical info
 - [S.C. Hamilton: The Irish Flute Player's Handbook](https://sc-hamilton.ie/handbook/)
 - [Hammy Hamilton: Flutemaker Blog](https://hammy-flutemaker.blogspot.com/)
