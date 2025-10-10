@@ -143,7 +143,8 @@ description: "Music I'm keeping in mind."
 
 ## MacDara Ó Raghallaigh
 
-* [Broderick's/McDermott's](https://www.youtube.com/watch?v=MH6qSHHnTm0)
+* [Broderick's/ Mc Dermott's: The Milky Way/The Ring Around the Moon/Peg McGrath's/The Mill of Kylemore](https://www.youtube.com/watch?v=MH6qSHHnTm0)
+* [Milky Way/Glen of Aherlow/Bobby Casey's](https://www.youtube.com/watch?v=rNUcLmZdXjkUcLmZdXjk&start_radio=1)
 
 ## Peter Gabriel
 
