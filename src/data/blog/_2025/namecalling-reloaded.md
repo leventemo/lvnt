@@ -44,6 +44,6 @@ Have you also reported a case of murder then? You should have if you're a man of
 
 If you didn't make that call to the police, is it possible that you might have failed to fulfill a legal obligation? Is it possible that what you are doing here is nothing but cheap namedropping at best and the image of a man with glasses using good vocabulary when giving interviews sitting in front of a bookself is not much more than mere branding?
 
-[^1]: Nothing wrong with "ageing". We're all ageing since the moment we were born. It's the combination of "ageing" and "pop star" feels problematic, isn't it? Hmm, that might actually mean that being a pop star is not a very quintessential or natural form of human existence.
+[^1]: Nothing wrong with "ageing". We're all ageing since the moment we were born. It's the combination of "ageing" and "pop star" that feels problematic, isn't it? Hmm, that might actually mean that being a pop star is not a very quintessential or natural form of human existence.
 
 [^2]: Find them [here](https://hu.wikipedia.org/wiki/Kov%C3%A1cs_%C3%81kos_(zen%C3%A9sz)), this last one will probably be added to the list under "Portréfilm" soon.
