@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - thoughts
-description: "Ageing pop star, with glasses, on the sofa."
+description: "A portrait of the Artist as an Ageing Pop Star, with Glasses, Sitting on a Sofa, with a Bookshelf in the Background."
 ---
 
 >Well, Freddie was a little bit satanist, at least that's what some people claim. If you listen to Bohemian Rhapsody, there are interesting lines in there in my opinion: »Beelzebub has a devil put aside for me, for me, for me«. ... There's a reason it has such extensive publicity.
