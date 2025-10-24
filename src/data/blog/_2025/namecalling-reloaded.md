@@ -26,7 +26,9 @@ Really? Are you accusing a deceased person of something that horrendous and imme
 
 ## "Beelzebub has a devil put aside for me, for me, for me."
 
-OK, you're using textual evidence now. An artist analyzing a piece of art, there can only be good things, new depths coming out of this, right? It becomes clear in a second that you're not talking about being a satanist "a little bit" any longer. You feel Freddy was involved with satanism so deep he had his own personal guardian ~~angel~~ devil. I don't know much about satanism but no small feat, I guess. You also imply that the popularity of his songs to this day might be down to some dark forces. Never thought about that myself, even after the disappointment Radio Gaga caused in me at the time. I only thought it was a case of "once you have your name established, you can start selling rubbish and make a buck", see above. Maybe next time I hear some Queen song on the car radio, I'm not going to try to find a different station as quick as I can. I'm gonna stay and try to counterbalance the evil forces with prayer. Is that the expected behaviour then?
+OK, you're using textual evidence now. An artist analyzing a piece of art, there can only be good things, new depths coming out of this, right? It becomes clear in a second that you're not talking about being a satanist "a little bit" any longer. You feel Freddy was involved with satanism so deep he had his own personal guardian ~~angel~~ devil. I don't know much about satanism but no small feat, I guess.
+
+You also imply that the popularity of his songs to this day might be down to some dark forces. Never thought about that myself, even after the disappointment Radio Gaga caused in me at the time. I only thought it was a case of "once you have your name established, you can start selling rubbish and make a buck", see above. Maybe next time I hear some Queen song on the car radio, I'm not going to try to find a different station as quick as I can. I'm gonna stay and try to counterbalance the evil forces with prayer. Is that the expected behaviour then?
 
 ## "there are interesting lines in there in my opinion"
 
@@ -38,7 +40,7 @@ because this is what happened to him. I presume you're good at what you do and d
 
 Have you also reported a case of murder then? You should have if you're a man of integrity. Because by the time you got to the line you are using to support your claim you must have read these two lines at the beginning of the song:
 
->Mama, just killed a man /
+>Mama, just killed a man
 >Put a gun against his head, pulled my trigger, now he's dead.
 
 If you didn't make that call to the police, is it possible that you might have failed to fulfill a legal obligation? Is it possible that what you are doing here is nothing but cheap namedropping at best and the image of a man with glasses using good vocabulary when giving interviews sitting in front of a bookself is not much more than mere branding?
