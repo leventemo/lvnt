@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - thoughts
-description: "Ageing pop star with glasses on the sofa."
+description: "Ageing pop star, with glasses, on the sofa."
 ---
 
 >Well, Freddie was a little bit satanist, at least that's what some people claim. If you listen to Bohemian Rhapsody, there are interesting lines in there in my opinion: "Beelzebub has a devil put aside for me, for me, for me". ... There's a reason it has such extensive publicity.
@@ -38,8 +38,8 @@ because this is what happened to him. I presume you're good at what you do and d
 
 Have you also reported a case of murder then? You should have if you're a man of integrity. Because by the time you got to the line you are using to support your claim you must have read these two lines at the beginning of the song:
 
->"Mama, just killed a man
->Put a gun against his head, pulled my trigger, now he's dead".
+>Mama, just killed a man /
+>Put a gun against his head, pulled my trigger, now he's dead.
 
 If you didn't make that call to the police, is it possible that you might have failed to fulfill a legal obligation? Is it possible that what you are doing here is nothing but cheap namedropping at best and the image of a man with glasses using good vocabulary when giving interviews sitting in front of a bookself is not much more than mere branding?
 
