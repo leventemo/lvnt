@@ -10,7 +10,7 @@ tags:
 description: "Ageing pop star, with glasses, on the sofa."
 ---
 
->Well, Freddie was a little bit satanist, at least that's what some people claim. If you listen to Bohemian Rhapsody, there are interesting lines in there in my opinion: "Beelzebub has a devil put aside for me, for me, for me". ... There's a reason it has such extensive publicity.
+>Well, Freddie was a little bit satanist, at least that's what some people claim. If you listen to Bohemian Rhapsody, there are interesting lines in there in my opinion: »Beelzebub has a devil put aside for me, for me, for me«. ... There's a reason it has such extensive publicity.
 
 These are the words of an ageing [^1] pop star, grabbed from the fifth (!) documentary on his work and thoughts [^2]. I don't really know him. What made me uninterested to explore his oeuvre was an initial feeling that the ratio of words and thoughts in his lyrics and interviews was not what I'm calibrated for. He also has some interest in wine production, I hear. Good on him, other ageing pop stars in my neck of the woods have long become their own parodies and some of them even worse (and that's not because they are getting along). Exceptions are scarce but a few of them still hang around. (I didn't get that electric guitar for Xmas at 14, thanks mom and dad.)
 
@@ -32,7 +32,7 @@ OK, you're using textual evidence now. An artist analyzing a piece of art, there
 
 You have published your own lyrics/poetry, whatever your readers like to call it. You also went to one of the best secondary school of the country. I suppose you must have come across the literary term "persona" and you still seem to think Freddy Mercury wrote
 
->"Beelzebub has a devil put aside for me, for me, for me"
+>Beelzebub has a devil put aside for me, for me, for me
 
 because this is what happened to him. I presume you're good at what you do and don't just come out with stuff you've picked up from pop magazines, especially when it's about matters of faith, evil and things of that calibre. The way you phrase your claim – "there are interesting lines in there in my opinion" – makes me think you are familiar with the whole song.
 
