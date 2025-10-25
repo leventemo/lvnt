@@ -38,7 +38,7 @@ You have published your own lyrics/poetry, whatever your readers like to call it
 
 because this is what happened to him in person. I presume you're good at what you do and don't just come out with stuff you've picked up from pop magazines, especially when it's about matters of faith, evil and things of that calibre. The way you phrase your claim – "there are interesting lines in there in my opinion" – makes me think you are familiar with the full text of the song.
 
-Have you also reported a case of murder then? You should if you're a man of integrity. Because by the time you got to the line you are using to support your claim you must have read though these two lines at the beginning of the song:
+Have you also reported a case of murder then? You should if you're a man of integrity. Because by the time you got to the line you are using to support your claim you must have seen these two lines at the beginning of the song:
 
 >Mama, just killed a man / Put a gun against his head, pulled my trigger, now he's dead.
 
