@@ -52,6 +52,8 @@ description: "Miscellaneous links worth revisiting."
 
 [Nodejs MVC](https://medium.com/@ebwittenberg/create-a-simple-inventory-management-app-using-postgresql-and-express-d8b0cdc8f731)
 
+[Reading and Writing Files in Node.js - The Complete Modern Guide](https://nodejsdesignpatterns.com/blog/reading-writing-files-nodejs/?cmid=5f2923c8-f4b1-4792-a2f6-bdf16fe9013e)
+
 ## SQL games
 
 [SQL Island](https://sql-island.informatik.uni-kl.de/) - for beginners
@@ -112,7 +114,13 @@ description: "Miscellaneous links worth revisiting."
 
 [Directives](https://medium.com/coreteq/directives-a-core-feature-of-the-angular-toolkit-34ccec531e19) - a core feature in Angular
 
+[Refactoring a form to a Signal Form](https://timdeschryver.dev/blog/refactoring-a-form-to-a-signal-form)
+
 ## Misc Tech
+
+[Handling routes in JavaScript projects](https://www.seancdavis.com/posts/handling-routes-in-javascript-projects)
+
+[Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
 
 [AG Charts](https://www.ag-grid.com/charts/gallery/?utm_source=charts-homepage&utm_medium=hero-section&utm_campaign=homepage-cta)
 
@@ -127,6 +135,8 @@ description: "Miscellaneous links worth revisiting."
 [A fluid CSS methodology](https://willybrauner.com/journal/a-fluid-css-methodology)
 
 [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+
+[Beyond Signals](https://www.youtube.com/watch?v=DZPSAOBnBAM)
 
 ## LLMs
 

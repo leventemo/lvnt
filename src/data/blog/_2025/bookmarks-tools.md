@@ -41,3 +41,9 @@ description: "Online tools I like to use."
 ## Animation
 
 - [fliiipBook](https://www.fliiipbook.com/)
+
+## Misc.
+
+- [design.dev](https://design.dev/)
+
+- [glassmorphism generator](https://glass3d.dev)
