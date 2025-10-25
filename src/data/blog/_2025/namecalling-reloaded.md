@@ -32,17 +32,17 @@ You also imply that the popularity of his songs to this day might be down to som
 
 ## "there are interesting lines in there in my opinion"
 
-You have published your own lyrics/poetry, whatever your readers like to call it. You also went to one of the best secondary school of the country. I suppose you must have come across the literary term "persona" and you still seem to think Freddie Mercury wrote
+You have published your own lyrics/poetry, whatever your readers like to call it. You also went to one of the best secondary schools of the country. I suppose you have a good understanding of what the basic literary term "persona" means and you still seem to think Freddie Mercury wrote
 
 >Beelzebub has a devil put aside for me, for me, for me
 
-because this is what happened to him. I presume you're good at what you do and don't just come out with stuff you've picked up from pop magazines, especially when it's about matters of faith, evil and things of that calibre. The way you phrase your claim – "there are interesting lines in there in my opinion" – makes me think you are familiar with the full text of the song.
+because this is what happened to him in person. I presume you're good at what you do and don't just come out with stuff you've picked up from pop magazines, especially when it's about matters of faith, evil and things of that calibre. The way you phrase your claim – "there are interesting lines in there in my opinion" – makes me think you are familiar with the full text of the song.
 
-Have you also reported a case of murder then? You should if you're a man of integrity. Because by the time you got to the line you are using to support your claim you must have read these two lines at the beginning of the song:
+Have you also reported a case of murder then? You should if you're a man of integrity. Because by the time you got to the line you are using to support your claim you must have read though these two lines at the beginning of the song:
 
 >Mama, just killed a man / Put a gun against his head, pulled my trigger, now he's dead.
 
-If you never made that call to the police, is it possible that you failed to fulfill a legal obligation? Is it possible that what you are doing here is nothing but cheap namedropping at best and the image of a man with glasses using good vocabulary when giving interviews sitting in front of a bookself is not much more than mere branding?
+What if you never made that call to the police? Is it possible that you failed to fulfill a legal obligation? Is it possible that what you are doing here is nothing but cheap namedropping at best and the image of a man with glasses using good vocabulary when giving interviews sitting in front of a bookself is not much more than mere branding?
 
 [^1]: Translation by myself but in case you trust Google translate more, here are the original sentences in Hungarian: "Hát, Freddie egy kicsit sátánista volt, vagy legalábbis többen úgy nyilatkoznak róla. Azért, ha valaki meghallgatja a Bohém rapszódiát, abban azért érdekes sorok vannak szerintem: »Beelzebub has a devil put aside for me, for me, for me« ... az se véletlen, hogy ennek ilyen széles nyilvánossága van”.
 
