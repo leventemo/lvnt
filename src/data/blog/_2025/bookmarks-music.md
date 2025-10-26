@@ -173,8 +173,7 @@ description: "Music I'm keeping in mind."
 
 ## The Waifs
 
-* [intro to Bridal Train](https://www.youtube.com/watch)
-* [Bridal Train - studio](https://www.youtube.com/watch)
+* [Bridal Train](https://www.youtube.com/watch?v=BAjDzP0r7KY)
 
 ## Sonic Garbage (just start clicking)
 
