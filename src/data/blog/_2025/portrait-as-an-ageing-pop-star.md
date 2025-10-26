@@ -1,13 +1,13 @@
 ---
-title: Namecalling reloaded
+title: A portrait of the Artist
 author: Leventemo
 pubDatetime: 2025-10-24T05:21:38Z
-postSlug: namecalling-reloaded
+postSlug: artist-as-an-ageing-pop-star
 featured: false
 draft: false
 tags:
   - thoughts
-description: "A portrait of the Artist as an Ageing Pop Star, with Glasses, Sitting on a Sofa, with a Bookshelf in the Background."
+description: "... as an Ageing Pop Star, with Glasses, Sitting on a Sofa, with a Bookshelf in the Background."
 ---
 
 >Well, Freddie was a little bit satanist, at least that's what some people claim. If you listen to Bohemian Rhapsody, there are interesting lines in there in my opinion: »Beelzebub has a devil put aside for me, for me, for me«. ... There's a reason it has such extensive publicity. [^1]

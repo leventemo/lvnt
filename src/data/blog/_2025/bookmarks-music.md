@@ -171,6 +171,11 @@ description: "Music I'm keeping in mind."
 
 * [Take Five](https://www.youtube.com/watch?v=hhq7fSrXn0c)
 
+## The Waifs
+
+* [intro to Bridal Train](https://www.youtube.com/watch)
+* [Bridal Train - studio](https://www.youtube.com/watch)
+
 ## Sonic Garbage (just start clicking)
 
 * [Sonic Garbage](https://sonicgarbage.greg.technology)
