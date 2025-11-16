@@ -88,6 +88,7 @@ description: "Music I'm keeping in mind."
 
 ## King Crimson
 * [One Time](https://www.youtube.com/watch?v=LSb_pBd75ec)
+* [Islands](https://www.youtube.com/watch?v=jY7dbRyoHfE)
 
 ## Anastasia
 * [Time Never Dies](https://www.youtube.com/watch?v=3KJHoQ3Ly6s&list=PL3111742BCC1769E6&index=3)

@@ -14,6 +14,8 @@ description: "Before that kick lands on that bucket."
 
 ## To get
 
+[Tim O’Grady and Steve Pyke: I Could Read the Sky](https://www.dannymorrison.com/i-could-read-the-sky/)
+
 [Goliath's Curse, The History and Future of Societal Collapse](https://www.penguin.co.uk/books/321192/goliaths-curse-by-kemp-luke/9780241741238) by Luke Kemp, Viking Penguin, 2025
 
 José Luis Sampedro: La Escritura Necesaria, by Gloria Palacios, ISBN 9788478443031 (ISBN10: 8478443037), 1996

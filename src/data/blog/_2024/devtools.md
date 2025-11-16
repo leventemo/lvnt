@@ -31,3 +31,7 @@ Chrome, PC: `..`
 ## Network Tab
 
 ...
+
+## Tricks
+
+[Find where a specific object was allocated in JavaScript with DevTools](https://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/)

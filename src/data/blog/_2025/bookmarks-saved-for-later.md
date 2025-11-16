@@ -118,6 +118,8 @@ description: "Miscellaneous links worth revisiting."
 
 ## Misc Tech
 
+[Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
+
 [Handling routes in JavaScript projects](https://www.seancdavis.com/posts/handling-routes-in-javascript-projects)
 
 [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
