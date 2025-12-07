@@ -51,6 +51,7 @@ description: "Tunes I play."
 
 ## Slides
 
+- Moss Murphy’s/_Coming through the Rye_/_John Joe Hartnett’s_
 - Cúil Aodha/O’Keefe’s/Kissed the Quaker’s Wife
 - Paddy Cronin’s/If I had a Wife
 - The Lancer's

@@ -176,6 +176,28 @@ description: "Music I'm keeping in mind."
 
 * [Bridal Train](https://www.youtube.com/watch?v=BAjDzP0r7KY)
 
+## Ian Anderson
+
+* [Sanctuary](https://www.youtube.com/watch?v=fw5EczaPMiA)
+
+## Skyedance
+
+* [Walking the Plank](https://www.youtube.com/watch?v=zFZU98NW4y4)
+
+## Silje Neergard
+
+* [Be Still My Heart - live](https://www.youtube.com/watch?v=dArRJSqIHlI)
+* [Be Still My Heart - studio](https://www.youtube.com/watch?v=1_gaX5ptfWA)
+
+# László Dés
+
+* [O.Z.](https://www.youtube.com/watch?v=DqRsTJ1EkCI)
+* [Free Sounds Quartet - BMC Live](https://www.youtube.com/watch?v=jh-XC_gaYts)
+
+# Daniel Mille
+
+* [Les Minots](https://www.youtube.com/watch?v=bEkGMS3B1eQ)
+
 ## Sonic Garbage (just start clicking)
 
 * [Sonic Garbage](https://sonicgarbage.greg.technology)

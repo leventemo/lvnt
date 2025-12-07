@@ -27,8 +27,8 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - The Hag At The Churn/Patsy Geary’s Slide
 - The Wren's Nest/Banish Misfortune
 - Calliope House/The Cowboy Jig/Carraroe
+- Anne Fraser MacKenzie/Peggy's/Charlie Hunter
 - Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
-- _Anne Fraser MacKenzie_/_Peggy's_/_Charlie Hunter_
 - _The Smiling Bride_/_The Handsome Young Maidens_
 - Rambling Pitchfork/_Sorry I Am For What I Have Done_/_Humours Of Ballingarry_
 - _The Swallowtail_/_The Pipers Of Roguery_/_The Tenpenny Bit_
@@ -42,7 +42,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Leslie's March
 - Blarney Pilgrim
 - Rolling Waves
-- Monaghan
+- Monaghan Jig
 - _Lark In The Morning_
 - _The Frost Is All Over_
 - _Gallagher's Frolics_
@@ -88,8 +88,8 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Leitrim Fancy
 - Rights Of Man/_King Of The Fairies_
 - _The Galway Hornpipe_/The Flowers Of Edinburgh
+- _The Peacock’s Feather #1_/The Peacock's Feather #2
 - _Petronella_
-- _The Peacock’s Feather #1_/_The Peacock's Feather #2_
 
 ## Reels
 
@@ -107,6 +107,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Dunmore Lasses/Morning Dew/The Star Of Munster
 - Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
 - Salamanca Reel/The Banshee (McMahon's)/Sailor's Bonnet
+- Pigeon on the Gate/The Glen of Acherlow/Tarbolton
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
 - _Paddy Fahey’s_/_Francie Donnellan’s_/_The Fisherman’s Island_
 - _Ríl An Spidéil_/_The Twelve Pins_
@@ -123,6 +124,8 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - The Providence Reel
 - The Laurel Tree
 - The Morning Star
+- Da New-Riggit
+- Miss Monaghan
 - _Julia Delaney's_
 - _The Man Of Aran_
 - _Mother And Child_

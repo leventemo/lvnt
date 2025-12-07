@@ -22,6 +22,10 @@ description: "Miscellaneous links worth revisiting."
 
 [Historic Borders](https://historicborders.app) - in steps of 100 years
 
+## Typography
+
+[AULD ENGLISH](https://www.auldenglish.com/)
+
 ## Data Visualization
 
 [Dataviz vocabulary](https://ft-interactive.github.io/visual-vocabulary/) - types of chart categorized
@@ -118,6 +122,8 @@ description: "Miscellaneous links worth revisiting."
 
 ## Misc Tech
 
+[VSCode October 2025](https://code.visualstudio.com/updates/v1_106)
+
 [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 
 [Handling routes in JavaScript projects](https://www.seancdavis.com/posts/handling-routes-in-javascript-projects)
@@ -147,6 +153,8 @@ description: "Miscellaneous links worth revisiting."
 [Beyond the Hype](https://www.youtube.com/watch?v=Pv0cfsastFs) - a realistic look at Large Language Models
 
 ## TS
+
+[17 New(ish) Vanilla JavaScript Features You Might Have Missed](https://tighten.com/insights/new-ish-vanilla-javascript-features-you-might-have-missed/)
 
 [Unions and intersections of object types in TypeScript](https://2ality.com/2025/03/object-type-union-intersection.html) - explore use cases
 
