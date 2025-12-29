@@ -22,7 +22,7 @@ To use an example from the last years of Franco's dictatorhip in Spain, home to 
 
 The simple fact that some people still remember this story is proof that airtime can only be a hotbed, not the essence. Do we make a conscious attempt to separate communication/airtime from governance every time we go to the polls and between them? Do we go out and try to listen to the stories that surface in the living memory of our "popular culture" and see what they can teach us? I think we should.
 
-Here's one from Eastern Europe my neighbour told me a few weeks ago to finish this post. Men in a field, in uniforms of two different colors. One color has guns, the other has spades. Everyone is starving. One of the diggers finds a beetroot and starts munching on it, barely separating soil from food ...
+Here's one from Eastern Europe my neighbour told me a few weeks ago. Men in a field, in uniforms of two different colors. One color has guns, the other has spades. Everyone is starving. One of the diggers finds a beetroot and starts munching on it, barely separating soil from food ...
 
 You have guessed the ending, right? It's local but the deeper you delve into the local, the faster you end up in the universal, as the cliché goes. One interesting detail is, there are no words of any human language uttered from the beginning to the end of the story.
 
