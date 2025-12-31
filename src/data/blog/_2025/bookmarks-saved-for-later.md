@@ -122,6 +122,10 @@ description: "Miscellaneous links worth revisiting."
 
 ## Misc Tech
 
+[A Comprehensive Guide on HAR Files](https://www.keysight.com/blogs/en/tech/nwvs/2022/05/27/a-comprehensive-guide-on-har-files)
+
+[Programming principles for self taught front-end developers](https://piccalil.li/blog/programming-principles-for-self-taught-front-end-developers/?ref=sidebar)
+
 [VSCode October 2025](https://code.visualstudio.com/updates/v1_106)
 
 [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
