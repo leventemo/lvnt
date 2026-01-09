@@ -159,6 +159,7 @@ description: "My response to the question of who to listen to if you want to exp
 
 ### video
 
+- [Jim Donoghue/Touch Me If You Dare/Jim Kelly's (with Colm O'Donnell)](https://www.youtube.com/watch?v=aMoAM2bkh34)
 - [Colonel Fraser's](https://www.youtube.com/watch?v=z4NannKg3qQ)
 - [The Gate To Southwell Folk Festival 2012 #1](https://www.youtube.com/watch?v=urBS6_p66Mg)
 - [The Gate To Southwell Folk Festival 2012 #2](https://www.youtube.com/watch?v=sKjwDWlNVVg)
