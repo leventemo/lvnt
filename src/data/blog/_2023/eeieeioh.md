@@ -15,4 +15,4 @@ __eeieeioh__ is the biggest personal projects I've worked on. It is a collection
 
 [code](https://github.com/leventemo/eeieeioh)
 
-[online](https://eeieeioh.com/home)
+[online](https://proto-topaz.vercel.app/home)
