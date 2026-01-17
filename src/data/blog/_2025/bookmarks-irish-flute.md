@@ -107,6 +107,12 @@ description: "My response to the question of who to listen to if you want to exp
 - [Willie Clancy Summer School, 2024](https://www.youtube.com/watch?v=5Ruq7ko5CzI)
 - [Comhaltas Irish Tour, 2018](https://www.youtube.com/watch?v=X-99uTxg0xY)
 
+## Oisín Morrison
+
+### video
+
+- [Fred Finn's/Sailor on the Rock/Tomeen O'Dea's Reel](https://www.youtube.com/watch?v=YP5HGWjR5q4)
+
 ## Brendan Mulholland
 
 ### video
