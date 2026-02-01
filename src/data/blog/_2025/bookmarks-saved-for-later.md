@@ -120,7 +120,15 @@ description: "Miscellaneous links worth revisiting."
 
 [Refactoring a form to a Signal Form](https://timdeschryver.dev/blog/refactoring-a-form-to-a-signal-form)
 
+## CSS
+
+[Understanding the fundamentals of CSS Layout](https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/?cmid=4b1663be-a740-476f-9f57-18289c1caf3b)
+
+[A fluid CSS methodology](https://willybrauner.com/journal/a-fluid-css-methodology)
+
 ## Misc Tech
+
+[How Browsers Work](https://howbrowserswork.com/?ref=sidebar)
 
 [A Comprehensive Guide on HAR Files](https://www.keysight.com/blogs/en/tech/nwvs/2022/05/27/a-comprehensive-guide-on-har-files)
 
@@ -143,8 +151,6 @@ description: "Miscellaneous links worth revisiting."
 [searchable dropdon](https://javascript.plainenglish.io/how-to-build-a-searchable-dropdown-with-fetch-api-and-json-data-ab409d1b244a) - in JS.
 
 [View Transitions](https://www.builder.io/blog/view-transitions) - replace your JavaScript Animation Library with View Transitions
-
-[A fluid CSS methodology](https://willybrauner.com/journal/a-fluid-css-methodology)
 
 [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
