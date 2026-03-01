@@ -171,6 +171,19 @@ description: "My response to the question of who to listen to if you want to exp
 - [The Gate To Southwell Folk Festival 2012 #1](https://www.youtube.com/watch?v=urBS6_p66Mg)
 - [The Gate To Southwell Folk Festival 2012 #2](https://www.youtube.com/watch?v=sKjwDWlNVVg)
 
+## Aoife Granville
+
+### video
+
+- [An Buachaillín Donn/Didn’t She Dance and Dance](https://www.youtube.com/watch?v=Pnc0GybRWkc)
+- [The Limestone Rock & The Galway Rambler](https://www.youtube.com/watch?v=3vzNGNg6tk8)
+
+### albums
+
+- [Shráid Eoin Shuffle](https://www.youtube.com/watch?v=AjaDIwxXLI8&list=OLAK5uy_lclY68uvHKTB5kWUXm5LS9W-BoF350xTM)
+- [Sáimhín Só](https://www.youtube.com/watch?v=7NEmiaRhI_E&list=OLAK5uy_kD8MgD-kqm3Oyq0JYVOomPBsNFdFFyP48)
+-
+
 ## Eimear McGeown
 
 ### video

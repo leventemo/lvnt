@@ -198,6 +198,14 @@ description: "Music I'm keeping in mind."
 
 * [Les Minots](https://www.youtube.com/watch?v=bEkGMS3B1eQ)
 
+# Anouar Brahem
+
+* [Astracan Cafe](https://www.youtube.com/watch?v=XfAtFDiTM1M)
+* [Halfaouine](https://www.youtube.com/watch?v=PhVUm29rHEc)
+
+# Idrîsî Ensemble
+[Ar em al freg temps vengut](https://www.youtube.com/watch?v=ixdXKs-7am0)
+
 ## Sonic Garbage (just start clicking)
 
 * [Sonic Garbage](https://sonicgarbage.greg.technology)

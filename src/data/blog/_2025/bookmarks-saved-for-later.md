@@ -18,6 +18,8 @@ description: "Miscellaneous links worth revisiting."
 
 [Naz Hamid](https://nazhamid.com/journal/) - blogger
 
+[Jeremy Keith](https://adactio.com/) - blogger
+
 [Calculating Empires](https://calculatingempires.net) - info-packed overview of technology and power since 1500
 
 [Historic Borders](https://historicborders.app) - in steps of 100 years
