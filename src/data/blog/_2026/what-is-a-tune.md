@@ -19,7 +19,7 @@ Then you've got like all the people who ever played that tune in the past and ho
 
 And all the people in the future who will learn it in the future and all the ways they will play it throughout their lifetimes.
 
-And then, you know, all the ways it could be be played.
+And then, you know, all the ways it could be played.
 
 And so you've got this very interesting kind of stack of possibilities. And imagine if you were a computer navigating how do I play this tune and how do I make my decisions in the moment, what note am I going to play next for how long, at what volume, at what precise pitch and all the other kind of choices that are open to us as musicians.
 
