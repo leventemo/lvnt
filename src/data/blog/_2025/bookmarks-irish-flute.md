@@ -94,6 +94,7 @@ description: "My response to the question of who to listen to if you want to exp
 ### video
 
 - [Céin Sweeney & Barry Conaty: Showcase concert at Cruinniú na bhFliúit, 2021](https://www.youtube.com/watch?v=_yAK9yfjSH0)
+- [with Tadhg Ó Maolagáin – Patrick O'Keeffe Festival Castleisland Kerry 2024](https://www.youtube.com/watch?v=-TwDF2e-4Qo)
 
 ### albums
 
@@ -170,6 +171,10 @@ description: "My response to the question of who to listen to if you want to exp
 - [Colonel Fraser's](https://www.youtube.com/watch?v=z4NannKg3qQ)
 - [The Gate To Southwell Folk Festival 2012 #1](https://www.youtube.com/watch?v=urBS6_p66Mg)
 - [The Gate To Southwell Folk Festival 2012 #2](https://www.youtube.com/watch?v=sKjwDWlNVVg)
+
+## Colm O'Donnell
+
+- [A Stór Mo Chroí](https://vimeo.com/163538667)
 
 ## Aoife Granville
 
