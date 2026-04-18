@@ -108,8 +108,9 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
 - Salamanca Reel/The Banshee (McMahon's)/Sailor's Bonnet
 - Pigeon on the Gate/The Glen of Acherlow/Tarbolton
+- Devanny’s Goat/The Galway Rambler/Last Night’s Fun
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
-- _Paddy Fahey’s_/_Francie Donnellan’s_/_The Fisherman’s Island_
+- _Paddy Fahey’s_/_Francie Donnellan’s_/The Fisherman’s Island
 - _Ríl An Spidéil_/_The Twelve Pins_
 - _Porthole Of The Kelp_/_The Maids Of Mitchelstown_
 - Bag Of Spuds
