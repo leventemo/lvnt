@@ -133,7 +133,6 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - _Lucy Campbell's_
 - _Sally Gardens_
 - _Christmas Eve_
-- _The Galway Rambler_
 - _Tim Maloney's_
 - _The Bucks of Oranmore_
 - _The Congress Reel_
