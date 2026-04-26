@@ -28,7 +28,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - The Wren's Nest/Banish Misfortune
 - Calliope House/The Cowboy Jig/Carraroe
 - Anne Fraser MacKenzie/Peggy's/Charlie Hunter
-- Tobin’s/_Pay The Reckoning_/_Contentment Is Wealth_
+- Tobin’s/Pay The Reckoning/Contentment Is Wealth
 - _The Smiling Bride_/_The Handsome Young Maidens_
 - Rambling Pitchfork/_Sorry I Am For What I Have Done_/_Humours Of Ballingarry_
 - _The Swallowtail_/_The Pipers Of Roguery_/_The Tenpenny Bit_
@@ -102,7 +102,8 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - The Galtee Rangers/Glentown Reel/The Doon
 - Cup Of Tea/Silver Spear/The Humours Of Tulla
 - Tommy Peoples’/_The Long Drop_/Drowsie Maggie
-- The Musical Priest/John Stetson’s #2
+- The Musical Priest/John Stenson’s #2
+- The Musical Priest/Master Crowley’s/The Cameronian
 - Within A Mile Of Dublin/Sword In The Hand/Miss McLeod's
 - Dunmore Lasses/Morning Dew/The Star Of Munster
 - Father Kelly’s/_Reconciliation Reel_/Mountain Road/_MacArthur Road_
