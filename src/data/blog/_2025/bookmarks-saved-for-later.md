@@ -164,6 +164,8 @@ description: "Miscellaneous links worth revisiting."
 
 [Beyond the Hype](https://www.youtube.com/watch?v=Pv0cfsastFs) - a realistic look at Large Language Models
 
+[After Automation](https://every.to/p/after-automation)
+
 ## TS
 
 [17 New(ish) Vanilla JavaScript Features You Might Have Missed](https://tighten.com/insights/new-ish-vanilla-javascript-features-you-might-have-missed/)
