@@ -29,6 +29,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Calliope House/The Cowboy Jig/Carraroe
 - Anne Fraser MacKenzie/Peggy's/Charlie Hunter
 - Tobin’s/Pay The Reckoning/Contentment Is Wealth
+- Condon's Frolics/_The Humours Of Ennistymon_/Coleman's Cross
 - _The Smiling Bride_/_The Handsome Young Maidens_
 - Rambling Pitchfork/_Sorry I Am For What I Have Done_/_Humours Of Ballingarry_
 - _The Swallowtail_/_The Pipers Of Roguery_/_The Tenpenny Bit_
@@ -36,7 +37,6 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - _Christy Barry’s #1_/_Christy Barry’s #2_
 - _The Hole In The Hedge_/_Seamus Cooley’s_
 - _The Castle (Sean Ryan's)_/_The Nightingale_
-- _Condon's Frolics_/_The Humours Of Ennistymon_/_Coleman's Crossd_
 - Lonesome Jig
 - Morrison’s
 - Leslie's March
@@ -75,7 +75,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Balleydesmond 2/Balleydesmond 1/_Cathy’s Favourite_
 - The Siege Of Ennis/Balleydesmond 2/Ned Kelly’s Polka
 - The Glen Cottage #1/The Glen Cottage #2
-- _Din Tarrant’s_/_Tom Barrett’s_/_O’Connor’s (Hayden's Fancy)_
+- Din Tarrant’s/Tom Barrett’s/O’Connor’s (Hayden's Fancy)
 - _Jer O’Connel’s_/_Patrick O’Connor’s_/Oh The Britches Full Of Stitches
 - Kerry Polka
 
