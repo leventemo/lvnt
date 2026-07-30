@@ -14,6 +14,9 @@ description: "Before that kick lands on that bucket."
 
 ## To get
 
+[Sarah Wilson: I Eat the Stars](https://www.penguinrandomhouse.com/books/808096/i-eat-the-stars-by-sarah-wilson/)
+* [interview](https://www.theguardian.com/wellness/2026/jul/29/sarah-wilson-book-interview)
+
 [Tim O’Grady and Steve Pyke: I Could Read the Sky](https://www.dannymorrison.com/i-could-read-the-sky/)
 
 [Goliath's Curse, The History and Future of Societal Collapse](https://www.penguin.co.uk/books/321192/goliaths-curse-by-kemp-luke/9780241741238) by Luke Kemp, Viking Penguin, 2025
