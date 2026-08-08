@@ -10,4 +10,4 @@ tags:
 description: "Live hard? Meh."
 ---
 
-An erect penis is just a balloon, filled with blood rather than air. The harder it is, the closer it is to popping. Consider this before you fabricate a philosophy for yourself to guide you through life, macho.
+An erect penis is just a balloon, filled with blood rather than air. Like a balloon, the harder it is, the closer it is to popping. Consider this before you fabricate a philosophy for yourself to guide you through life, macho.
