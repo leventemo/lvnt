@@ -76,6 +76,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - The Siege Of Ennis/Balleydesmond 2/Ned Kelly’s Polka
 - The Glen Cottage #1/The Glen Cottage #2
 - Din Tarrant’s/Tom Barrett’s/O’Connor’s (Hayden's Fancy)
+- Patneen Ahern’s/Moss Murphy’s/John Joe Harnett’s
 - _Jer O’Connel’s_/_Patrick O’Connor’s_/Oh The Britches Full Of Stitches
 - Kerry Polka
 
@@ -128,6 +129,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - The Morning Star
 - Da New-Riggit
 - Miss Monaghan
+- Air Tune
 - _Julia Delaney's_
 - _The Man Of Aran_
 - _Mother And Child_
