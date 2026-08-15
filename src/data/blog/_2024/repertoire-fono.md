@@ -65,8 +65,6 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - The Brosna #2/The Weavers/Danny Ab's
 - The Road To Lisdoonvarna
 - Patsy Geary’s Slide
-- _The Brosna #2_
-- _The Weavers_
 
 ## Polkas
 
