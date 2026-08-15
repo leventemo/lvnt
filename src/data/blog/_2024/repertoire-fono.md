@@ -62,6 +62,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 
 - The Brosna #1/Denis Murphy’s/Dingle Regatta
 - Star Above The Garter/Johnny Mickey’s/Dingle Regatta
+- The Brosna #2/The Weavers/Danny Ab's
 - The Road To Lisdoonvarna
 - Patsy Geary’s Slide
 - _The Brosna #2_
