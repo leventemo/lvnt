@@ -116,6 +116,11 @@ description: "My response to the question of who to listen to if you want to exp
 
 ## Martin Meehan
 
+### video
+
+- [The Hag's Purse/The Banks of Newfoundland](https://www.youtube.com/watch?v=gjsvwKMLVQg)
+- [Molly Eamonn Mór/Man of the House/...](https://www.youtube.com/watch?v=3N-HkLwj-Ow)
+
 ### albums
 
 - [Three's Company](https://www.youtube.com/watch?v=ylag1kMKDK0&list=OLAK5uy_lQcFBYlLQ-7-5rAp-bPyo1HEpxeHz5og4)
