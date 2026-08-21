@@ -119,7 +119,7 @@ description: "My response to the question of who to listen to if you want to exp
 ### video
 
 - [The Hag's Purse/The Banks of Newfoundland](https://www.youtube.com/watch?v=gjsvwKMLVQg)
-- [Molly Eamonn Mór/Man of the House/...](https://www.youtube.com/watch?v=3N-HkLwj-Ow)
+- [Molly Eamonn Mór/Man of the House/The High Hills of Largy](https://www.youtube.com/watch?v=3N-HkLwj-Ow)
 
 ### albums
 
