@@ -114,6 +114,13 @@ description: "My response to the question of who to listen to if you want to exp
 
 - [Fred Finn's/Sailor on the Rock/Tomeen O'Dea's Reel](https://www.youtube.com/watch?v=YP5HGWjR5q4)
 
+## Martin Meehan
+
+### albums
+
+- [Three's Company](https://www.youtube.com/watch?v=ylag1kMKDK0&list=OLAK5uy_lQcFBYlLQ-7-5rAp-bPyo1HEpxeHz5og4)
+- [The Fox's Lament](https://www.youtube.com/watch?v=bRZQEKX6yr8&list=OLAK5uy_m14S_kAWKFM_R3UbXFp-y_Gefv5Ox3hJ4)
+
 ## Brendan Mulholland
 
 ### video
