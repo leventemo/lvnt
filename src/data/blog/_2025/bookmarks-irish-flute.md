@@ -126,6 +126,19 @@ description: "My response to the question of who to listen to if you want to exp
 - [Three's Company](https://www.youtube.com/watch?v=ylag1kMKDK0&list=OLAK5uy_lQcFBYlLQ-7-5rAp-bPyo1HEpxeHz5og4)
 - [The Fox's Lament](https://www.youtube.com/watch?v=bRZQEKX6yr8&list=OLAK5uy_m14S_kAWKFM_R3UbXFp-y_Gefv5Ox3hJ4)
 
+## Jillian O'Malley
+
+### video
+
+- [Reels](https://www.youtube.com/watch?v=ZVSE_yCAUIA)
+- [O'Connels Trip to Parliament/The Pretty Girls of Mayo](https://www.youtube.com/watch?v=EyTWcGJ7M-g)
+- [single reels](https://www.youtube.com/watch?v=VF-CyU1X2z4)
+- [Killadoon Jig](https://www.youtube.com/watch?v=qro3-FOQ38E)
+
+### albums
+
+- [An Bhearna Bhán](https://jillianomalley.bandcamp.com/album/an-bhearna-bh-n)
+
 ## Brendan Mulholland
 
 ### video
