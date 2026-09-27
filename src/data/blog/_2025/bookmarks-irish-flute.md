@@ -105,7 +105,8 @@ description: "My response to the question of who to listen to if you want to exp
 
 ### video
 
-- [Willie Clancy Summer School, 2024](https://www.youtube.com/watch?v=5Ruq7ko5CzI)
+- [Willie Clancy Summer School, 2024 - reels](https://www.youtube.com/watch?v=5Ruq7ko5CzI)
+- [Willie Clancy Summer School, 2024 - jigs](https://www.youtube.com/watch?v=SFC9TVY3goc)
 - [Comhaltas Irish Tour, 2018](https://www.youtube.com/watch?v=X-99uTxg0xY)
 
 ## Oisín Morrison

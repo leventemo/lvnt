@@ -29,7 +29,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Calliope House/The Cowboy Jig/Carraroe
 - Anne Fraser MacKenzie/Peggy's/Charlie Hunter
 - Tobin’s/Pay The Reckoning/Contentment Is Wealth
-- Condon's Frolics/_The Humours Of Ennistymon_/Coleman's Cross
+- Condon's Frolics/The Humours Of Ennistymon/Coleman's Cross
 - _The Smiling Bride_/_The Handsome Young Maidens_
 - Rambling Pitchfork/_Sorry I Am For What I Have Done_/_Humours Of Ballingarry_
 - _The Swallowtail_/_The Pipers Of Roguery_/_The Tenpenny Bit_
@@ -101,7 +101,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - The Temperance Reel/George White’s Favourite/The Virginia Reel
 - The Galtee Rangers/Glentown Reel/The Doon
 - Cup Of Tea/Silver Spear/The Humours Of Tulla
-- Tommy Peoples’/_The Long Drop_/Drowsie Maggie
+- Tommy Peoples’/The Long Drop/Drowsie Maggie
 - The Musical Priest/John Stenson’s #2
 - The Musical Priest/Master Crowley’s/The Cameronian
 - Within A Mile Of Dublin/Sword In The Hand/Miss McLeod's
@@ -111,7 +111,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Pigeon on the Gate/The Glen of Acherlow/Tarbolton
 - Devanny’s Goat/The Galway Rambler/Last Night’s Fun
 - _Farewell To Ireland_/_Gravel Walk_/_Toss the Feathers_
-- _Paddy Fahey’s_/_Francie Donnellan’s_/The Fisherman’s Island
+- Paddy Fahey’s/_Francie Donnellan’s_/The Fisherman’s Island
 - _Ríl An Spidéil_/_The Twelve Pins_
 - _Porthole Of The Kelp_/_The Maids Of Mitchelstown_
 - Bag Of Spuds
@@ -129,9 +129,9 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 - Da New-Riggit
 - Miss Monaghan
 - Air Tune
+- Mother And Child
 - _Julia Delaney's_
 - _The Man Of Aran_
-- _Mother And Child_
 - _Lucy Campbell's_
 - _Sally Gardens_
 - _Christmas Eve_
@@ -155,6 +155,7 @@ description: "Tunes played at the Irish session in Fonó, Budapest."
 
 - Inisheer
 - Give Me Your Hand
+- Looking at a Rainbow through a Dirty Windows
 
 ## Schottische
 

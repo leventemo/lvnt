@@ -166,6 +166,10 @@ description: "Miscellaneous links worth revisiting."
 
 [After Automation](https://every.to/p/after-automation)
 
+[Run AI in the Browser: A Practical Guide to Transformers.js](https://tighten.com/insights/run-ai-in-the-browser-a-practical-guide-to-transformers-js/)
+
+[HuggingFace](https://huggingface.co/)
+
 ## TS
 
 [17 New(ish) Vanilla JavaScript Features You Might Have Missed](https://tighten.com/insights/new-ish-vanilla-javascript-features-you-might-have-missed/)
